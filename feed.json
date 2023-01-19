@@ -7,6 +7,66 @@
 	"items": [
 		
 			{
+				"id": "http://davidmarsden.micro.blog/2023/01/17/good-enough-to.html",
+				
+				"content_html": "<p>Good enough to eat!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Good enough to eat!\n\n<img src=\"uploads/2023/f175042195.jpg\" width=\"600\" height=\"393\" alt=\"\"><img src=\"uploads/2023/e4013a54eb.jpg\" width=\"600\" height=\"324\" alt=\"\">\n",
+				"date_published": "2023-01-17T14:12:25+00:00",
+				"url": "https://davidmarsden.info/2023/01/17/good-enough-to.html",
+				"tags": ["Food"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2023/01/17/school-caretaker-this.html",
+				
+				"content_html": "<p>School caretaker this morning gritted the playground before we all arrived, and helpfully marked the still frozen large puddles with hazard cones so that the kids knew exactly where the best ice patches were for skidding practice.</p>\n",
+				"content_text": "School caretaker this morning gritted the playground before we all arrived, and helpfully marked the still frozen large puddles with hazard cones so that the kids knew exactly where the best ice patches were for skidding practice.\n",
+				"date_published": "2023-01-17T12:38:09+00:00",
+				"url": "https://davidmarsden.info/2023/01/17/school-caretaker-this.html",
+				"tags": ["Kids"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2023/01/17/waiting-for-my.html",
+				
+				"content_html": "<p>Waiting for my 🍕 dough to rise&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Waiting for my 🍕 dough to rise...\n\n<img src=\"uploads/2023/1dca4978ab.jpg\" width=\"600\" height=\"505\" alt=\"\">\n",
+				"date_published": "2023-01-17T12:35:29+00:00",
+				"url": "https://davidmarsden.info/2023/01/17/waiting-for-my.html",
+				"tags": ["Food"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2023/01/16/lovely-early-evening.html",
+				
+				"content_html": "<p>Lovely early evening sky tonight.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Lovely early evening sky tonight.\n\n<img src=\"https://davidmarsden.info/uploads/2023/6905d7fea0.jpg\" width=\"600\" height=\"358\" alt=\"\"><img src=\"https://davidmarsden.info/uploads/2023/6c4e7997a6.jpg\" width=\"600\" height=\"428\" alt=\"\">\n",
+				"date_published": "2023-01-16T16:31:59+00:00",
+				"url": "https://davidmarsden.info/2023/01/16/lovely-early-evening.html"
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2023/01/16/big-kid-woke.html",
+				
+				"content_html": "<p>Big kid woke up with a sore throat and didn&rsquo;t want to go to school. Gave him paracetamol and told him he should spend the day in bed to recover. Half an hour later he bounced back into the living room with &ldquo;<strong>I&rsquo;m back</strong>&rdquo;.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Big kid woke up with a sore throat and didn't want to go to school. Gave him paracetamol and told him he should spend the day in bed to recover. Half an hour later he bounced back into the living room with \"**I'm back**\".\n\n<img src=\"https://davidmarsden.info/uploads/2023/4ad268047c.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://davidmarsden.info/uploads/2023/b5ad0fc040.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://davidmarsden.info/uploads/2023/e3412390e7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-01-16T13:09:35+00:00",
+				"url": "https://davidmarsden.info/2023/01/16/big-kid-woke.html",
+				"tags": ["Kids","Trees"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2023/01/15/a-few-more.html",
+				
+				"content_html": "<p>A few more pics of the long-derelict old sports centre at what is now Warren Farm Nature Reserve.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "A few more pics of the long-derelict old sports centre at what is now Warren Farm Nature Reserve.\n\n<img src=\"https://davidmarsden.info/uploads/2023/a76f08f197.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://davidmarsden.info/uploads/2023/522bd371b9.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://davidmarsden.info/uploads/2023/66c08c39e6.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://davidmarsden.info/uploads/2023/7439e9b060.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-01-15T19:45:14+00:00",
+				"url": "https://davidmarsden.info/2023/01/15/a-few-more.html"
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2023/01/15/trip-to-warren.html",
+				
+				"content_html": "<p>Trip to Warren Farm this afternoon in the wind and the rain.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Trip to Warren Farm this afternoon in the wind and the rain.\n\n<img src=\"https://davidmarsden.info/uploads/2023/d10fdc89ac.jpg\" width=\"600\" height=\"199\" alt=\"\">\n",
+				"date_published": "2023-01-15T17:28:48+00:00",
+				"url": "https://davidmarsden.info/2023/01/15/trip-to-warren.html"
+			},
+			{
 				"id": "http://davidmarsden.micro.blog/2023/01/12/new-podcast-international.html",
 				
 				"content_html": "<p>New podcast, International Marxist Radio (IMR).</p>\n<p>The <a href=\"https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RjYXN0Lm1hcnhpc3QuY29tL2NhdGVnb3J5L2ludGVybmF0aW9uYWwtbWFyeGlzdC1yYWRpby9mZWVkLw/episode/aHR0cHM6Ly9wb2RjYXN0Lm1hcnhpc3QuY29tLz9wPTExOQ?ep=14\">first episode</a> features Ealing&rsquo;s own Joe Attard speaking to In Defence of Marxism (IDOM) editor-in-chief Alan Woods.</p>\n<p>Well worth a listen, Alan is a very knowledgeable and engaging speaker.</p>\n",
@@ -19,7 +79,7 @@
 				"id": "http://davidmarsden.micro.blog/2023/01/08/hp-sauce-in.html",
 				
 				"content_html": "<p>HP sauce in the gravy adds a sweetness and edge to the pie. The carrots and leeks roasted together are sweet and sharp, too.</p>\n<p>Little kid cried when I gave him some on his plate. He had his favourite chicken pie instead.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "HP sauce in the gravy adds a sweetness and edge to the pie. The carrots and leeks roasted together are sweet and sharp, too.  \r\n  \r\nLittle kid cried when I gave him some on his plate. He had his favourite chicken pie instead.\n\n<img src=\"uploads/2023/1888ee3052.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "HP sauce in the gravy adds a sweetness and edge to the pie. The carrots and leeks roasted together are sweet and sharp, too.  \r\n  \r\nLittle kid cried when I gave him some on his plate. He had his favourite chicken pie instead.\n\n<img src=\"https://davidmarsden.info/uploads/2023/1888ee3052.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-08T14:14:10+00:00",
 				"url": "https://davidmarsden.info/2023/01/08/hp-sauce-in.html",
 				"tags": ["Kids","Food"]
@@ -37,7 +97,7 @@
 				"id": "http://davidmarsden.micro.blog/2023/01/06/frying-chips-first.html",
 				
 				"content_html": "<p>Frying chips. First batch done.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Frying chips. First batch done.\n\n<img src=\"uploads/2023/1fd7f190cd.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/2b4181cd32.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Frying chips. First batch done.\n\n<img src=\"https://davidmarsden.info/uploads/2023/1fd7f190cd.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://davidmarsden.info/uploads/2023/2b4181cd32.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-06T12:09:21+00:00",
 				"url": "https://davidmarsden.info/2023/01/06/frying-chips-first.html",
 				"tags": ["Food"]
@@ -55,7 +115,7 @@
 				"id": "http://davidmarsden.micro.blog/2023/01/04/southall-is-a.html",
 				
 				"content_html": "<blockquote>\n<p>&ldquo;Southall is a <a href=\"https://www.urbandictionary.com/define.php?term=vibrant\">run-down crime-ridden area, populated in the main by ethnic minorities</a>.&rdquo;</p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
-				"content_text": "> \"Southall is a [run-down crime-ridden area, populated in the main by ethnic minorities](https://www.urbandictionary.com/define.php?term=vibrant).\"  \n\n<img src=\"uploads/2023/3c91bed3c1.png\" width=\"600\" height=\"354\" alt=\"\">\n",
+				"content_text": "> \"Southall is a [run-down crime-ridden area, populated in the main by ethnic minorities](https://www.urbandictionary.com/define.php?term=vibrant).\"  \n\n<img src=\"https://davidmarsden.info/uploads/2023/3c91bed3c1.png\" width=\"600\" height=\"354\" alt=\"\">\n",
 				"date_published": "2023-01-04T12:57:29+00:00",
 				"url": "https://davidmarsden.info/2023/01/04/southall-is-a.html"
 			},
@@ -89,7 +149,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/12/25/cracker-joke.html",
 				
 				"content_html": "<p>Cracker joke.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Cracker joke.\n\n<img src=\"uploads/2022/4cc97305fb.jpg\" width=\"600\" height=\"282\" alt=\"\">\n",
+				"content_text": "Cracker joke.\n\n<img src=\"https://davidmarsden.info/uploads/2022/4cc97305fb.jpg\" width=\"600\" height=\"282\" alt=\"\">\n",
 				"date_published": "2022-12-25T17:53:16+00:00",
 				"url": "https://davidmarsden.info/2022/12/25/cracker-joke.html"
 			},
@@ -148,7 +208,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/12/20/man-carrying-straw.html",
 				
 				"content_html": "<p>Man carrying straw on a pitchfork?</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Man carrying straw on a pitchfork?\n\n<img src=\"uploads/2022/ce1fbc6c2a.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2022/d79e7bd155.jpg\" width=\"382\" height=\"600\" alt=\"\">\n",
+				"content_text": "Man carrying straw on a pitchfork?\n\n<img src=\"https://davidmarsden.info/uploads/2022/ce1fbc6c2a.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://davidmarsden.info/uploads/2022/d79e7bd155.jpg\" width=\"382\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-20T18:03:49+00:00",
 				"url": "https://davidmarsden.info/2022/12/20/man-carrying-straw.html",
 				"tags": ["Trees"]
@@ -184,7 +244,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/12/16/my-kids-teacher.html",
 				
 				"content_html": "<p>My kid&rsquo;s teacher gave everyone a book for Xmas, which is an amazing thing to do.</p>\n<p>According to my lad, everyone&rsquo;s book was different&hellip;</p>\n<p>I think he&rsquo;s been well and truly rumbled!</p>\n<p>Kids' books: <a href=\"https://micro.blog/books/9781847156662\">Fame!</a> by Alan MacDonald 📚</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My kid's teacher gave everyone a book for Xmas, which is an amazing thing to do.\r\n\r\nAccording to my lad, everyone's book was different...\r\n\r\nI think he's been well and truly rumbled!\r\n\r\nKids' books: [Fame!](https://micro.blog/books/9781847156662) by Alan MacDonald 📚\n\n<img src=\"uploads/2022/d5021dce8f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "My kid's teacher gave everyone a book for Xmas, which is an amazing thing to do.\r\n\r\nAccording to my lad, everyone's book was different...\r\n\r\nI think he's been well and truly rumbled!\r\n\r\nKids' books: [Fame!](https://micro.blog/books/9781847156662) by Alan MacDonald 📚\n\n<img src=\"https://davidmarsden.info/uploads/2022/d5021dce8f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-16T19:57:02+00:00",
 				"url": "https://davidmarsden.info/2022/12/16/my-kids-teacher.html",
 				"tags": ["Kids"]
@@ -193,7 +253,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/12/16/the-property-lobby.html",
 				"title": "The Property Lobby: The Hidden Reality Behind the Housing Crisis in Ealing ",
 				"content_html": "<p>There will be 14,800 new homes in 23 new developments in Southall over the next few years. 14 units over 10 stories high, and 7 over 20 stories high. Up to 40,000 new residents (and their cars)!</p>\n<p>One third of the total new developments in the whole of Ealing borough (only Acton is getting it worse).</p>\n<!-- raw HTML omitted -->\n<p>So not happening so much in the &lsquo;white&rsquo; or richer areas of the borough, for some reason.</p>\n<p>None of these homes will be genuinely affordable to most people currently living in overcrowded homes in Southall or Ealing, as Studio bedsit flats start at around £300,000!</p>\n<p>Most will stay empty until they are sold to investors from China, Malaysia, Singapore, Bahrain(!) where they are actively marketed by the greedy property developers.</p>\n<!-- raw HTML omitted -->\n<p>The same property developers who gave former Ealing Council &lsquo;Leader&rsquo; Julian Bell and new Ealing Council &lsquo;Leader&rsquo; Peter Mason (also a Southall Green ward councillor) over £30,000 in recent years to holiday in the south of France at the MIPIM property festival in Cannes described as a &ldquo;booze &lsquo;n&rsquo; hookerfest&rdquo; by Private Eye Magazine.</p>\n<p>Bell says, &ldquo;it didn&rsquo;t cost the taxpayer a penny&rdquo;, but in Southall we are already paying with our health and quality of life thanks to the poisonous air from the development of the contaminated old gasworks site (due to complete in 2038!).</p>\n<!-- raw HTML omitted -->\n<p>Town planner Mason says it was a mistake, and not what he expected(!).</p>\n<p>Where will 40,000 new residents' children go to school (and how will they get there and back), how will they get an appointment to see a GP, which hospital will they go to when they need emergency treatment, and how will they get there on the roads already regularly gridlocked by too much traffic?</p>\n<p>Worth taking the time to have a look at <a href=\"https://stopthetowers.info/other-campaigns.\">stopthetowers.info/other-cam&hellip;</a></p>\n<!-- raw HTML omitted -->\n<p>Cllr Mason recommended we read Bob Colenutt&rsquo;s &lsquo;The Property Lobby: The Hidden Reality Behind the Housing Crisis&rsquo;.</p>\n<p>So I did.</p>\n<p>What Colenutt says (and he has a wealth of experience in local authority housing and planning, and in the community resisting property developers), is that developers do have too much power (as Mason argues), but also that local councils and councillors do not do enough to resist, do not have the negotiating skills (contrary to how Mason originally described the importance of trips to MIPIM to &lsquo;negotiate hard&rsquo;), and too readily embrace the &lsquo;financialisation&rsquo; of the land and property market brought about by David Cameron&rsquo;s and Nick Clegg&rsquo;s ConDem government in 2010.</p>\n<!-- raw HTML omitted -->\n<p>So now, we have a very real housing crisis fuelling the huge profits of private developers, all facilitated and egged on by mostly Labour councils too easily rolling over and allowing them to build fewer and fewer &lsquo;genuinely affordable homes&rsquo; (because &ldquo;where&rsquo;s the profit in that?&quot;).</p>\n<p>What Colenutt says loudly and clearly is that without ordinary people&rsquo;s and communities' resistance it would be so much worse, and that to all intents and purposes councils and councillors are in bed with the developers.</p>\n<!-- raw HTML omitted -->\n<p>Non-fiction: <a href=\"https://micro.blog/books/9781447348160\">The Property Lobby: The Hidden Reality behind the Housing Crisis</a> by Bob Colenutt 📚</p>\n",
-				"content_text": "There will be 14,800 new homes in 23 new developments in Southall over the next few years. 14 units over 10 stories high, and 7 over 20 stories high. Up to 40,000 new residents (and their cars)! \n\nOne third of the total new developments in the whole of Ealing borough (only Acton is getting it worse). \n\n <img src=\"uploads/2022/b1778405a3.png\" width=\"600\" height=\"337\" alt=\"\" />\n\nSo not happening so much in the 'white' or richer areas of the borough, for some reason. \n\nNone of these homes will be genuinely affordable to most people currently living in overcrowded homes in Southall or Ealing, as Studio bedsit flats start at around £300,000! \n\nMost will stay empty until they are sold to investors from China, Malaysia, Singapore, Bahrain(!) where they are actively marketed by the greedy property developers. \n\n<img src=\"uploads/2022/17064f05a2.png\" width=\"600\" height=\"337\" alt=\"\" />\n\nThe same property developers who gave former Ealing Council 'Leader' Julian Bell and new Ealing Council 'Leader' Peter Mason (also a Southall Green ward councillor) over £30,000 in recent years to holiday in the south of France at the MIPIM property festival in Cannes described as a \"booze 'n' hookerfest\" by Private Eye Magazine. \n\nBell says, \"it didn't cost the taxpayer a penny\", but in Southall we are already paying with our health and quality of life thanks to the poisonous air from the development of the contaminated old gasworks site (due to complete in 2038!). \n\n<img src=\"uploads/2022/ec54e38273.png\" width=\"600\" height=\"337\" alt=\"\" />\n\nTown planner Mason says it was a mistake, and not what he expected(!). \n\nWhere will 40,000 new residents' children go to school (and how will they get there and back), how will they get an appointment to see a GP, which hospital will they go to when they need emergency treatment, and how will they get there on the roads already regularly gridlocked by too much traffic? \n\nWorth taking the time to have a look at [stopthetowers.info/other-cam...](https://stopthetowers.info/other-campaigns.)\n\n<img src=\"uploads/2022/062607b33e.png\" width=\"600\" height=\"336\" alt=\"\" />\n\nCllr Mason recommended we read Bob Colenutt's 'The Property Lobby: The Hidden Reality Behind the Housing Crisis'. \n\nSo I did. \n\nWhat Colenutt says (and he has a wealth of experience in local authority housing and planning, and in the community resisting property developers), is that developers do have too much power (as Mason argues), but also that local councils and councillors do not do enough to resist, do not have the negotiating skills (contrary to how Mason originally described the importance of trips to MIPIM to 'negotiate hard'), and too readily embrace the 'financialisation' of the land and property market brought about by David Cameron's and Nick Clegg's ConDem government in 2010. \n\n<img src=\"uploads/2022/a96778cd03.png\" width=\"600\" height=\"337\" alt=\"\" />\n\nSo now, we have a very real housing crisis fuelling the huge profits of private developers, all facilitated and egged on by mostly Labour councils too easily rolling over and allowing them to build fewer and fewer 'genuinely affordable homes' (because \"where's the profit in that?\"). \n\nWhat Colenutt says loudly and clearly is that without ordinary people's and communities' resistance it would be so much worse, and that to all intents and purposes councils and councillors are in bed with the developers.\n\n<img src=\"uploads/2022/6ca4a27963.gif\" width=\"600\" height=\"502\" alt=\"\" />\n\nNon-fiction: [The Property Lobby: The Hidden Reality behind the Housing Crisis](https://micro.blog/books/9781447348160) by Bob Colenutt 📚\n",
+				"content_text": "There will be 14,800 new homes in 23 new developments in Southall over the next few years. 14 units over 10 stories high, and 7 over 20 stories high. Up to 40,000 new residents (and their cars)! \n\nOne third of the total new developments in the whole of Ealing borough (only Acton is getting it worse). \n\n <img src=\"https://davidmarsden.info/uploads/2022/b1778405a3.png\" width=\"600\" height=\"337\" alt=\"\" />\n\nSo not happening so much in the 'white' or richer areas of the borough, for some reason. \n\nNone of these homes will be genuinely affordable to most people currently living in overcrowded homes in Southall or Ealing, as Studio bedsit flats start at around £300,000! \n\nMost will stay empty until they are sold to investors from China, Malaysia, Singapore, Bahrain(!) where they are actively marketed by the greedy property developers. \n\n<img src=\"https://davidmarsden.info/uploads/2022/17064f05a2.png\" width=\"600\" height=\"337\" alt=\"\" />\n\nThe same property developers who gave former Ealing Council 'Leader' Julian Bell and new Ealing Council 'Leader' Peter Mason (also a Southall Green ward councillor) over £30,000 in recent years to holiday in the south of France at the MIPIM property festival in Cannes described as a \"booze 'n' hookerfest\" by Private Eye Magazine. \n\nBell says, \"it didn't cost the taxpayer a penny\", but in Southall we are already paying with our health and quality of life thanks to the poisonous air from the development of the contaminated old gasworks site (due to complete in 2038!). \n\n<img src=\"https://davidmarsden.info/uploads/2022/ec54e38273.png\" width=\"600\" height=\"337\" alt=\"\" />\n\nTown planner Mason says it was a mistake, and not what he expected(!). \n\nWhere will 40,000 new residents' children go to school (and how will they get there and back), how will they get an appointment to see a GP, which hospital will they go to when they need emergency treatment, and how will they get there on the roads already regularly gridlocked by too much traffic? \n\nWorth taking the time to have a look at [stopthetowers.info/other-cam...](https://stopthetowers.info/other-campaigns.)\n\n<img src=\"https://davidmarsden.info/uploads/2022/062607b33e.png\" width=\"600\" height=\"336\" alt=\"\" />\n\nCllr Mason recommended we read Bob Colenutt's 'The Property Lobby: The Hidden Reality Behind the Housing Crisis'. \n\nSo I did. \n\nWhat Colenutt says (and he has a wealth of experience in local authority housing and planning, and in the community resisting property developers), is that developers do have too much power (as Mason argues), but also that local councils and councillors do not do enough to resist, do not have the negotiating skills (contrary to how Mason originally described the importance of trips to MIPIM to 'negotiate hard'), and too readily embrace the 'financialisation' of the land and property market brought about by David Cameron's and Nick Clegg's ConDem government in 2010. \n\n<img src=\"https://davidmarsden.info/uploads/2022/a96778cd03.png\" width=\"600\" height=\"337\" alt=\"\" />\n\nSo now, we have a very real housing crisis fuelling the huge profits of private developers, all facilitated and egged on by mostly Labour councils too easily rolling over and allowing them to build fewer and fewer 'genuinely affordable homes' (because \"where's the profit in that?\"). \n\nWhat Colenutt says loudly and clearly is that without ordinary people's and communities' resistance it would be so much worse, and that to all intents and purposes councils and councillors are in bed with the developers.\n\n<img src=\"https://davidmarsden.info/uploads/2022/6ca4a27963.gif\" width=\"600\" height=\"502\" alt=\"\" />\n\nNon-fiction: [The Property Lobby: The Hidden Reality behind the Housing Crisis](https://micro.blog/books/9781447348160) by Bob Colenutt 📚\n",
 				"date_published": "2022-12-16T19:30:40+00:00",
 				"url": "https://davidmarsden.info/2022/12/16/the-property-lobby.html",
 				"tags": ["Home","Kids","Politics"]
@@ -202,7 +262,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/12/16/end-of-term.html",
 				
 				"content_html": "<p>End of term, woohoo!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "End of term, woohoo!\n\n<img src=\"uploads/2022/0a02989fbf.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2022/27bd08348a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "End of term, woohoo!\n\n<img src=\"https://davidmarsden.info/uploads/2022/0a02989fbf.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://davidmarsden.info/uploads/2022/27bd08348a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-16T16:02:49+00:00",
 				"url": "https://davidmarsden.info/2022/12/16/end-of-term.html"
 			},
@@ -210,7 +270,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/12/15/first-mince-pie.html",
 				
 				"content_html": "<p>First mince pie of the season!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First mince pie of the season!\n\n<img src=\"uploads/2022/2ee0f5c495.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "First mince pie of the season!\n\n<img src=\"https://davidmarsden.info/uploads/2022/2ee0f5c495.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-15T17:59:01+00:00",
 				"url": "https://davidmarsden.info/2022/12/15/first-mince-pie.html",
 				"tags": ["Kids","Food"]
@@ -227,7 +287,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/12/12/elusive-truth.html",
 				
 				"content_html": "<p>Elusive Truth</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Elusive Truth\n\n<img src=\"uploads/2022/7dc473dbdd.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Elusive Truth\n\n<img src=\"https://davidmarsden.info/uploads/2022/7dc473dbdd.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-12T09:51:56+00:00",
 				"url": "https://davidmarsden.info/2022/12/12/elusive-truth.html"
 			},
@@ -235,7 +295,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/12/12/deice-man-cometh.html",
 				
 				"content_html": "<p>(De-)Ice Man Cometh!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "(De-)Ice Man Cometh!\n\n<img src=\"uploads/2022/7f27609b48.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "(De-)Ice Man Cometh!\n\n<img src=\"https://davidmarsden.info/uploads/2022/7f27609b48.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-12T07:51:18+00:00",
 				"url": "https://davidmarsden.info/2022/12/12/deice-man-cometh.html"
 			},
@@ -267,7 +327,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/12/08/do-not-eat.html",
 				
 				"content_html": "<p>Do not eat.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Do not eat.\n\n<img src=\"uploads/2022/e502be656b.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2022/04efa1c889.jpg\" width=\"600\" height=\"433\" alt=\"\">\n",
+				"content_text": "Do not eat.\n\n<img src=\"https://davidmarsden.info/uploads/2022/e502be656b.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://davidmarsden.info/uploads/2022/04efa1c889.jpg\" width=\"600\" height=\"433\" alt=\"\">\n",
 				"date_published": "2022-12-08T16:45:08+00:00",
 				"url": "https://davidmarsden.info/2022/12/08/do-not-eat.html"
 			},
@@ -275,7 +335,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/12/07/moon-always-looks.html",
 				
 				"content_html": "<p>Moon always looks much bigger to the eye.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Moon always looks much bigger to the eye.\n\n<img src=\"uploads/2022/3836c96745.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Moon always looks much bigger to the eye.\n\n<img src=\"https://davidmarsden.info/uploads/2022/3836c96745.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-07T18:56:17+00:00",
 				"url": "https://davidmarsden.info/2022/12/07/moon-always-looks.html"
 			},
@@ -283,7 +343,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/12/07/special-xmas-lunch.html",
 				"title": "Special Xmas Lunch Menu",
 				"content_html": "<p><strong>Starter</strong>: Seasonal Word Soup</p>\n<p><strong>Main course</strong>: Roast Gobbledegook with all the trimmings including sage and EU stuffing balls</p>\n<p><strong>Dessert</strong>: Traditional lemon biscuit</p>\n<blockquote>\n<h4 id=\"christmas-lunch-special-diet-option-for-non-special-diet-registered-pupils\">Christmas Lunch Special Diet Option for Non Special Diet Registered Pupils</h4>\n</blockquote>\n<blockquote>\n<p>Our catering company is offering a Christmas Lunch and for pupils who do not normally use the service and have an allergy but would like to take part in the Christmas lunch the below options are available.</p>\n</blockquote>\n<blockquote>\n<p>This is only for pupils who have an allergy/intolerance that is covered by the 14 in EU allergen legislation*. If the allergy/ intolerance is outside the EU 14 and the pupil is not registered as a special diet with the catering company, then they must continue to have a packed lunch.</p>\n</blockquote>\n<blockquote>\n<p>This is designed to safeguard children who have food allergies and intolerances, while allowing then to take part in the Christmas Lunch, and to also support the catering staff involved in the preparation and service of the Christmas Lunch. Please refer to the Dietary Safeguarding Policy for more information.</p>\n</blockquote>\n<blockquote>\n<p>Please complete the form below by ticking one or more of the options you wish your child to have. Please sign and date to consent you are happy for your child to be served the selected options and return it to the school who will then hand this to the kitchen staff.<br>\n<!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n</blockquote>\n",
-				"content_text": "**Starter**: Seasonal Word Soup\n\n**Main course**: Roast Gobbledegook with all the trimmings including sage and EU stuffing balls\n\n**Dessert**: Traditional lemon biscuit \n\n> #### Christmas Lunch Special Diet Option for Non Special Diet Registered Pupils  \n  \n> Our catering company is offering a Christmas Lunch and for pupils who do not normally use the service and have an allergy but would like to take part in the Christmas lunch the below options are available.  \n  \n> This is only for pupils who have an allergy/intolerance that is covered by the 14 in EU allergen legislation*. If the allergy/ intolerance is outside the EU 14 and the pupil is not registered as a special diet with the catering company, then they must continue to have a packed lunch.  \n  \n> This is designed to safeguard children who have food allergies and intolerances, while allowing then to take part in the Christmas Lunch, and to also support the catering staff involved in the preparation and service of the Christmas Lunch. Please refer to the Dietary Safeguarding Policy for more information.  \n  \n> Please complete the form below by ticking one or more of the options you wish your child to have. Please sign and date to consent you are happy for your child to be served the selected options and return it to the school who will then hand this to the kitchen staff.  \n<img src=\"uploads/2022/9de2321b63.jpg\" width=\"600\" height=\"255\" alt=\"\"><img src=\"uploads/2022/1435a26e05.jpg\" width=\"600\" height=\"404\" alt=\"\">\n",
+				"content_text": "**Starter**: Seasonal Word Soup\n\n**Main course**: Roast Gobbledegook with all the trimmings including sage and EU stuffing balls\n\n**Dessert**: Traditional lemon biscuit \n\n> #### Christmas Lunch Special Diet Option for Non Special Diet Registered Pupils  \n  \n> Our catering company is offering a Christmas Lunch and for pupils who do not normally use the service and have an allergy but would like to take part in the Christmas lunch the below options are available.  \n  \n> This is only for pupils who have an allergy/intolerance that is covered by the 14 in EU allergen legislation*. If the allergy/ intolerance is outside the EU 14 and the pupil is not registered as a special diet with the catering company, then they must continue to have a packed lunch.  \n  \n> This is designed to safeguard children who have food allergies and intolerances, while allowing then to take part in the Christmas Lunch, and to also support the catering staff involved in the preparation and service of the Christmas Lunch. Please refer to the Dietary Safeguarding Policy for more information.  \n  \n> Please complete the form below by ticking one or more of the options you wish your child to have. Please sign and date to consent you are happy for your child to be served the selected options and return it to the school who will then hand this to the kitchen staff.  \n<img src=\"https://davidmarsden.info/uploads/2022/9de2321b63.jpg\" width=\"600\" height=\"255\" alt=\"\"><img src=\"https://davidmarsden.info/uploads/2022/1435a26e05.jpg\" width=\"600\" height=\"404\" alt=\"\">\n",
 				"date_published": "2022-12-07T13:24:59+00:00",
 				"url": "https://davidmarsden.info/2022/12/07/special-xmas-lunch.html",
 				"tags": ["Kids","Food"]
@@ -292,7 +352,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/12/06/arrived-at-just.html",
 				
 				"content_html": "<p>Arrived at just the right moment.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Arrived at just the right moment.\n\n<img src=\"uploads/2022/7106d8f1b8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Arrived at just the right moment.\n\n<img src=\"https://davidmarsden.info/uploads/2022/7106d8f1b8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-06T17:09:46+00:00",
 				"url": "https://davidmarsden.info/2022/12/06/arrived-at-just.html"
 			},
@@ -300,7 +360,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/12/06/love-this-tree.html",
 				
 				"content_html": "<p>Love this tree.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Love this tree.\n\n<img src=\"uploads/2022/95bcf1d7a7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Love this tree.\n\n<img src=\"https://davidmarsden.info/uploads/2022/95bcf1d7a7.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-06T17:09:04+00:00",
 				"url": "https://davidmarsden.info/2022/12/06/love-this-tree.html",
 				"tags": ["Trees"]
@@ -426,7 +486,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/29/christmas-tree-and.html",
 				
 				"content_html": "<p>Christmas tree and lights up. Boys did most of the tree decorating. Much quicker and less stressful than previous years.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Christmas tree and lights up. Boys did most of the tree decorating. Much quicker and less stressful than previous years.\n\n<img src=\"uploads/2022/33f50b6d1d.jpg\" width=\"353\" height=\"600\" alt=\"\"><img src=\"uploads/2022/c35b842d64.jpg\" width=\"600\" height=\"314\" alt=\"\">\n",
+				"content_text": "Christmas tree and lights up. Boys did most of the tree decorating. Much quicker and less stressful than previous years.\n\n<img src=\"https://davidmarsden.info/uploads/2022/33f50b6d1d.jpg\" width=\"353\" height=\"600\" alt=\"\"><img src=\"https://davidmarsden.info/uploads/2022/c35b842d64.jpg\" width=\"600\" height=\"314\" alt=\"\">\n",
 				"date_published": "2022-11-29T19:04:26+00:00",
 				"url": "https://davidmarsden.info/2022/11/29/christmas-tree-and.html",
 				"tags": ["Home","Kids","Trees"]
@@ -461,7 +521,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/29/tempory-fix-for.html",
 				
 				"content_html": "<p>Tempory fix for a broken arm.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Tempory fix for a broken arm.\n\n<img src=\"uploads/2022/744a4f3085.jpg\" width=\"600\" height=\"385\" alt=\"\">\n",
+				"content_text": "Tempory fix for a broken arm.\n\n<img src=\"https://davidmarsden.info/uploads/2022/744a4f3085.jpg\" width=\"600\" height=\"385\" alt=\"\">\n",
 				"date_published": "2022-11-29T10:54:46+00:00",
 				"url": "https://davidmarsden.info/2022/11/29/tempory-fix-for.html"
 			},
@@ -495,7 +555,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/29/surprised-i-havent.html",
 				
 				"content_html": "<p>Surprised I haven&rsquo;t been asked to remove <a href=\"https://goo.gl/maps/RMGhVLyewy7V7e4m8\">this review of FM Conway</a>. Is 5,000 views a lot? I guess, at the end of the day, it makes no difference.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Surprised I haven't been asked to remove [this review of FM Conway](https://goo.gl/maps/RMGhVLyewy7V7e4m8). Is 5,000 views a lot? I guess, at the end of the day, it makes no difference.\n\n<img src=\"uploads/2022/b023e1c39d.png\" width=\"600\" height=\"395\" alt=\"\"><img src=\"uploads/2022/768c12db43.png\" width=\"276\" height=\"600\" alt=\"\">\n",
+				"content_text": "Surprised I haven't been asked to remove [this review of FM Conway](https://goo.gl/maps/RMGhVLyewy7V7e4m8). Is 5,000 views a lot? I guess, at the end of the day, it makes no difference.\n\n<img src=\"https://davidmarsden.info/uploads/2022/b023e1c39d.png\" width=\"600\" height=\"395\" alt=\"\"><img src=\"https://davidmarsden.info/uploads/2022/768c12db43.png\" width=\"276\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-29T09:40:33+00:00",
 				"url": "https://davidmarsden.info/2022/11/29/surprised-i-havent.html",
 				"tags": ["Politics","Health"]
@@ -599,7 +659,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/26/toddler-can-now.html",
 				
 				"content_html": "<p>Toddler can now peel his own bananas.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Toddler can now peel his own bananas.\n\n<img src=\"uploads/2022/1d3ee3bc57.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Toddler can now peel his own bananas.\n\n<img src=\"https://davidmarsden.info/uploads/2022/1d3ee3bc57.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-26T12:00:03+00:00",
 				"url": "https://davidmarsden.info/2022/11/26/toddler-can-now.html",
 				"tags": ["Kids"]
@@ -656,7 +716,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/26/kids-rearranged-all.html",
 				
 				"content_html": "<p>Kids rearranged all the furniture last night to recreate the space rocket from Wallace and Gromit&rsquo;s &lsquo;A Grand Day Out&rsquo;. Zion is wearing his space suit and helmet, and holding some space poop, which can heal wounds</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Kids rearranged all the furniture last night to recreate the space rocket from Wallace and Gromit's 'A Grand Day Out'. Zion is wearing his space suit and helmet, and holding some space poop, which can heal wounds \n\n<img src=\"uploads/2022/00e2668e0b.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2022/abbd2a82a6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Kids rearranged all the furniture last night to recreate the space rocket from Wallace and Gromit's 'A Grand Day Out'. Zion is wearing his space suit and helmet, and holding some space poop, which can heal wounds \n\n<img src=\"https://davidmarsden.info/uploads/2022/00e2668e0b.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://davidmarsden.info/uploads/2022/abbd2a82a6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-26T09:10:32+00:00",
 				"url": "https://davidmarsden.info/2022/11/26/kids-rearranged-all.html",
 				"tags": ["Kids"]
@@ -665,7 +725,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/26/its-started.html",
 				
 				"content_html": "<p>It&rsquo;s started.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It's started.\n\n<img src=\"uploads/2022/c9c72cac20.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "It's started.\n\n<img src=\"https://davidmarsden.info/uploads/2022/c9c72cac20.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-11-26T09:02:49+00:00",
 				"url": "https://davidmarsden.info/2022/11/26/its-started.html",
 				"tags": ["Kids"]
@@ -674,7 +734,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/26/little-one-ate.html",
 				
 				"content_html": "<p>Little one ate his usual two Weetabix for breakfast. Now he&rsquo;s sat on my lap helping himself to my cornflakes.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Little one ate his usual two Weetabix for breakfast. Now he's sat on my lap helping himself to my cornflakes.\n\n<img src=\"uploads/2022/a83e85d0ac.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Little one ate his usual two Weetabix for breakfast. Now he's sat on my lap helping himself to my cornflakes.\n\n<img src=\"https://davidmarsden.info/uploads/2022/a83e85d0ac.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-26T08:35:06+00:00",
 				"url": "https://davidmarsden.info/2022/11/26/little-one-ate.html",
 				"tags": ["Kids"]
@@ -701,7 +761,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/25/tv-dinner.html",
 				
 				"content_html": "<p>TV dinner.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "TV dinner.\n\n<img src=\"uploads/2022/84eff6322a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "TV dinner.\n\n<img src=\"https://davidmarsden.info/uploads/2022/84eff6322a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-25T18:30:23+00:00",
 				"url": "https://davidmarsden.info/2022/11/25/tv-dinner.html",
 				"tags": ["Kids"]
@@ -710,7 +770,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/25/christmas-market-saturday.html",
 				
 				"content_html": "<p>CHRISTMAS MARKET</p>\n<p>SATURDAY 3RD DECEMBER 1PM - 6PM</p>\n<p>Craft Stalls, Santa&rsquo;s Grotto, Live Music, Great Food and Beer, Carol Singers, Mulled Wine, and everything Christmassy.</p>\n<p>The Plough Pub, Tentelow Lane, Norwood Green. UB2 4LG</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "CHRISTMAS MARKET  \r\n  \r\nSATURDAY 3RD DECEMBER 1PM - 6PM  \r\n  \r\nCraft Stalls, Santa's Grotto, Live Music, Great Food and Beer, Carol Singers, Mulled Wine, and everything Christmassy.  \r\n  \r\nThe Plough Pub, Tentelow Lane, Norwood Green. UB2 4LG\n\n<img src=\"uploads/2022/15539baed9.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "CHRISTMAS MARKET  \r\n  \r\nSATURDAY 3RD DECEMBER 1PM - 6PM  \r\n  \r\nCraft Stalls, Santa's Grotto, Live Music, Great Food and Beer, Carol Singers, Mulled Wine, and everything Christmassy.  \r\n  \r\nThe Plough Pub, Tentelow Lane, Norwood Green. UB2 4LG\n\n<img src=\"https://davidmarsden.info/uploads/2022/15539baed9.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-25T18:29:39+00:00",
 				"url": "https://davidmarsden.info/2022/11/25/christmas-market-saturday.html"
 			},
@@ -745,7 +805,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/24/once-in-a.html",
 				
 				"content_html": "<p>&ldquo;Once in a generation opportunity to look behind the scenes at the replacement of the lock gates at Lock 94, Grand Union Canal, Ealing.</p>\n<p>Saturday 26 &amp; Sunday 27 November 2022.&rdquo;</p>\n<p>canalrivertrust.org.uk</p>\n<p>Canalside @ Glade Lane Park UB2 4PG</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "\"Once in a generation opportunity to look behind the scenes at the replacement of the lock gates at Lock 94, Grand Union Canal, Ealing.  \r\n  \r\nSaturday 26 & Sunday 27 November 2022.\"\r\n  \r\ncanalrivertrust.org.uk\r\n\r\nCanalside @ Glade Lane Park UB2 4PG\n\n<img src=\"uploads/2022/95eeb938f3.jpg\" width=\"420\" height=\"600\" alt=\"\">\n",
+				"content_text": "\"Once in a generation opportunity to look behind the scenes at the replacement of the lock gates at Lock 94, Grand Union Canal, Ealing.  \r\n  \r\nSaturday 26 & Sunday 27 November 2022.\"\r\n  \r\ncanalrivertrust.org.uk\r\n\r\nCanalside @ Glade Lane Park UB2 4PG\n\n<img src=\"https://davidmarsden.info/uploads/2022/95eeb938f3.jpg\" width=\"420\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-24T16:48:04+00:00",
 				"url": "https://davidmarsden.info/2022/11/24/once-in-a.html",
 				"tags": ["Kids"]
@@ -763,7 +823,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/24/yesterdays-chilli-today.html",
 				
 				"content_html": "<p>Yesterday&rsquo;s chilli today. 🌶️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Yesterday's chilli today. 🌶️\n\n<img src=\"uploads/2022/61c0742655.jpg\" width=\"600\" height=\"510\" alt=\"\">\n",
+				"content_text": "Yesterday's chilli today. 🌶️\n\n<img src=\"https://davidmarsden.info/uploads/2022/61c0742655.jpg\" width=\"600\" height=\"510\" alt=\"\">\n",
 				"date_published": "2022-11-24T14:11:50+00:00",
 				"url": "https://davidmarsden.info/2022/11/24/yesterdays-chilli-today.html",
 				"tags": ["Food"]
@@ -772,7 +832,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/24/finally-figured-out.html",
 				
 				"content_html": "<p>Finally figured out <a href=\"https://help.micro.blog/t/plug-in-devs-include-page-setting/1180\">how to</a> add <a href=\"https://micro.blog/sod\">@sod</a>&rsquo;s Search-Space and Surprise-Me plug-ins to my micro.blog.</p>\n<blockquote>\n<p>(It requires adding the full URL as the page content.)</p>\n</blockquote>\n<p>H/t to <a href=\"https://micro.blog/Manton\">@Manton</a>!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Finally figured out [how to](https://help.micro.blog/t/plug-in-devs-include-page-setting/1180) add [@sod](https://micro.blog/sod)'s Search-Space and Surprise-Me plug-ins to my micro.blog.  \n  \n> (It requires adding the full URL as the page content.)\n  \nH/t to [@Manton](https://micro.blog/Manton)!\n\n<img src=\"uploads/2022/da5ca79c31.png\" width=\"379\" height=\"600\" alt=\"\">\n",
+				"content_text": "Finally figured out [how to](https://help.micro.blog/t/plug-in-devs-include-page-setting/1180) add [@sod](https://micro.blog/sod)'s Search-Space and Surprise-Me plug-ins to my micro.blog.  \n  \n> (It requires adding the full URL as the page content.)\n  \nH/t to [@Manton](https://micro.blog/Manton)!\n\n<img src=\"https://davidmarsden.info/uploads/2022/da5ca79c31.png\" width=\"379\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-24T09:20:16+00:00",
 				"url": "https://davidmarsden.info/2022/11/24/finally-figured-out.html",
 				"tags": ["Tools"]
@@ -781,7 +841,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/23/these-boots-were.html",
 				
 				"content_html": "<p>These boots were made for splashing.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "These boots were made for splashing.\n\n<img src=\"uploads/2022/d51fc3d665.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "These boots were made for splashing.\n\n<img src=\"https://davidmarsden.info/uploads/2022/d51fc3d665.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-23T18:07:08+00:00",
 				"url": "https://davidmarsden.info/2022/11/23/these-boots-were.html",
 				"tags": ["Kids"]
@@ -790,7 +850,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/23/canal-looking-lovely.html",
 				
 				"content_html": "<p>Canal looking lovely this evening.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Canal looking lovely this evening.\n\n<img src=\"uploads/2022/e2477f483c.jpg\" width=\"464\" height=\"600\" alt=\"\">\n",
+				"content_text": "Canal looking lovely this evening.\n\n<img src=\"https://davidmarsden.info/uploads/2022/e2477f483c.jpg\" width=\"464\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-23T17:42:14+00:00",
 				"url": "https://davidmarsden.info/2022/11/23/canal-looking-lovely.html"
 			},
@@ -852,7 +912,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/20/i-got-my.html",
 				
 				"content_html": "<p>I got my 🍕 dough dough risin'.</p>\n<p>Forgot to say that I feed my yeast with malt extract rather than sugar&hellip;</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I got my 🍕 dough dough risin'.\n  \nForgot to say that I feed my yeast with malt extract rather than sugar...\n\n<img src=\"uploads/2022/bea6cc14b9.jpg\" width=\"600\" height=\"528\" alt=\"\"><img src=\"uploads/2022/caee021130.jpg\" width=\"600\" height=\"460\" alt=\"\">\n",
+				"content_text": "I got my 🍕 dough dough risin'.\n  \nForgot to say that I feed my yeast with malt extract rather than sugar...\n\n<img src=\"https://davidmarsden.info/uploads/2022/bea6cc14b9.jpg\" width=\"600\" height=\"528\" alt=\"\"><img src=\"https://davidmarsden.info/uploads/2022/caee021130.jpg\" width=\"600\" height=\"460\" alt=\"\">\n",
 				"date_published": "2022-11-20T10:50:28+00:00",
 				"url": "https://davidmarsden.info/2022/11/20/i-got-my.html",
 				"tags": ["Food"]
@@ -888,7 +948,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/19/kids-did-these.html",
 				
 				"content_html": "<p>Kids did these paintings with Mum this morning while I had a lie-in.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Kids did these paintings with Mum this morning while I had a lie-in. \n\n<img src=\"uploads/2022/076671919d.jpg\" width=\"600\" height=\"418\" alt=\"\"><img src=\"uploads/2022/837e243fc2.jpg\" width=\"586\" height=\"600\" alt=\"\">\n",
+				"content_text": "Kids did these paintings with Mum this morning while I had a lie-in. \n\n<img src=\"https://davidmarsden.info/uploads/2022/076671919d.jpg\" width=\"600\" height=\"418\" alt=\"\"><img src=\"https://davidmarsden.info/uploads/2022/837e243fc2.jpg\" width=\"586\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-19T11:03:08+00:00",
 				"url": "https://davidmarsden.info/2022/11/19/kids-did-these.html",
 				"tags": ["Kids"]
@@ -932,7 +992,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/15/lock-steps-and.html",
 				
 				"content_html": "<p>Lock steps and towpath.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lock steps and towpath.\n\n<img src=\"uploads/2022/78bbce81f8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Lock steps and towpath.\n\n<img src=\"https://davidmarsden.info/uploads/2022/78bbce81f8.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-11-15T10:07:58+00:00",
 				"url": "https://davidmarsden.info/2022/11/15/lock-steps-and.html"
 			},
@@ -940,7 +1000,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/15/this-tree-is.html",
 				
 				"content_html": "<p>This tree is broken and falling into the water.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This tree is broken and falling into the water. \n\n<img src=\"uploads/2022/74ec5c3be7.jpg\" width=\"353\" height=\"600\" alt=\"\">\n",
+				"content_text": "This tree is broken and falling into the water. \n\n<img src=\"https://davidmarsden.info/uploads/2022/74ec5c3be7.jpg\" width=\"353\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-15T10:01:38+00:00",
 				"url": "https://davidmarsden.info/2022/11/15/this-tree-is.html",
 				"tags": ["Trees"]
@@ -949,7 +1009,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/15/glad-i-dont.html",
 				
 				"content_html": "<p>Glad I don&rsquo;t have to decorate this tree.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Glad I don't have to decorate this tree.\n\n<img src=\"uploads/2022/cad55a6773.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Glad I don't have to decorate this tree.\n\n<img src=\"https://davidmarsden.info/uploads/2022/cad55a6773.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-15T09:56:45+00:00",
 				"url": "https://davidmarsden.info/2022/11/15/glad-i-dont.html",
 				"tags": ["Trees"]
@@ -966,7 +1026,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/14/some-beautiful-trees.html",
 				
 				"content_html": "<p>Some beautiful trees at my son&rsquo;s school.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "Some beautiful trees at my son's school.\r\n\r\n<img src=\"uploads/2022/ab4c58e1a8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n\r\n<img src=\"uploads/2022/4094baa5b9.jpg\" width=\"600\" height=\"800\" alt=\"\" />\r\n\r\n<img src=\"uploads/2022/1fddb925ce.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n",
+				"content_text": "Some beautiful trees at my son's school.\r\n\r\n<img src=\"https://davidmarsden.info/uploads/2022/ab4c58e1a8.jpg\" width=\"600\" height=\"450\" alt=\"\" />\r\n\r\n<img src=\"https://davidmarsden.info/uploads/2022/4094baa5b9.jpg\" width=\"600\" height=\"800\" alt=\"\" />\r\n\r\n<img src=\"https://davidmarsden.info/uploads/2022/1fddb925ce.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n",
 				"date_published": "2022-11-14T17:03:49+00:00",
 				"url": "https://davidmarsden.info/2022/11/14/some-beautiful-trees.html",
 				"tags": ["Trees"]
@@ -1019,7 +1079,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/13/feels-like-a.html",
 				
 				"content_html": "<p>Feels like a lot of effort just to make a cup of coffee.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Feels like a lot of effort just to make a cup of coffee.\n\n<img src=\"uploads/2022/860beac5b4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Feels like a lot of effort just to make a cup of coffee.\n\n<img src=\"https://davidmarsden.info/uploads/2022/860beac5b4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-11-13T07:20:58+00:00",
 				"url": "https://davidmarsden.info/2022/11/13/feels-like-a.html"
 			},
@@ -1027,7 +1087,7 @@
 				"id": "http://davidmarsden.micro.blog/2022/11/12/im-about-to.html",
 				
 				"content_html": "<p>I&rsquo;m about to eat a yum yum.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I'm about to eat a yum yum.\n\n<img src=\"uploads/2022/57fc7d0d10.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "I'm about to eat a yum yum.\n\n<img src=\"https://davidmarsden.micro.blog/uploads/2022/57fc7d0d10.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-11-12T19:02:27+00:00",
 				"url": "https://davidmarsden.info/2022/11/12/im-about-to.html",
 				"tags": ["Food"]
