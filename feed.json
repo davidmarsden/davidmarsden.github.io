@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://davidmarsden.micro.blog/2023/05/20/little-kid-turned.html",
+				
+				"content_html": "<p>Little kid turned on his Amazon Fire &ldquo;Kids&rdquo; tablet.</p>\n<p>A game asks him to enter his date of birth to play.</p>\n<p>He types in &ldquo;1234&rdquo;, <em>et voilà!</em></p>\n",
+				"content_text": "Little kid turned on his Amazon Fire \"Kids\" tablet. \n  \nA game asks him to enter his date of birth to play. \n  \nHe types in \"1234\", *et voilà!*\n",
+				"date_published": "2023-05-20T09:26:01+01:00",
+				"url": "https://davidmarsden.info/2023/05/20/little-kid-turned.html",
+				"tags": ["Kids"]
+			},
+			{
 				"id": "http://davidmarsden.micro.blog/2023/05/15/this-is-why.html",
 				
 				"content_html": "<p>This is why I&rsquo;m always frothing at the mouth.</p>\n<!-- raw HTML omitted -->\n",
