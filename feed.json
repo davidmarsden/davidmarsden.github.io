@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://davidmarsden.micro.blog/2023/06/20/im-about-to.html",
+				
+				"content_html": "<p>I&rsquo;m about to carry a bag of sand.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I'm about to carry a bag of sand.\n\n<img src=\"uploads/2023/pxl-20230620-131516804.portrait.jpg\" width=\"600\" height=\"450\" alt=\"A bag of sand about to be carried.\">\n",
+				"date_published": "2023-06-20T14:51:04+01:00",
+				"url": "https://davidmarsden.info/2023/06/20/im-about-to.html"
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2023/06/19/big-announcement-planned.html",
+				
+				"content_html": "<p>Big announcement* planned for tomorrow for #tinap <em>aficionados</em>.</p>\n<p>*Not a podcast.</p>\n",
+				"content_text": "Big announcement* planned for tomorrow for #tinap *aficionados*.\r\n\r\n*Not a podcast.\n",
+				"date_published": "2023-06-19T20:17:10+01:00",
+				"url": "https://davidmarsden.info/2023/06/19/big-announcement-planned.html",
+				"tags": ["Podcast"]
+			},
+			{
 				"id": "http://davidmarsden.micro.blog/2023/06/15/personalised-alarm-call.html",
 				
 				"content_html": "<p>Personalised alarm call at 6:30 this morning as my little kid puked on my back.</p>\n",
@@ -55,7 +72,7 @@
 				"id": "http://davidmarsden.micro.blog/2023/05/15/this-is-why.html",
 				
 				"content_html": "<p>This is why I&rsquo;m always frothing at the mouth.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is why I'm always frothing at the mouth.\n\n<img src=\"uploads/2023/d6ad5c4915.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "This is why I'm always frothing at the mouth.\n\n<img src=\"https://cdn.uploads.micro.blog/2588/2023/d6ad5c4915.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-15T07:58:33+01:00",
 				"url": "https://davidmarsden.info/2023/05/15/this-is-why.html",
 				"tags": ["Food"]
