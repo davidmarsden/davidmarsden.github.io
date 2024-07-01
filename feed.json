@@ -7,12 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://davidmarsden.micro.blog/2024/07/01/i-used-to.html",
+				
+				"content_html": "<p>I used to be funny.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I used to be funny.\n\n<img src=\"uploads/2024/82a4d33fb4.png\" width=\"600\" height=\"572\" alt=\"Screenshot of Facebook memories from fourteen years ago: &quot;On days like these I can easily get through a whole carton of fresh orange juice. Rock and roll. I heard they can give you cancer, though, so I'm going to stop smoking them.&quot;\">\n",
+				"date_published": "2024-07-01T08:02:54+01:00",
+				"url": "https://davidmarsden.info/2024/07/01/i-used-to.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://davidmarsden.micro.blog/2024/06/20/bushmen-arrived-to.html",
 				
-				"content_html": "<p>Bushmen arrived to cut the communal grass and fill my compost bin with the cuttings. #Winning</p>\n",
-				"content_text": "Bushmen arrived to cut the communal grass and fill my compost bin with the cuttings. #Winning\n",
+				"content_html": "<p>Bushmen came to cut the communal grass and fill my compost bin with the cuttings. #Winning</p>\n",
+				"content_text": "Bushmen came to cut the communal grass and fill my compost bin with the cuttings. #Winning\n",
 				"date_published": "2024-06-20T13:42:34+01:00",
-				"url": "https://davidmarsden.info/2024/06/20/bushmen-arrived-to.html"
+				"url": "https://davidmarsden.info/2024/06/20/bushmen-arrived-to.html",
+				"tags": ["Home"]
 			},
 			{
 				"id": "http://davidmarsden.micro.blog/2024/05/19/the-cuckoos-nest.html",
