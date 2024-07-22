@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://davidmarsden.micro.blog/2024/07/18/big-kids-sports.html",
+				
+				"content_html": "<p>Big Kids' Sports Day.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Big Kids' Sports Day.\n\n<img src=\"uploads/2024/pxl-20240718-0755334792.jpg\" width=\"600\" height=\"450\" alt=\"Wide angle photo of school sports day white lined running lanes in the foreground, with uncut meadow in the background \">\n",
+				"date_published": "2024-07-18T09:01:13+01:00",
+				"url": "https://davidmarsden.info/2024/07/18/big-kids-sports.html",
+				"tags": ["Kids"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/07/15/england-always-different.html",
+				
+				"content_html": "<p>England. Always different, always <a href=\"https://davidmarsden.info/2016/11/12/same-old-england.html\">the same</a>.</p>\n",
+				"content_text": "England. Always different, always [the same](https://davidmarsden.info/2016/11/12/same-old-england.html).\n",
+				"date_published": "2024-07-15T09:11:30+01:00",
+				"url": "https://davidmarsden.info/2024/07/15/england-always-different.html",
+				"tags": ["Football"]
+			},
+			{
 				"id": "http://davidmarsden.micro.blog/2024/07/09/labours-selfimposed-arbitrary.html",
 				
 				"content_html": "<p>Labour&rsquo;s self-imposed, arbitrary and &ldquo;binding&rdquo; &ldquo;fiscal rules&rdquo; are the same as the Tories' Austerity policies.</p>\n<p>Political choices.</p>\n<p>The same choices.</p>\n<p>So much for change.</p>\n<p>Original <a href=\"https://www.resurgence.org/magazine/article3915-the-money-revolution.html\">link to the article</a> from 11 years ago:</p>\n<!-- raw HTML omitted -->\n",
