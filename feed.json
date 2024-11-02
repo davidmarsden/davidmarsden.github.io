@@ -1,11 +1,56 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Hovercraft",
+	"title": "David Marsden",
 	"icon": "https://micro.blog/davidmarsden/avatar.jpg",
 	"home_page_url": "https://davidmarsden.info/",
 	"feed_url": "https://davidmarsden.info/feed.json",
 	"items": [
 		
+			{
+				"id": "http://davidmarsden.micro.blog/2024/10/31/one-positive-outcome.html",
+				
+				"content_html": "<p>One positive outcome of my immune system going into overdrive in response to the <a href=\"https://davidmarsden.info/2024/10/31/the-hangover.html\">covid vaccine</a> is that my psoriasis has (temporarily?) calmed down.</p>\n",
+				"content_text": "One positive outcome of my immune system going into overdrive in response to the [covid vaccine](https://davidmarsden.info/2024/10/31/the-hangover.html) is that my psoriasis has (temporarily?) calmed down.\n",
+				"date_published": "2024-10-31T17:48:50+00:00",
+				"url": "https://davidmarsden.info/2024/10/31/one-positive-outcome.html",
+				"tags": ["Health"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/10/31/copd.html",
+				"title": "COPD",
+				"content_html": "<p>Last week I received confirmation of a diagnosis of chronic obstructive pulmonary disease (COPD) based on results of spirometry tests back in August (it took that long for my GP surgery to get the results from the test centre, and only after my own intervention after their repeated failures).</p>\n<p>My GP helpfully seemed very keen to blame my twenty-odd year history of smoking.</p>\n<p>I first smoked at about age 20. My parents were smokers (wasn&rsquo;t everyone back then?). I was never a heavy smoker. The most I ever smoked was ten a day. It&rsquo;s also true I smoked a number of other substances that didn&rsquo;t come with filters. And then there was some vaping. I suspect that might have been the worst of the lot, but who knows? I haven&rsquo;t smoked for ten years.</p>\n<p>In my childhood, I remember several episodes of severe shortness of breath, e.g., when running around the sports field at primary school I collapsed gasping for breath, and unable to continue. I was never diagnosed with asthma. I was told to get up and stop being so weak.</p>\n<p>As I got older, whenever the football season started, I could never get through a full game. I put it down to lack of fitness and stamina at the time, but whatever it was, the symptom was breathlessness. I was told to get fit and sent off on cross-country runs.</p>\n<p>I had regular episodes of shortness of breath throughout young adulthood that were not triggered by exercise (I&rsquo;d more or less given up by then, helped by a dodgy ankle). I thought it might be hayfever or a dust allergy.</p>\n<p>Fourteen years ago, I needed a thoracotomy on my right lung after a chest infection went wrong. I developed pleurisy, a collapsed lung and an empyema. In the post-op, my surgeon said my lung was &ldquo;as good as new&rdquo;.</p>\n<p>In the years before covid, I had frequent chest infections requiring antibiotics and time off work to recover. Then and now, I wonder if that was triggered by the <a href=\"https://davidmarsden.info/2024/10/29/the-southall-gasworks.html\">Southall Gasworks</a> remediation and air pollution?</p>\n<p>I now see that <a href=\"https://www.nature.com/articles/s41598-024-67210-7\">studies show</a> that exposure to volatile organic compounds (including benzene, naphthalene and toluene) is related to COPD.</p>\n<p>The good news is that I had no symptoms of COPD, so it&rsquo;s been diagnosed at an early stage. I&rsquo;ve started with my new inhaler, and my wife reports that I&rsquo;ve stopped snoring.</p>\n",
+				"content_text": "Last week I received confirmation of a diagnosis of chronic obstructive pulmonary disease (COPD) based on results of spirometry tests back in August (it took that long for my GP surgery to get the results from the test centre, and only after my own intervention after their repeated failures). \r\n\r\nMy GP helpfully seemed very keen to blame my twenty-odd year history of smoking.\r\n\r\nI first smoked at about age 20. My parents were smokers (wasn't everyone back then?). I was never a heavy smoker. The most I ever smoked was ten a day. It's also true I smoked a number of other substances that didn't come with filters. And then there was some vaping. I suspect that might have been the worst of the lot, but who knows? I haven't smoked for ten years.\r\n\r\nIn my childhood, I remember several episodes of severe shortness of breath, e.g., when running around the sports field at primary school I collapsed gasping for breath, and unable to continue. I was never diagnosed with asthma. I was told to get up and stop being so weak.\r\n\r\nAs I got older, whenever the football season started, I could never get through a full game. I put it down to lack of fitness and stamina at the time, but whatever it was, the symptom was breathlessness. I was told to get fit and sent off on cross-country runs.\r\n\r\nI had regular episodes of shortness of breath throughout young adulthood that were not triggered by exercise (I'd more or less given up by then, helped by a dodgy ankle). I thought it might be hayfever or a dust allergy. \r\n\r\nFourteen years ago, I needed a thoracotomy on my right lung after a chest infection went wrong. I developed pleurisy, a collapsed lung and an empyema. In the post-op, my surgeon said my lung was \"as good as new\".\r\n\r\nIn the years before covid, I had frequent chest infections requiring antibiotics and time off work to recover. Then and now, I wonder if that was triggered by the [Southall Gasworks](https://davidmarsden.info/2024/10/29/the-southall-gasworks.html) remediation and air pollution? \r\n\r\nI now see that [studies show](https://www.nature.com/articles/s41598-024-67210-7) that exposure to volatile organic compounds (including benzene, naphthalene and toluene) is related to COPD.\r\n\r\nThe good news is that I had no symptoms of COPD, so it's been diagnosed at an early stage. I've started with my new inhaler, and my wife reports that I've stopped snoring.\r\n",
+				"date_published": "2024-10-31T17:44:13+00:00",
+				"url": "https://davidmarsden.info/2024/10/31/copd.html",
+				"tags": ["Kids","Health","Football"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/10/31/the-hangover.html",
+				"title": "The Hangover ",
+				"content_html": "<p>I had my covid vaccine a week ago today. As expected I had a torrid night with violent shivers, nausea, headache and generally feeling like crap.</p>\n<p>While that was the worst of it, I had a whole 48 hours of &lsquo;mild flu symptoms&rsquo;, followed by a whole week of feeling like the day after going on a massive bender.</p>\n<p>I was hoping for a good night&rsquo;s sleep tonight, in preparation for a long drive tomorrow, but it&rsquo;s Diwali.</p>\n<p>Which in our neighborhood means a non-stop onslaught of fireworks for several hours this evening.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I had my covid vaccine a week ago today. As expected I had a torrid night with violent shivers, nausea, headache and generally feeling like crap. \r\n\r\nWhile that was the worst of it, I had a whole 48 hours of 'mild flu symptoms', followed by a whole week of feeling like the day after going on a massive bender. \r\n\r\nI was hoping for a good night's sleep tonight, in preparation for a long drive tomorrow, but it's Diwali. \r\n\r\nWhich in our neighborhood means a non-stop onslaught of fireworks for several hours this evening.\n\n<img src=\"uploads/2024/90f3dc8bc2.jpg\" width=\"600\" height=\"409\" alt=\"Photo of a box of used fireworks called &quot;Nightmare&quot;\">\n",
+				"date_published": "2024-10-31T16:47:46+00:00",
+				"url": "https://davidmarsden.info/2024/10/31/the-hangover.html",
+				"tags": ["Health"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/10/29/the-southall-gasworks.html",
+				"title": "The Southall Gasworks Story",
+				"content_html": "<p>The story of how the remediation of Southall Gasworks highlights the environmental injustices faced by communities of colour.</p>\n<p>The disregard for the health and concerns of these residents raises questions about the inequitable distribution of environmental burdens and the role of local government in protecting vulnerable populations.</p>\n<p>It also highlights the potential conflicts between development, profit, and public health, and the need for greater transparency and accountability from authorities and developers.</p>\n<p>(This is a Google NotebookLM creation, based on selected sources from <a href=\"https://davidmarsden.info/categories/politics/\">my blog posts</a> on Southall Gasworks.)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "The story of how the remediation of Southall Gasworks highlights the environmental injustices faced by communities of colour. \r\n\r\nThe disregard for the health and concerns of these residents raises questions about the inequitable distribution of environmental burdens and the role of local government in protecting vulnerable populations. \r\n\r\nIt also highlights the potential conflicts between development, profit, and public health, and the need for greater transparency and accountability from authorities and developers.\r\n\r\n(This is a Google NotebookLM creation, based on selected sources from [my blog posts](https://davidmarsden.info/categories/politics/) on Southall Gasworks.)\n\n<audio controls=\"controls\" src=\"https://davidmarsden.info/uploads/2024/southall-gasworks-.mp3\" preload=\"metadata\"></audio>\n",
+				"date_published": "2024-10-29T22:21:53+00:00",
+				"url": "https://davidmarsden.info/2024/10/29/the-southall-gasworks.html",
+				"tags": ["Podcast","Politics","Health"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/10/29/chasing-youths-with.html",
+				"title": "Chasing youths with carving knives ",
+				"content_html": "<p>How my journey into care work was a serendipitous outcome of my search for meaning and purpose beyond the confines of traditional work. At least, that&rsquo;s according to Google NotebookLM, based on my <a href=\"https://davidmarsden.info/search/?q=vitae\">Curriculum Vitae</a> series of blog posts.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted -->Transcript<!-- raw HTML omitted --></p>\n",
+				"content_text": "How my journey into care work was a serendipitous outcome of my search for meaning and purpose beyond the confines of traditional work. At least, that's according to Google NotebookLM, based on my [Curriculum Vitae](https://davidmarsden.info/search/?q=vitae) series of blog posts.\n\n<audio controls=\"controls\" src=\"https://davidmarsden.info/uploads/2024/curriculum-vitae.mp3\" preload=\"metadata\"></audio>\n\n<a href=\"https://davidmarsden.info/transcripts/2024/10/29/1603.html\" class=\"transcript_link\">Transcript</a>\n",
+				"date_published": "2024-10-29T21:06:14+00:00",
+				"url": "https://davidmarsden.info/2024/10/29/chasing-youths-with.html",
+				"tags": ["Podcast","Work"]
+			},
 			{
 				"id": "http://davidmarsden.micro.blog/2024/10/27/clear-and-obvious.html",
 				"title": "Clear and obvious error ",
@@ -19,7 +64,7 @@
 				"id": "http://davidmarsden.micro.blog/2024/10/19/i-thought-id.html",
 				
 				"content_html": "<p>I thought I&rsquo;d done great with these pizzas, but big kid ate only three slices (he can usually eat all eight) and spat out his salami, little kid said he doesn&rsquo;t like the sauce (it&rsquo;s out of a tin, the same he usually eats), and the missus said hers was burnt and inedible (although she still ate it).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I thought I'd done great with these pizzas, but big kid ate only three slices (he can usually eat all eight) and spat out his salami, little kid said he doesn't like the sauce (it's out of a tin, the same he usually eats), and the missus said hers was burnt and inedible (although she still ate it).\n\n<img src=\"uploads/2024/52ecdfe16e.jpg\" width=\"337\" height=\"600\" alt=\"photo collage of four different homemade pizzas\">\n",
+				"content_text": "I thought I'd done great with these pizzas, but big kid ate only three slices (he can usually eat all eight) and spat out his salami, little kid said he doesn't like the sauce (it's out of a tin, the same he usually eats), and the missus said hers was burnt and inedible (although she still ate it).\n\n<img src=\"https://cdn.uploads.micro.blog/2588/2024/52ecdfe16e.jpg\" width=\"337\" height=\"600\" alt=\"photo collage of four different homemade pizzas\">\n",
 				"date_published": "2024-10-19T12:27:41+00:00",
 				"url": "https://davidmarsden.info/2024/10/19/i-thought-id.html",
 				"tags": ["Home","Kids","Food","Family"]
