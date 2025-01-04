@@ -7,6 +7,320 @@
 	"items": [
 		
 			{
+				"id": "http://davidmarsden.micro.blog/2025/01/03/boom-figured-out-how-to.html",
+				
+				"content_html": "<p>BOOM! Figured out how to turn off automatic blog post thumbnails. (Wrap <code>&lt;!-- --&gt;</code> around the thumbnail stuff in index.html.)</p>\n<p>On a roll, but should quit while I&rsquo;m ahead.</p>\n",
+				"content_text": "BOOM! Figured out how to turn off automatic blog post thumbnails. (Wrap `<!-- -->` around the thumbnail stuff in index.html.)\r\n\r\nOn a roll, but should quit while I'm ahead.\n",
+				"date_published": "2025-01-03T17:05:59+00:00",
+				"url": "https://davidmarsden.info/2025/01/03/boom-figured-out-how-to.html",
+				"tags": ["Tools"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/01/03/housing-association-sent-someone-round.html",
+				
+				"content_html": "<p>Housing association sent someone round a couple of days ago to place this essential post-Grenfell fire safety sticker inside our communal front door.</p>\n<p>Just now another guy came to do the same job.</p>\n<p>No excuses now for not leaving the house.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Housing association sent someone round a couple of days ago to place this essential post-Grenfell fire safety sticker inside our communal front door.\r\n\r\nJust now another guy came to do the same job.\r\n\r\nNo excuses now for not leaving the house.\n\n<img src=\"uploads/2025/pxl-20250102-192152057.jpg\" width=\"450\" height=\"600\" alt=\"A door with a metal handle and lock features a green sign indicating &quot;Turn to open.&quot;\">\n",
+				"date_published": "2025-01-03T16:35:51+00:00",
+				"url": "https://davidmarsden.info/2025/01/03/housing-association-sent-someone-round.html",
+				"tags": ["Home"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/01/03/finally-figured-out-how-to.html",
+				
+				"content_html": "<p>Finally figured out how to use the <a href=\"https://github.com/rknightuk/micro-blog-lite-youtube\">Lite Youtube embed plugin</a>.</p>\n<p>In settings, replaced &ldquo;post-content&rdquo; with &ldquo;post__content&rdquo;. (This maybe unique to my Anatole theme.)</p>\n<p>Now instead of no videos showing in my blog posts, <a href=\"https://davidmarsden.info/2024/12/31/my-kind-of-guitar-breakdown.html\">every video is displayed twice</a>.</p>\n<p>🤦‍♂️</p>\n",
+				"content_text": "Finally figured out how to use the [Lite Youtube embed plugin](https://github.com/rknightuk/micro-blog-lite-youtube).\r\n\r\nIn settings, replaced \"post-content\" with \"post__content\". (This maybe unique to my Anatole theme.)\r\n\r\nNow instead of no videos showing in my blog posts, [every video is displayed twice](https://davidmarsden.info/2024/12/31/my-kind-of-guitar-breakdown.html).\r\n\r\n🤦‍♂️\n",
+				"date_published": "2025-01-03T14:21:27+00:00",
+				"url": "https://davidmarsden.info/2025/01/03/finally-figured-out-how-to.html",
+				"tags": ["Tools"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/01/03/spaceobsessed-four-year-old-last.html",
+				
+				"content_html": "<p>Space-obsessed four year old last week:</p>\n<p>&ldquo;My head is full of questions, Dad. There are eight planets in our solar system. Four rocky planets, and four gas and ice planets. Do the gas planets have a rocky core?&rdquo;</p>\n<p>Space-obsessed four year old today:</p>\n<p>&ldquo;Daa-aad. What&rsquo;s in Uranus?&rdquo;</p>\n",
+				"content_text": "Space-obsessed four year old last week:\r\n\r\n\r\n\"My head is full of questions, Dad. There are eight planets in our solar system. Four rocky planets, and four gas and ice planets. Do the gas planets have a rocky core?\"\r\n\r\n\r\nSpace-obsessed four year old today:\r\n\r\n\r\n\"Daa-aad. What's in Uranus?\"\r\n\r\n",
+				"date_published": "2025-01-03T10:28:44+00:00",
+				"url": "https://davidmarsden.info/2025/01/03/spaceobsessed-four-year-old-last.html",
+				"tags": ["Kids"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/01/02/spent-half-the-day-trying.html",
+				
+				"content_html": "<p>Spent half the day trying to force <a href=\"https://micro.blog/robb@social.lol\">@robb@social.lol</a>&rsquo;s YouTube Lite plugin to work on my site, but have conceded failure. I thought I had it working at one time (and it definitely worked on my test-blog), so deleted all the YT shortcodes I&rsquo;d been using previously. Gah.</p>\n",
+				"content_text": "Spent half the day trying to force [@robb@social.lol](https://micro.blog/robb@social.lol)'s YouTube Lite plugin to work on my site, but have conceded failure. I thought I had it working at one time (and it definitely worked on my test-blog), so deleted all the YT shortcodes I'd been using previously. Gah.\n",
+				"date_published": "2025-01-02T20:07:20+00:00",
+				"url": "https://davidmarsden.info/2025/01/02/spent-half-the-day-trying.html",
+				"tags": ["Tools"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/01/02/we-always-used-the-have.html",
+				
+				"content_html": "<p>We always used the have a special meal to mark New Year&rsquo;s Day, like Christmas and Easter Sunday, but yesterday, as big kid was away and I had to go and collect him, we ate leftover burgers, chips, rice, beans and salad.</p>\n",
+				"content_text": "We always used the have a special meal to mark New Year's Day, like Christmas and Easter Sunday, but yesterday, as big kid was away and I had to go and collect him, we ate leftover burgers, chips, rice, beans and salad.\n",
+				"date_published": "2025-01-02T15:37:30+00:00",
+				"url": "https://davidmarsden.info/2025/01/02/we-always-used-the-have.html",
+				"tags": ["Home","Kids","Food","Family"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/01/02/main-course-for-me-comfort.html",
+				
+				"content_html": "<p>Main course for me. Comfort food from childhood.</p>\n<p>Boiled gammon, mashed potatoes, carrots and white sauce.</p>\n<p>My Gran and my Mum used the make this. Carrots boiled with the bacon joint. Sweet as!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Main course for me. Comfort food from childhood. \r\n\r\nBoiled gammon, mashed potatoes, carrots and white sauce.\r\n\r\nMy Gran and my Mum used the make this. Carrots boiled with the bacon joint. Sweet as!\n\n<img src=\"https://cdn.uploads.micro.blog/2588/2025/pxl-20250102-151642611.portrait.original.jpg\" width=\"600\" height=\"450\" alt=\"A bowl filled with mashed potatoes, cabbage, sliced meat topped with a creamy sauce, and a side of roasted vegetables.\">\n",
+				"date_published": "2025-01-02T15:32:18+00:00",
+				"url": "https://davidmarsden.info/2025/01/02/main-course-for-me-comfort.html",
+				"tags": ["Food","Family"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/01/02/i-made-a-snowman-out.html",
+				
+				"content_html": "<p>I made a Snowman out of mashed potatoes, with sausage arms, carrot nose, onion mouth, cabbage scarf, roast potato hat and gravy eyes and buttons.</p>\n<p>Will little kid eat it?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I made a Snowman out of mashed potatoes, with sausage arms, carrot nose, onion mouth, cabbage scarf, roast potato hat and gravy eyes and buttons.\r\n\r\nWill little kid eat it?\n\n<img src=\"https://cdn.uploads.micro.blog/2588/2025/pxl-20250102-134646925.portrait.jpg\" width=\"600\" height=\"450\" alt=\"A snowman-shaped sculpture is made from mashed potatoes with a potato hat, carrot nose, gravy eyes, and meat for arms, served on a plate.\">\n",
+				"date_published": "2025-01-02T13:49:35+00:00",
+				"url": "https://davidmarsden.info/2025/01/02/i-made-a-snowman-out.html",
+				"tags": ["Kids","Food"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/01/02/110429.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "  \n  \n<iframe style=\"border: 0; width: 100%; height: 42px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1696210953/size=small/bgcol=ffffff/linkcol=0687f5/track=1320419155/transparent=true/\" seamless><a href=\"https://20lb.bandcamp.com/album/20lb-sounds\">20lb Sounds by 20lb Sounds</a></iframe>\n\n<blockquote class=\"quoteback\" data-author=\"Dan Lynch\" data-avatar=\"https://micro.blog/methoddan@mastodon.social/avatar.jpg\" cite=\"https://mastodon.social/@methoddan/113758324721538278\"><p>I posted on my blog about Jimmy Carter. Hoping to post more in 2025 but don't hold me to that - <a href=\"https://www.danlynch.org/blog/2025/01/rip-jimmy-carter/\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">danlynch.org/blog/2025/01/rip-</span><span class=\"invisible\">jimmy-carter/</span></a></p><p><a href=\"https://mastodon.social/tags/music\" class=\"mention hashtag\">#<span>music</span></a> <a href=\"https://mastodon.social/tags/creativecommons\" class=\"mention hashtag\">#<span>creativecommons</span></a></p><footer>Dan Lynch <cite><a href=\"https://mastodon.social/@methoddan/113758324721538278\" class=\"u-in-reply-to\">https://mastodon.social/@methoddan/113758324721538278</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2025-01-02T11:04:29+00:00",
+				"url": "https://davidmarsden.info/2025/01/02/110429.html",
+				"tags": ["Music","Politics"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/01/01/a-wet-and-wild-whiteknuckle.html",
+				
+				"content_html": "<p>A wet and wild white-knuckle ride home into driving wind and rain on the London Orbital.</p>\n",
+				"content_text": "A wet and wild white-knuckle ride home into driving wind and rain on the London Orbital.\n",
+				"date_published": "2025-01-01T17:43:33+00:00",
+				"url": "https://davidmarsden.info/2025/01/01/a-wet-and-wild-whiteknuckle.html",
+				"tags": ["Home"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/01/01/this-compilation-project-of-bob.html",
+				
+				"content_html": "<p>This <a href=\"https://vimeo.com/328926267\">compilation project of Bob Dylan footage</a> is fantastic.</p>\n<p>Video overdubbed with audio from &ldquo;The 1966 Live Recordings.&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This [compilation project of Bob Dylan footage](https://vimeo.com/328926267) is fantastic.  \n\nVideo overdubbed with audio from \"The 1966 Live Recordings.\" \n\n<div style=\"padding:56.25% 0 0 0;position:relative;\"><iframe src=\"https://player.vimeo.com/video/328926267?badge=0&autopause=0&player_id=0&app_id=58479\" frameborder=\"0\" allow=\"autoplay; fullscreen; picture-in-picture; clipboard-write\" style=\"position:absolute;top:0;left:0;width:100%;height:100%;\" title=\"The Best of Elston Gunn in 1966\"></iframe></div><script src=\"https://player.vimeo.com/api/player.js\"></script>\n",
+				"date_published": "2025-01-01T12:36:51+00:00",
+				"url": "https://davidmarsden.info/2025/01/01/this-compilation-project-of-bob.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/01/01/big-kid-went-home-with.html",
+				
+				"content_html": "<p>Big kid went home with his Auntie and cousins on Monday night, so later I will go and collect him. Hopefully traffic will be a lot less than usual today.</p>\n",
+				"content_text": "Big kid went home with his Auntie and cousins on Monday night, so later I will go and collect him. Hopefully traffic will be a lot less than usual today.\n",
+				"date_published": "2025-01-01T11:20:34+00:00",
+				"url": "https://davidmarsden.info/2025/01/01/big-kid-went-home-with.html",
+				"tags": ["Home","Kids"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/01/01/this-year.html",
+				"title": "This year",
+				"content_html": "<p>This year I&rsquo;m returning to full-time work for the first time in almost a decade. I&rsquo;m looking forward to it, though, and my main focus is going to be on researching and writing grant funding applications for local community youth work.</p>\n<p>Last term I joined my sons' school&rsquo;s parent teacher association specifically to help find grant funding they can apply for. I need to get on with that.</p>\n<p>I also hope to be able to get more involved (again) in local democracy and activism in person. I&rsquo;d like to see if we can get some kind of organised mutual aid and self-help community going.</p>\n<p>I want to get fitter and lose some weight, so I&rsquo;m intend to walk every morning (flat feet permitting) and I&rsquo;m no longer taking sugar in tea and coffee.</p>\n<p>I want to sleep better (which is partly dependent on little kid staying in his own bed all night), breathe better, and get my psoriasis under control.</p>\n<p>And I want a new hat.</p>\n",
+				"content_text": "\r\nThis year I'm returning to full-time work for the first time in almost a decade. I'm looking forward to it, though, and my main focus is going to be on researching and writing grant funding applications for local community youth work.\r\n\r\nLast term I joined my sons' school's parent teacher association specifically to help find grant funding they can apply for. I need to get on with that.\r\n\r\nI also hope to be able to get more involved (again) in local democracy and activism in person. I'd like to see if we can get some kind of organised mutual aid and self-help community going.\r\n\r\nI want to get fitter and lose some weight, so I'm intend to walk every morning (flat feet permitting) and I'm no longer taking sugar in tea and coffee. \r\n\r\nI want to sleep better (which is partly dependent on little kid staying in his own bed all night), breathe better, and get my psoriasis under control. \r\n\r\nAnd I want a new hat.\n",
+				"date_published": "2025-01-01T09:28:59+00:00",
+				"url": "https://davidmarsden.info/2025/01/01/this-year.html",
+				"tags": ["Kids","Work","Health","Tools"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/01/01/last-year-i-feel-like.html",
+				
+				"content_html": "<p>Last year I feel like I tried out some new ways of doing things that make my life better.</p>\n<ul>\n<li>journaling</li>\n<li>reading more</li>\n<li>listening to music more</li>\n<li>being more sociable online, less time on X</li>\n<li>writing (and publishing/sharing) more</li>\n<li>eating less red meat and more beans/pulses instead</li>\n<li>walking more regularly</li>\n</ul>\n",
+				"content_text": "Last year I feel like I tried out some new ways of doing things that make my life better.\r\n\r\n- journaling\r\n- reading more\r\n- listening to music more\r\n- being more sociable online, less time on X\r\n- writing (and publishing/sharing) more\r\n- eating less red meat and more beans/pulses instead \r\n- walking more regularly \r\n\r\n\r\n\r\n",
+				"date_published": "2025-01-01T09:14:26+00:00",
+				"url": "https://davidmarsden.info/2025/01/01/last-year-i-feel-like.html",
+				"tags": ["Health","Tools"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/12/31/this-year-i-managed-to.html",
+				
+				"content_html": "<p>This year I managed to put up bookshelves and bunk beds, fixed a cupboard door back on in the kitchen with new hinges, replaced the silicone seal around the kitchen sink, and unblocked the kitchen sink and the toilet (several times).</p>\n<p>But <a href=\"https://youtube.com/watch?v=q2OnQR6VMwU\">I&rsquo;m not your handyman</a>.</p>\n<blockquote>\n<p>&hellip;these ideas I&rsquo;ll turn to gold dust later</p>\n</blockquote>\n",
+				"content_text": "This year I managed to put up bookshelves and bunk beds, fixed a cupboard door back on in the kitchen with new hinges, replaced the silicone seal around the kitchen sink, and unblocked the kitchen sink and the toilet (several times). \n\nBut [I'm not your handyman](https://youtube.com/watch?v=q2OnQR6VMwU).  \n\n>...these ideas I'll turn to gold dust later\n",
+				"date_published": "2024-12-31T23:53:06+00:00",
+				"url": "https://davidmarsden.info/2024/12/31/this-year-i-managed-to.html",
+				"tags": ["Home","Music","Quotes"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/12/31/the-lovely-micky-taylor-on.html",
+				
+				"content_html": "<p>The lovely <a href=\"https://youtu.be/ivgdPYxX21Q\">Micky Taylor on guitar</a> sounding like Jimi Hendrix.</p>\n<p>I used to have the album cover on my bedroom wall as a teenager.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The lovely [Micky Taylor on guitar](https://youtu.be/ivgdPYxX21Q) sounding like Jimi Hendrix.\n\nI used to have the album cover on my bedroom wall as a teenager.\n\n<img src=\"https://cdn.uploads.micro.blog/2588/2024/snut10.jpg\" width=\"600\" height=\"493\" alt=\"\">\n",
+				"date_published": "2024-12-31T23:33:45+00:00",
+				"url": "https://davidmarsden.info/2024/12/31/the-lovely-micky-taylor-on.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/12/31/my-kind-of-guitar-breakdown.html",
+				
+				"content_html": "<p>My kind of guitar <a href=\"https://youtu.be/RvDHWgUcNlo\">breakdown</a>.</p>\n",
+				"content_text": "My kind of guitar [breakdown](https://youtu.be/RvDHWgUcNlo).\n",
+				"date_published": "2024-12-31T23:11:05+00:00",
+				"url": "https://davidmarsden.info/2024/12/31/my-kind-of-guitar-breakdown.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/12/31/i-love-cat-powers-recreation.html",
+				
+				"content_html": "<blockquote>\n<p>How does it feel, how does it feel?</p>\n</blockquote>\n<p>I love Cat Power&rsquo;s recreation of Bob Dylan&rsquo;s iconic 1966 Royal Albert Hall Concert.</p>\n<p><a href=\"https://youtu.be/aLDsI14ge9k\">Acoustic</a>.</p>\n<p><a href=\"https://youtu.be/Dtkx59cY_eQ\">Electric</a>.</p>\n",
+				"content_text": ">How does it feel, how does it feel?\n\nI love Cat Power's recreation of Bob Dylan's iconic 1966 Royal Albert Hall Concert.\n\n[Acoustic](https://youtu.be/aLDsI14ge9k).\n\n[Electric](https://youtu.be/Dtkx59cY_eQ).\n",
+				"date_published": "2024-12-31T22:44:35+00:00",
+				"url": "https://davidmarsden.info/2024/12/31/i-love-cat-powers-recreation.html",
+				"tags": ["Music","Quotes"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/12/31/it-took-me-a-long.html",
+				
+				"content_html": "<blockquote>\n<p>It took me a long time<br>\nTo figure out I don&rsquo;t know what I want</p>\n</blockquote>\n<p>Three brilliant and very different live versions of &ldquo;Fill In The Blank&rdquo; by Car Seat Headrest.</p>\n<p>From <a href=\"https://youtu.be/UEx6eRxTwUw\">2016</a>.</p>\n<p>Also from <a href=\"https://youtu.be/dkCT9CG9SYI\">2016</a>.</p>\n<p>From <a href=\"https://youtu.be/Wu0fKPHF8Ns\">2018</a>.</p>\n",
+				"content_text": ">It took me a long time  \n>To figure out I don't know what I want\n\nThree brilliant and very different live versions of \"Fill In The Blank\" by Car Seat Headrest.\n\nFrom [2016](https://youtu.be/UEx6eRxTwUw).  \n\nAlso from [2016](https://youtu.be/dkCT9CG9SYI).  \n\nFrom [2018](https://youtu.be/Wu0fKPHF8Ns).  \n",
+				"date_published": "2024-12-31T18:55:37+00:00",
+				"url": "https://davidmarsden.info/2024/12/31/it-took-me-a-long.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/12/31/little-simz-mood-swings-is.html",
+				
+				"content_html": "<p>Little Simz &ldquo;<a href=\"https://youtu.be/4M4XOfXusuo\">Mood Swings</a>&rdquo; is one of my top songs of 2024.</p>\n<p>I think I first heard her on <a href=\"https://youtu.be/Nkt93coQzqg\">Tiny Desk in 2021</a>. A brilliant set &ldquo;at home&rdquo; featuring songs from her &ldquo;Sometimes I Might Be Introvert&rdquo; album.</p>\n<p>Literally just now I discovered she also did a <a href=\"https://youtu.be/O5_IAndUG7g\">Tiny Desk concert in 2017</a>, which is just perfect.</p>\n",
+				"content_text": "Little Simz \"[Mood Swings](https://youtu.be/4M4XOfXusuo)\" is one of my top songs of 2024.  \n\nI think I first heard her on [Tiny Desk in 2021](https://youtu.be/Nkt93coQzqg). A brilliant set \"at home\" featuring songs from her \"Sometimes I Might Be Introvert\" album.  \n\nLiterally just now I discovered she also did a [Tiny Desk concert in 2017](https://youtu.be/O5_IAndUG7g), which is just perfect.  \n",
+				"date_published": "2024-12-31T18:25:21+00:00",
+				"url": "https://davidmarsden.info/2024/12/31/little-simz-mood-swings-is.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/12/31/the-old-hag.html",
+				"title": "The Old Hag",
+				"content_html": "<p>The old house was long and thin, with dark corridors that ran from one end to the other, beside narrow rooms and cold passages, a front room, a dining room, a living room and a kitchen. Upstairs were four bedrooms with a bathroom in the middle, the wooden floorboards boomed and creaked with every step. I lay in the back room above the garden that grew wild, so cold and lonely, but sleep took me away as she did every night.</p>\n<p>The screaming woke me.</p>\n<p>The voice was sobbing, weeping, crying out for help, filling me with its fear, its sobs and cries, as footsteps urgently pounded the way to my sanctuary, beating on the door, &ldquo;Help me! Help me! Please!&rdquo;</p>\n<p>I tried to move, I wanted to help, to say something, anything, but my hands were tied, I was strapped to the bed and gagged, I couldn&rsquo;t move or speak.</p>\n<p>Christ I could barely breathe as the door opened, the screaming stopped and the small dark figure entered and came over to me. It&rsquo;s breath was loud, shallow and hoarse.</p>\n<p>Now I started to make a sound. A pathetic, frightened, cowardly whimper, as the figure climbed on top of me and sat on my chest. I couldn&rsquo;t breathe. I looked at its face&hellip;</p>\n<p>I woke with my heart beating its way out of my chest as the footsteps pounded away down the hallway, taking the sobbing voice with them, as I dried the tears from my cheeks, my mouth dry, and tried to unsee the face that woke me, that saved me.</p>\n",
+				"content_text": "The old house was long and thin, with dark corridors that ran from one end to the other, beside narrow rooms and cold passages, a front room, a dining room, a living room and a kitchen. Upstairs were four bedrooms with a bathroom in the middle, the wooden floorboards boomed and creaked with every step. I lay in the back room above the garden that grew wild, so cold and lonely, but sleep took me away as she did every night.\n\nThe screaming woke me. \n\nThe voice was sobbing, weeping, crying out for help, filling me with its fear, its sobs and cries, as footsteps urgently pounded the way to my sanctuary, beating on the door, \"Help me! Help me! Please!\" \n\nI tried to move, I wanted to help, to say something, anything, but my hands were tied, I was strapped to the bed and gagged, I couldn't move or speak. \n\nChrist I could barely breathe as the door opened, the screaming stopped and the small dark figure entered and came over to me. It's breath was loud, shallow and hoarse. \n\nNow I started to make a sound. A pathetic, frightened, cowardly whimper, as the figure climbed on top of me and sat on my chest. I couldn't breathe. I looked at its face... \n\nI woke with my heart beating its way out of my chest as the footsteps pounded away down the hallway, taking the sobbing voice with them, as I dried the tears from my cheeks, my mouth dry, and tried to unsee the face that woke me, that saved me.\n",
+				"date_published": "2024-12-31T11:54:29+00:00",
+				"url": "https://davidmarsden.info/2024/12/31/the-old-hag.html"
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/12/31/the-unknown-is-the-only.html",
+				
+				"content_html": "<blockquote>\n<p>the unknown is the only true hope for a brighter future</p>\n</blockquote>\n",
+				"content_text": ">the unknown is the only true hope for a brighter future\n",
+				"date_published": "2024-12-31T10:58:34+00:00",
+				"url": "https://davidmarsden.info/2024/12/31/the-unknown-is-the-only.html",
+				"tags": ["Music","Quotes"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/12/31/my-song-of-the-year.html",
+				
+				"content_html": "<p>My <a href=\"https://youtu.be/6TRNUIkVlhg\">song of the year</a> by a country mile.</p>\n<blockquote>\n<p>Drowned and buried at the bottom of a lake is my biggest fear</p>\n</blockquote>\n",
+				"content_text": "My [song of the year](https://youtu.be/6TRNUIkVlhg) by a country mile.\n\n>Drowned and buried at the bottom of a lake is my biggest fear  \n",
+				"date_published": "2024-12-31T10:50:38+00:00",
+				"url": "https://davidmarsden.info/2024/12/31/my-song-of-the-year.html",
+				"tags": ["Music","Quotes"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/12/31/porridge-radio-are-my-band.html",
+				
+				"content_html": "<p>Porridge Radio are my band of the year.</p>\n<p>I relistened to their 2022 album &ldquo;Waterslide, Diving Board, Ladder To The Sky&rdquo; countless times in August. It&rsquo;s intense.</p>\n<p>This is a brilliant solo live version of <a href=\"https://youtu.be/VADexvFdWvI\">Back To The Radio</a>.</p>\n<p>They released their new album &ldquo;Clouds In The Sky They Will Always Be There For Me&rdquo; in October. It&rsquo;s stunning!</p>\n<blockquote>\n<p>I&rsquo;m <a href=\"https://youtu.be/h_D1l0wi3Pk\">sick of the blues</a></p>\n</blockquote>\n<blockquote>\n<p>I&rsquo;m in love with my life again</p>\n</blockquote>\n",
+				"content_text": "Porridge Radio are my band of the year. \n\nI relistened to their 2022 album \"Waterslide, Diving Board, Ladder To The Sky\" countless times in August. It's intense.\n\nThis is a brilliant solo live version of [Back To The Radio](https://youtu.be/VADexvFdWvI).  \n\nThey released their new album \"Clouds In The Sky They Will Always Be There For Me\" in October. It's stunning!\n\n>I'm [sick of the blues](https://youtu.be/h_D1l0wi3Pk)  \n\n>I'm in love with my life again \n",
+				"date_published": "2024-12-31T10:43:05+00:00",
+				"url": "https://davidmarsden.info/2024/12/31/porridge-radio-are-my-band.html",
+				"tags": ["Music","Quotes"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/12/31/isnt-working-surely-he-has.html",
+				
+				"content_html": "<p>3421 isn&rsquo;t working. Surely he has to try something else?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "3421 isn't working. Surely he has to try something else?\r\n\r\n<blockquote class=\"quoteback\" data-author=\"Home - BBC News\" data-avatar=\"https://micro.blog/news.bbc.co.uk/avatar.jpg\" cite=\"https://www.bbc.com/sport/football/articles/c1j0yg95dpno\">Man Utd relegation 'a possibility' says Amorim <a href=\"https://www.bbc.com/sport/football/articles/c1j0yg95dpno\">bbc.com</a><footer>Home - BBC News <cite><a href=\"https://www.bbc.com/sport/football/articles/c1j0yg95dpno\" class=\"u-in-reply-to\">https://www.bbc.com/sport/football/articles/c1j0yg95dpno</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2024-12-31T09:33:02+00:00",
+				"url": "https://davidmarsden.info/2024/12/31/isnt-working-surely-he-has.html",
+				"tags": ["Home"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/12/30/listening-to-her-sing-she.html",
+				
+				"content_html": "<blockquote>\n<p>Listening to her <a href=\"https://youtu.be/O_BTdz326Eg\">sing</a>. She is fully connected to her truth. It shows up in her words, and it shows up in her voice. The two are indistinguishable.</p>\n</blockquote>\n<p><a href=\"https://gkeenan.co/avgb/the-spectre-in-the-rearview-or-fast-car/\">Via</a> <a href=\"https://micro.blog/keenan@social.lol\">@keenan@social.lol</a></p>\n",
+				"content_text": ">Listening to her [sing](https://youtu.be/O_BTdz326Eg). She is fully connected to her truth. It shows up in her words, and it shows up in her voice. The two are indistinguishable.\n\n[Via](https://gkeenan.co/avgb/the-spectre-in-the-rearview-or-fast-car/) [@keenan@social.lol](https://micro.blog/keenan@social.lol) \n",
+				"date_published": "2024-12-30T20:33:09+00:00",
+				"url": "https://davidmarsden.info/2024/12/30/listening-to-her-sing-she.html",
+				"tags": ["Music","Quotes"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/12/30/two-duos-one-an-english.html",
+				
+				"content_html": "<p>Two duos.</p>\n<p><a href=\"https://youtu.be/aSxm8TgcAcY\">One</a> an English female singer-guitarist and an American male singer-guitarist.</p>\n<p><a href=\"https://youtu.be/7UpcNDQYc9M\">The other</a> and American female singer and an English male singer-guitarist.</p>\n",
+				"content_text": "Two duos.  \n\n[One](https://youtu.be/aSxm8TgcAcY) an English female singer-guitarist and an American male singer-guitarist. \n\n[The other](https://youtu.be/7UpcNDQYc9M) and American female singer and an English male singer-guitarist.\n",
+				"date_published": "2024-12-30T20:02:33+00:00",
+				"url": "https://davidmarsden.info/2024/12/30/two-duos-one-an-english.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/12/30/im-having-trouble-breathing-in.html",
+				
+				"content_html": "<blockquote>\n<p>I’m having trouble breathing in</p>\n</blockquote>\n<p>Feels like <a href=\"https://davidmarsden.info/2024/11/13/finally-feel-like.html\">my anthem</a> for the year.</p>\n<p>Great lyrics (including lines from &ldquo;All Shook Up&rdquo; and &ldquo;My Generation&rdquo;) on <a href=\"https://youtu.be/lDdhzooFz4E\">gardening-as-therapy gone wrong</a>.</p>\n",
+				"content_text": ">I’m having trouble breathing in\n\nFeels like [my anthem](https://davidmarsden.info/2024/11/13/finally-feel-like.html) for the year. \n\nGreat lyrics (including lines from \"All Shook Up\" and \"My Generation\") on [gardening-as-therapy gone wrong](https://youtu.be/lDdhzooFz4E). \n",
+				"date_published": "2024-12-30T17:57:50+00:00",
+				"url": "https://davidmarsden.info/2024/12/30/im-having-trouble-breathing-in.html",
+				"tags": ["Music","Quotes"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/12/30/nothing-hes-got-he-really.html",
+				
+				"content_html": "<blockquote>\n<p>Nothing he&rsquo;s got he really needs</p>\n</blockquote>\n<p>Always <a href=\"https://youtu.be/MM_G0IRLEx4\">one</a> shinning up a lamp post!</p>\n",
+				"content_text": ">Nothing he's got he really needs\n\nAlways [one](https://youtu.be/MM_G0IRLEx4) shinning up a lamp post!\n\n",
+				"date_published": "2024-12-30T14:08:46+00:00",
+				"url": "https://davidmarsden.info/2024/12/30/nothing-hes-got-he-really.html",
+				"tags": ["Music","Quotes"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/12/30/todays-menu-illustrations-by-big.html",
+				
+				"content_html": "<p>Today&rsquo;s menu (illustrations by big kid).</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today's menu (illustrations by big kid).\n\n<img src=\"https://cdn.uploads.micro.blog/2588/2024/screenshot-20241230-114658.png\" width=\"439\" height=\"600\" alt=\"A hand-drawn menu featuring items like burgers, fries, pizza, rice, and salad, each with a simple illustration.\">\n",
+				"date_published": "2024-12-30T14:00:42+00:00",
+				"url": "https://davidmarsden.info/2024/12/30/todays-menu-illustrations-by-big.html",
+				"tags": ["Kids","Food"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/12/30/the-crux-of-the-biscuit.html",
+				
+				"content_html": "<blockquote>\n<p>The crux of the biscuit is the apostrophe</p>\n</blockquote>\n<p>What is your <a href=\"https://youtu.be/EmVu-Wxe-Uw\">Conceptual Continuity</a>?</p>\n",
+				"content_text": ">The crux of the biscuit is the apostrophe  \n\nWhat is your [Conceptual Continuity](https://youtu.be/EmVu-Wxe-Uw)?\n",
+				"date_published": "2024-12-30T13:48:21+00:00",
+				"url": "https://davidmarsden.info/2024/12/30/the-crux-of-the-biscuit.html",
+				"tags": ["Music","Quotes"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/12/30/some-personal-listening-highlights-of.html",
+				
+				"content_html": "<p>Some <a href=\"https://music.youtube.com/playlist?list=PLcaa77x5g-XD16stxrg-ViciJPJ8aB8gH&amp;si=oBCtZPxC62GVEUVi\">personal listening highlights</a> of the year.</p>\n",
+				"content_text": "Some [personal listening highlights](https://music.youtube.com/playlist?list=PLcaa77x5g-XD16stxrg-ViciJPJ8aB8gH&si=oBCtZPxC62GVEUVi) of the year.\n",
+				"date_published": "2024-12-30T12:53:36+00:00",
+				"url": "https://davidmarsden.info/2024/12/30/some-personal-listening-highlights-of.html",
+				"tags": ["Kids","Music"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/12/30/i-love-music.html",
+				"title": "How I listen to music",
+				"content_html": "<p>I love music. Who doesn&rsquo;t? I guess there must be some people. I was one of them.</p>\n<p>I stopped loving music when I was too busy feeling miserable to love music or anything else. I stopped loving music when I converted from the warmth and intimacy of vinyl and mix-tapes to the colder and harder to get close to CDs, and later mp3s. The difference between analogue and digital. I do miss my old records.</p>\n<!-- raw HTML omitted -->\n<p>I started loving music again when I started feeling better. I started loving music again when I started investing in better listening gear and lossless digital recordings. I&rsquo;m no audiophile, but it makes a big difference, even (or perhaps especially) to my untrained and unbalanced partially deaf ears. And I honestly don&rsquo;t miss my old CDs.</p>\n<p>How do I listen to music now?</p>\n<p>I&rsquo;ve got a massive pair of old Jamo Gale Force 25 (or 35?) speakers, which I must have bought nearly thirty years ago. Back then they were used as mini-PA speakers in my old band&rsquo;s rehearsal room.</p>\n<p>Since then they&rsquo;ve provided a heavy bass and mid-range sound for music and TV connected through my Sony amplifier (much, much better sound than my previous Marantz and Cambridge Audio amps). I added a pair of smaller QAcoustics top speakers to these a few years ago, which noticeably (and unsurprisingly) improved the top end and overall sound.</p>\n<p>Although I could stream from my phone via the Bluetooth link on the amp, this year I acquired a Tempotec Serenade X music streaming device, which does the same, but with a built-in DAC (digital to analogue converter). It makes a massive sound difference, even at a relatively low cost (these things can cost hundreds if not thousands).</p>\n<p>Plus it can connect via ethernet cable to hi-res streaming services Tidal or Qobuz, and play my entire lossless digital music collection via a connected micro-SD card.</p>\n<p>All of that said, it&rsquo;s not often I get to listen to my music without using headphones. My little kid used to love watching the psychedelic videos of The Beatles and The Stones on YouTube, as well as <a href=\"https://davidmarsden.info/search/?q=tiny+desk\">some Tiny Desk concerts</a>, but that all stopped when he quit daytime naps when he turned four and discovered <em>YouTube Kids</em> and how to operate the TV remote control.</p>\n<p>For years I had a pair of cheap Sennheiser headphones, which were decent enough for listening to mp3s via my laptop. In 2018 I got a Dragonfly Black DAC that plugs into my laptop via USB. The difference in sound quality was astonishing.</p>\n<p>Later that year I bought a Fiio M7 DAC music player, and again the transformation of sound was literally music to my ears.</p>\n<p>This year I got a Tempotec V3 (cheapish, but still an upgrade), and been through wireless Iris Flow ListenWell and wired Bayerdynamic DT 770 Pro Studio headphones, before this year treating myself to a pair of massively discounted wired Focal Elegia &lsquo;phones. Each one offers a different sound. The key being that they make listening to music an aural pleasure again.</p>\n<p>I&rsquo;ve also got some cheapish EarFun in-ear buds (a big upgrade on Pixel buds) for a quick wireless listen and an EarFun dongle DAC to plugin to my headphones and phone or laptop as an upgrade on my Dragonfly.</p>\n<p>Big kid now has my Fiio M7 and Iris Flow headphones and loves listening to The Beatles, as well as my old band <a href=\"https://www.bandlab.com/davidmarsden/albums/e3c6b0ef-d188-ef11-8471-000d3a930775\">Hovercraft</a>.</p>\n",
+				"content_text": "I love music. Who doesn't? I guess there must be some people. I was one of them.\n\nI stopped loving music when I was too busy feeling miserable to love music or anything else. I stopped loving music when I converted from the warmth and intimacy of vinyl and mix-tapes to the colder and harder to get close to CDs, and later mp3s. The difference between analogue and digital. I do miss my old records.\n\n<img src=\"https://cdn.uploads.micro.blog/2588/2024/20241230-111048-collage.jpg\" width=\"600\" height=\"600\" alt=\"\">\n\nI started loving music again when I started feeling better. I started loving music again when I started investing in better listening gear and lossless digital recordings. I'm no audiophile, but it makes a big difference, even (or perhaps especially) to my untrained and unbalanced partially deaf ears. And I honestly don't miss my old CDs.\n\nHow do I listen to music now?\n\nI've got a massive pair of old Jamo Gale Force 25 (or 35?) speakers, which I must have bought nearly thirty years ago. Back then they were used as mini-PA speakers in my old band's rehearsal room. \n\nSince then they've provided a heavy bass and mid-range sound for music and TV connected through my Sony amplifier (much, much better sound than my previous Marantz and Cambridge Audio amps). I added a pair of smaller QAcoustics top speakers to these a few years ago, which noticeably (and unsurprisingly) improved the top end and overall sound. \n\nAlthough I could stream from my phone via the Bluetooth link on the amp, this year I acquired a Tempotec Serenade X music streaming device, which does the same, but with a built-in DAC (digital to analogue converter). It makes a massive sound difference, even at a relatively low cost (these things can cost hundreds if not thousands). \n\nPlus it can connect via ethernet cable to hi-res streaming services Tidal or Qobuz, and play my entire lossless digital music collection via a connected micro-SD card.\n\nAll of that said, it's not often I get to listen to my music without using headphones. My little kid used to love watching the psychedelic videos of The Beatles and The Stones on YouTube, as well as [some Tiny Desk concerts](https://davidmarsden.info/search/?q=tiny+desk), but that all stopped when he quit daytime naps when he turned four and discovered *YouTube Kids* and how to operate the TV remote control.\n\nFor years I had a pair of cheap Sennheiser headphones, which were decent enough for listening to mp3s via my laptop. In 2018 I got a Dragonfly Black DAC that plugs into my laptop via USB. The difference in sound quality was astonishing. \n\nLater that year I bought a Fiio M7 DAC music player, and again the transformation of sound was literally music to my ears. \n\nThis year I got a Tempotec V3 (cheapish, but still an upgrade), and been through wireless Iris Flow ListenWell and wired Bayerdynamic DT 770 Pro Studio headphones, before this year treating myself to a pair of massively discounted wired Focal Elegia 'phones. Each one offers a different sound. The key being that they make listening to music an aural pleasure again. \n\nI've also got some cheapish EarFun in-ear buds (a big upgrade on Pixel buds) for a quick wireless listen and an EarFun dongle DAC to plugin to my headphones and phone or laptop as an upgrade on my Dragonfly.\n\nBig kid now has my Fiio M7 and Iris Flow headphones and loves listening to The Beatles, as well as my old band [Hovercraft](https://www.bandlab.com/davidmarsden/albums/e3c6b0ef-d188-ef11-8471-000d3a930775).\n",
+				"date_published": "2024-12-30T11:37:47+00:00",
+				"url": "https://davidmarsden.info/2024/12/30/i-love-music.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/12/30/today-were-expecting-our-two.html",
+				
+				"content_html": "<p>Today we&rsquo;re expecting our two nieces and their Mum. They&rsquo;re at just the right ages to play with our boys, so it should be a fun day for them as usual, and a hectic one for me.</p>\n",
+				"content_text": "Today we're expecting our two nieces and their Mum. They're at just the right ages to play with our boys, so it should be a fun day for them as usual, and a hectic one for me.\n",
+				"date_published": "2024-12-30T09:39:36+00:00",
+				"url": "https://davidmarsden.info/2024/12/30/today-were-expecting-our-two.html",
+				"tags": ["Home","Kids","Family"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2024/12/30/half-a-leftover-and-browning.html",
+				
+				"content_html": "<p>Half a leftover and browning avocado made my fried eggs something special this morning.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Half a leftover and browning avocado made my fried eggs something special this morning.\n\n<img src=\"https://cdn.uploads.micro.blog/2588/2024/pxl-20241230-091112315.portrait.jpg\" width=\"600\" height=\"450\" alt=\"Two slices of bread topped with avocado, fried eggs, and herbs on a plate.\">\n",
+				"date_published": "2024-12-30T09:36:32+00:00",
+				"url": "https://davidmarsden.info/2024/12/30/half-a-leftover-and-browning.html",
+				"tags": ["Food"]
+			},
+			{
 				"id": "http://davidmarsden.micro.blog/2024/12/29/rip-jimmy-carter-not-that.html",
 				
 				"content_html": "<p>RIP Jimmy Carter. <a href=\"https://davidmarsden.info/2014/05/17/whatever-happened-to.html\">Not <em>that</em> Jimmy Carter.</a></p>\n",
@@ -695,8 +1009,8 @@
 			{
 				"id": "http://davidmarsden.micro.blog/2024/11/30/retreated-to-the.html",
 				
-				"content_html": "<p>Retreated to the relative safety of the bedroom where I&rsquo;m finding solace with Radiohead and OK Computer on a loop.</p>\n<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>\n<div class='embed-container'><iframe src='https://www.youtube.com/embed/TIIBlRZSh48' frameborder='0' allowfullscreen></iframe></div>\n<blockquote>\n<p>An <a href=\"https://youtu.be/TIIBlRZSh48?si=IqpbmQM1plCB3nsb\">airbag</a> saved my life</p>\n</blockquote>\n",
-				"content_text": "Retreated to the relative safety of the bedroom where I'm finding solace with Radiohead and OK Computer on a loop.\r\n\r\n{{< yt \"TIIBlRZSh48\" >}}\r\n\r\n>An [airbag](https://youtu.be/TIIBlRZSh48?si=IqpbmQM1plCB3nsb) saved my life\n",
+				"content_html": "<p>Retreated to the relative safety of the bedroom where I&rsquo;m finding solace with Radiohead and OK Computer on a loop.</p>\n<blockquote>\n<p>An <a href=\"https://youtu.be/TIIBlRZSh48\">airbag</a> saved my life</p>\n</blockquote>\n",
+				"content_text": "Retreated to the relative safety of the bedroom where I'm finding solace with Radiohead and OK Computer on a loop.\n\n>An [airbag](https://youtu.be/TIIBlRZSh48) saved my life\n",
 				"date_published": "2024-11-30T10:45:25+00:00",
 				"url": "https://davidmarsden.info/2024/11/30/retreated-to-the.html",
 				"tags": ["Home","Music","Quotes","Health"]
@@ -784,8 +1098,8 @@
 			{
 				"id": "http://davidmarsden.micro.blog/2024/11/24/dua-lipas-tiny.html",
 				"title": "Dua Lipa's Tiny Desk concerts",
-				"content_html": "<p><em>Dua Lipa&rsquo;s</em> <a href=\"https://youtu.be/F4neLJQC1_E?si=52hwoT6xVo5sgpkC\">Tiny Desk concert at home</a> in between covid lockdowns in 2020 is the most watched Tiny Desk concert ever.</p>\n<p>Which doesn&rsquo;t surprise me at all as we must have watched it literally hundreds, if not thousands, of times.</p>\n<p>My little boy absolutely loved it, and even me and big kid secretly liked it, too.</p>\n<p><em>Love Again</em> is my favourite.</p>\n<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>\n<div class='embed-container'><iframe src='https://www.youtube.com/embed/F4neLJQC1_E' frameborder='0' allowfullscreen></iframe></div>\n<p>She&rsquo;s just performed <a href=\"https://youtu.be/y38qQRg3UDI?si=_8Py0dIP-Fe2KMzL\">a new concert</a> at Tiny Desk HQ, and it&rsquo;s also very watchable and listenable, with <em>These Walls</em> the standout track.</p>\n<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>\n<div class='embed-container'><iframe src='https://www.youtube.com/embed/y38qQRg3UDI' frameborder='0' allowfullscreen></iframe></div>\n",
-				"content_text": "*Dua Lipa's* [Tiny Desk concert at home](https://youtu.be/F4neLJQC1_E?si=52hwoT6xVo5sgpkC) in between covid lockdowns in 2020 is the most watched Tiny Desk concert ever. \r\n\r\nWhich doesn't surprise me at all as we must have watched it literally hundreds, if not thousands, of times. \r\n\r\nMy little boy absolutely loved it, and even me and big kid secretly liked it, too.\r\n\r\n*Love Again* is my favourite.\r\n\r\n{{< yt \"F4neLJQC1_E\" >}}\r\n\r\nShe's just performed [a new concert](https://youtu.be/y38qQRg3UDI?si=_8Py0dIP-Fe2KMzL) at Tiny Desk HQ, and it's also very watchable and listenable, with *These Walls* the standout track.\r\n\r\n{{< yt \"y38qQRg3UDI\" >}}\n",
+				"content_html": "<p><em>Dua Lipa&rsquo;s</em> <a href=\"https://youtu.be/F4neLJQC1_E\">Tiny Desk concert at home</a> in between covid lockdowns in 2020 is the most watched Tiny Desk concert ever.</p>\n<p>Which doesn&rsquo;t surprise me at all as we must have watched it literally hundreds, if not thousands, of times.</p>\n<p>My little boy absolutely loved it, and even me and big kid secretly liked it, too.</p>\n<p><em>Love Again</em> is my favourite.</p>\n<p>She&rsquo;s just performed <a href=\"https://youtu.be/y38qQRg3UDI\">a new concert</a> at Tiny Desk HQ, and it&rsquo;s also very watchable and listenable, with <em>These Walls</em> the standout track.</p>\n",
+				"content_text": "*Dua Lipa's* [Tiny Desk concert at home](https://youtu.be/F4neLJQC1_E) in between covid lockdowns in 2020 is the most watched Tiny Desk concert ever. \n\nWhich doesn't surprise me at all as we must have watched it literally hundreds, if not thousands, of times. \n\nMy little boy absolutely loved it, and even me and big kid secretly liked it, too.\n\n*Love Again* is my favourite.\n\nShe's just performed [a new concert](https://youtu.be/y38qQRg3UDI) at Tiny Desk HQ, and it's also very watchable and listenable, with *These Walls* the standout track.\n",
 				"date_published": "2024-11-24T13:10:10+00:00",
 				"url": "https://davidmarsden.info/2024/11/24/dua-lipas-tiny.html",
 				"tags": ["Home","Kids","Music"]
@@ -820,8 +1134,8 @@
 			{
 				"id": "http://davidmarsden.micro.blog/2024/11/23/jon-batiste-like.html",
 				"title": "Jon Batiste's Tiny Desk concert ",
-				"content_html": "<p><em>Jon Batiste</em>, like <em>Alicia Keys</em>, is a supremely talented musician and performer. This is another must watch <em><a href=\"https://youtu.be/ze4xcmBFvaE?si=dglvmgE4ijf9AvyH\">Tiny Desk</a></em> concert from 2019.</p>\n<p>This is another video my little kid enjoyed watching, singing along to (before he could talk), and dancing to with his big brother (before falling asleep).</p>\n<blockquote>\n<p>Don&rsquo;t it make your soul shake?</p>\n</blockquote>\n<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>\n<div class='embed-container'><iframe src='https://www.youtube.com/embed/ze4xcmBFvaE' frameborder='0' allowfullscreen></iframe></div>\n",
-				"content_text": "*Jon Batiste*, like *Alicia Keys*, is a supremely talented musician and performer. This is another must watch *[Tiny Desk](https://youtu.be/ze4xcmBFvaE?si=dglvmgE4ijf9AvyH)* concert from 2019.\n\nThis is another video my little kid enjoyed watching, singing along to (before he could talk), and dancing to with his big brother (before falling asleep).\n\n>Don't it make your soul shake?\n\n{{< yt \"ze4xcmBFvaE\" >}}\n",
+				"content_html": "<p><em>Jon Batiste</em>, like <em>Alicia Keys</em>, is a supremely talented musician and performer. This is another must watch <em><a href=\"https://youtu.be/ze4xcmBFvaE\">Tiny Desk</a></em> concert from 2019.</p>\n<p>This is another video my little kid enjoyed watching, singing along to (before he could talk), and dancing to with his big brother (before falling asleep).</p>\n<blockquote>\n<p>Don&rsquo;t it make your soul shake?</p>\n</blockquote>\n",
+				"content_text": "*Jon Batiste*, like *Alicia Keys*, is a supremely talented musician and performer. This is another must watch *[Tiny Desk](https://youtu.be/ze4xcmBFvaE)* concert from 2019.\n\nThis is another video my little kid enjoyed watching, singing along to (before he could talk), and dancing to with his big brother (before falling asleep).\n\n>Don't it make your soul shake?\n",
 				"date_published": "2024-11-23T15:29:35+00:00",
 				"url": "https://davidmarsden.info/2024/11/23/jon-batiste-like.html",
 				"tags": ["Kids","Music","Quotes"]
@@ -829,8 +1143,8 @@
 			{
 				"id": "http://davidmarsden.micro.blog/2024/11/23/if-you-havent.html",
 				"title": "Alicia Keys' Tiny Desk concert ",
-				"content_html": "<p>If you haven&rsquo;t seen and listened to <em><a href=\"https://youtu.be/uwUt1fVLb3E?si=wxNb516oazdWoCOf\">Alicia Keys</a></em>' Tiny Desk concert (Feb 2020) then I highly recommend that you do, even if - or especially if - you think she&rsquo;s not your thing.</p>\n<p>This is a video my little kid loved to sing along to before falling asleep for a mid-day or afternoon nap.</p>\n<blockquote>\n<p>We all just wanna be shown some love</p>\n</blockquote>\n<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>\n<div class='embed-container'><iframe src='https://www.youtube.com/embed/uwUt1fVLb3E' frameborder='0' allowfullscreen></iframe></div>\n",
-				"content_text": "\nIf you haven't seen and listened to *[Alicia Keys](https://youtu.be/uwUt1fVLb3E?si=wxNb516oazdWoCOf)*' Tiny Desk concert (Feb 2020) then I highly recommend that you do, even if - or especially if - you think she's not your thing.\n\nThis is a video my little kid loved to sing along to before falling asleep for a mid-day or afternoon nap.\n\n>We all just wanna be shown some love \n\n{{< yt \"uwUt1fVLb3E\" >}}\n",
+				"content_html": "<p>If you haven&rsquo;t seen and listened to <em><a href=\"https://youtu.be/uwUt1fVLb3E\">Alicia Keys</a></em>' Tiny Desk concert (Feb 2020) then I highly recommend that you do, even if - or especially if - you think she&rsquo;s not your thing.</p>\n<p>This is a video my little kid loved to sing along to before falling asleep for a mid-day or afternoon nap.</p>\n<blockquote>\n<p>We all just wanna be shown some love</p>\n</blockquote>\n",
+				"content_text": "\nIf you haven't seen and listened to *[Alicia Keys](https://youtu.be/uwUt1fVLb3E)*' Tiny Desk concert (Feb 2020) then I highly recommend that you do, even if - or especially if - you think she's not your thing.\n\nThis is a video my little kid loved to sing along to before falling asleep for a mid-day or afternoon nap.\n\n>We all just wanna be shown some love \n",
 				"date_published": "2024-11-23T15:09:46+00:00",
 				"url": "https://davidmarsden.info/2024/11/23/if-you-havent.html",
 				"tags": ["Kids","Music","Quotes"]
@@ -847,8 +1161,8 @@
 			{
 				"id": "http://davidmarsden.micro.blog/2024/11/23/living-and-breathing.html",
 				"title": "Living and breathing",
-				"content_html": "<p>I have vague memories of seeing <em>Florence + The Machine</em> on the BBC at Glastonbury, possibly in 2009. She was the big new thing, breathlessly jumping around all over the place, <a href=\"https://youtu.be/jKbgrzjUlFY?si=oeICViVvIFebb9yN\">climbing up the gantry</a>, as she showcased her debut album <em>Lungs</em>.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://www.florenceandthemachinefanclub.com/lungs-photoshoot/\">Lungs album cover photoshoot stills - Tom Beard 2009</a></p>\n<p>Or maybe it was 2015. <em><a href=\"https://youtu.be/ZDXkD4l0ZBE?si=h8rXDWAWFY5VHYbP\">Ship To Wreck</a></em> sounds so familiar and like it would have caught my ear.</p>\n<p>All very dramatic, elemental, and possibly not quite my thing more generally at those particular times. I didn&rsquo;t pay much attention then or since.</p>\n<p>By then, I&rsquo;d fallen out of love with life, not just music. In recent years, I&rsquo;ve rediscovered music, and life, and this week <em>Florence + The Machine</em>.</p>\n<p>My little kid is 4 ½ years old. He&rsquo;s obsessed with space at the moment. When he was younger, and still napping in the day, we found that he enjoyed falling asleep to a variety of music videos on YouTube. Mostly videos of music <em>I</em> liked. I don&rsquo;t know how that happened!</p>\n<p>At one time he really enjoyed some of the <em>NPR Tiny Desk</em> concerts - bands playing stripped down acoustic or semi-acoustic fifteen minute sets on a tiny office stage in front of a small audience.</p>\n<p>Two he really liked were <em><a href=\"https://youtu.be/uwUt1fVLb3E?si=CjjuwAbkMKVhe97n\">Alicia Keys</a></em> and <em><a href=\"https://youtu.be/ze4xcmBFvaE?si=tR4jOUtBoBypDBlt\">Jon Batiste</a></em> - which weren&rsquo;t my choices (well, they were my choices, but now I had permission to choose them), but I grew to love them, too. It&rsquo;s hard not love such amazing musicianship, singing and songs, all performed with unconfined joy in the moment. My son got it. So did I.</p>\n<p>One he wasn&rsquo;t so keen on, but I enjoyed, was <em>Florence + The Machine&rsquo;s</em> Tiny Desk performance. Usually so full of bombast, almost over-produced, and perfect for rocking out stadium tours, this was vulnerable and exposed. Two voices, a harp, acoustic guitar and keyboard. Three perfect songs.</p>\n<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>\n<div class='embed-container'><iframe src='https://www.youtube.com/embed/EkPrXL-H5Qc' frameborder='0' allowfullscreen></iframe></div>\n<p>I really tried to listen to more, the album versions, but I still couldn&rsquo;t get into them.</p>\n<p>This week, with my focus on my own personal breathlessness and <a href=\"https://davidmarsden.info/search/?q=lung\">lung history</a>, and still thinking about <a href=\"https://davidmarsden.info/2024/11/19/got-carter.html\">another Machine</a> entirely, I tried again. I still couldn&rsquo;t do it, not fully. I now liked the album versions of the Tiny Desk songs, but the rest washed over me. I read more about the band, the albums, reviews, trying <a href=\"https://www.34st.com/article/2019/10/florence-the-machine-lungs-ten-year-anniversary-sad-girl-fall-lana-del-rey\">to understand why people like them so much</a>.</p>\n<p>Then last night, I finally got it. I cant explain why, exactly. Maybe it&rsquo;s just familiarity. Probably it&rsquo;s paying attention. As with many things in life, you sometimes have to make an effort to learn to appreciate things and develop a taste (or ear) for them.</p>\n<blockquote>\n<p>Each breath screaming / &lsquo;We are all too young to die,'” Welch sings in the chorus of “Between Two Lungs&quot;</p>\n</blockquote>\n<p>I do wonder also, though, if sometimes songs speak to me even when I&rsquo;m not actively listening? I&rsquo;ve always been useless at remembering lyrics. Not great for singing songs in a band. But the songs I love for the music, the energy, the tunes&hellip; When I do pay attention to the words, sometimes years later, they do carry meaning for me (even if that&rsquo;s not necessarily what the song is actually about). They just needed to be heard. That&rsquo;s the beauty of it.</p>\n<blockquote>\n<p>No more gasping for a breath<br>\nThe air has filled me head-to-toe<br>\nAnd I can see the ground far below<br>\nI have this breath and I hold it tight<br>\nAnd I keep it in my chest with all my might<br>\nI pray to god this breath will last</p>\n</blockquote>\n",
-				"content_text": "I have vague memories of seeing *Florence + The Machine* on the BBC at Glastonbury, possibly in 2009. She was the big new thing, breathlessly jumping around all over the place, [climbing up the gantry](https://youtu.be/jKbgrzjUlFY?si=oeICViVvIFebb9yN), as she showcased her debut album *Lungs*.\n\n<img src=\"https://cdn.uploads.micro.blog/2588/2024/c9ad8ab9c51b3ddeea2b13886734eb1e.png\" width=\"600\" height=\"607\" alt=\"\">\n\n[Lungs album cover photoshoot stills - Tom Beard 2009](https://www.florenceandthemachinefanclub.com/lungs-photoshoot/)\n\nOr maybe it was 2015. *[Ship To Wreck](https://youtu.be/ZDXkD4l0ZBE?si=h8rXDWAWFY5VHYbP)* sounds so familiar and like it would have caught my ear.\n\nAll very dramatic, elemental, and possibly not quite my thing more generally at those particular times. I didn't pay much attention then or since.\n\nBy then, I'd fallen out of love with life, not just music. In recent years, I've rediscovered music, and life, and this week *Florence + The Machine*.\n\nMy little kid is 4 ½ years old. He's obsessed with space at the moment. When he was younger, and still napping in the day, we found that he enjoyed falling asleep to a variety of music videos on YouTube. Mostly videos of music *I* liked. I don't know how that happened!\n\nAt one time he really enjoyed some of the *NPR Tiny Desk* concerts - bands playing stripped down acoustic or semi-acoustic fifteen minute sets on a tiny office stage in front of a small audience. \n\nTwo he really liked were *[Alicia Keys](https://youtu.be/uwUt1fVLb3E?si=CjjuwAbkMKVhe97n)* and *[Jon Batiste](https://youtu.be/ze4xcmBFvaE?si=tR4jOUtBoBypDBlt)* - which weren't my choices (well, they were my choices, but now I had permission to choose them), but I grew to love them, too. It's hard not love such amazing musicianship, singing and songs, all performed with unconfined joy in the moment. My son got it. So did I. \n\nOne he wasn't so keen on, but I enjoyed, was *Florence + The Machine's* Tiny Desk performance. Usually so full of bombast, almost over-produced, and perfect for rocking out stadium tours, this was vulnerable and exposed. Two voices, a harp, acoustic guitar and keyboard. Three perfect songs.\n\n{{< yt \"EkPrXL-H5Qc\" >}}\n\nI really tried to listen to more, the album versions, but I still couldn't get into them.\n\nThis week, with my focus on my own personal breathlessness and [lung history](https://davidmarsden.info/search/?q=lung), and still thinking about [another Machine](https://davidmarsden.info/2024/11/19/got-carter.html) entirely, I tried again. I still couldn't do it, not fully. I now liked the album versions of the Tiny Desk songs, but the rest washed over me. I read more about the band, the albums, reviews, trying [to understand why people like them so much](https://www.34st.com/article/2019/10/florence-the-machine-lungs-ten-year-anniversary-sad-girl-fall-lana-del-rey). \n\nThen last night, I finally got it. I cant explain why, exactly. Maybe it's just familiarity. Probably it's paying attention. As with many things in life, you sometimes have to make an effort to learn to appreciate things and develop a taste (or ear) for them. \n\n>Each breath screaming / 'We are all too young to die,'” Welch sings in the chorus of “Between Two Lungs\" \n\nI do wonder also, though, if sometimes songs speak to me even when I'm not actively listening? I've always been useless at remembering lyrics. Not great for singing songs in a band. But the songs I love for the music, the energy, the tunes... When I do pay attention to the words, sometimes years later, they do carry meaning for me (even if that's not necessarily what the song is actually about). They just needed to be heard. That's the beauty of it.\n\n>No more gasping for a breath  \n>The air has filled me head-to-toe  \n>And I can see the ground far below  \n>I have this breath and I hold it tight  \n>And I keep it in my chest with all my might  \n>I pray to god this breath will last \n",
+				"content_html": "<p>I have vague memories of seeing <em>Florence + The Machine</em> on the BBC at Glastonbury, possibly in 2009. She was the big new thing, breathlessly jumping around all over the place, <a href=\"https://youtu.be/jKbgrzjUlFY\">climbing up the gantry</a>, as she showcased her debut album <em>Lungs</em>.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://www.florenceandthemachinefanclub.com/lungs-photoshoot/\">Lungs album cover photoshoot stills - Tom Beard 2009</a></p>\n<p>Or maybe it was 2015. <em><a href=\"https://youtu.be/ZDXkD4l0ZBE\">Ship To Wreck</a></em> sounds so familiar and like it would have caught my ear.</p>\n<p>All very dramatic, elemental, and possibly not quite my thing more generally at those particular times. I didn&rsquo;t pay much attention then or since.</p>\n<p>By then, I&rsquo;d fallen out of love with life, not just music. In recent years, I&rsquo;ve rediscovered music, and life, and this week <em>Florence + The Machine</em>.</p>\n<p>My little kid is 4 ½ years old. He&rsquo;s obsessed with space at the moment. When he was younger, and still napping in the day, we found that he enjoyed falling asleep to a variety of music videos on YouTube. Mostly videos of music <em>I</em> liked. I don&rsquo;t know how that happened!</p>\n<p>At one time he really enjoyed some of the <em>NPR Tiny Desk</em> concerts - bands playing stripped down acoustic or semi-acoustic fifteen minute sets on a tiny office stage in front of a small audience.</p>\n<p>Two he really liked were <em><a href=\"https://youtu.be/uwUt1fVLb3E\">Alicia Keys</a></em> and <em><a href=\"https://youtu.be/ze4xcmBFvaE\">Jon Batiste</a></em> - which weren&rsquo;t my choices (well, they were my choices, but now I had permission to choose them), but I grew to love them, too. It&rsquo;s hard not love such amazing musicianship, singing and songs, all performed with unconfined joy in the moment. My son got it. So did I.</p>\n<p>One he wasn&rsquo;t so keen on, but I enjoyed, was <em>Florence + The Machine&rsquo;s</em> <a href=\"https://youtu.be/EkPrXL-H5Qc\">Tiny Desk</a> performance. Usually so full of bombast, almost over-produced, and perfect for rocking out stadium tours, this was vulnerable and exposed. Two voices, a harp, acoustic guitar and keyboard. Three perfect songs.</p>\n<p>I really tried to listen to more, the album versions, but I still couldn&rsquo;t get into them.</p>\n<p>This week, with my focus on my own personal breathlessness and <a href=\"https://davidmarsden.info/search/?q=lung\">lung history</a>, and still thinking about <a href=\"https://davidmarsden.info/2024/11/19/got-carter.html\">another Machine</a> entirely, I tried again. I still couldn&rsquo;t do it, not fully. I now liked the album versions of the Tiny Desk songs, but the rest washed over me. I read more about the band, the albums, reviews, trying <a href=\"https://www.34st.com/article/2019/10/florence-the-machine-lungs-ten-year-anniversary-sad-girl-fall-lana-del-rey\">to understand why people like them so much</a>.</p>\n<p>Then last night, I finally got it. I cant explain why, exactly. Maybe it&rsquo;s just familiarity. Probably it&rsquo;s paying attention. As with many things in life, you sometimes have to make an effort to learn to appreciate things and develop a taste (or ear) for them.</p>\n<blockquote>\n<p>Each breath screaming / &lsquo;We are all too young to die,'” Welch sings in the chorus of “Between Two Lungs&quot;</p>\n</blockquote>\n<p>I do wonder also, though, if sometimes songs speak to me even when I&rsquo;m not actively listening? I&rsquo;ve always been useless at remembering lyrics. Not great for singing songs in a band. But the songs I love for the music, the energy, the tunes&hellip; When I do pay attention to the words, sometimes years later, they do carry meaning for me (even if that&rsquo;s not necessarily what the song is actually about). They just needed to be heard. That&rsquo;s the beauty of it.</p>\n<blockquote>\n<p>No more gasping for a breath<br>\nThe air has filled me head-to-toe<br>\nAnd I can see the ground far below<br>\nI have this breath and I hold it tight<br>\nAnd I keep it in my chest with all my might<br>\nI pray to god this breath will last</p>\n</blockquote>\n",
+				"content_text": "I have vague memories of seeing *Florence + The Machine* on the BBC at Glastonbury, possibly in 2009. She was the big new thing, breathlessly jumping around all over the place, [climbing up the gantry](https://youtu.be/jKbgrzjUlFY), as she showcased her debut album *Lungs*.\n\n<img src=\"https://cdn.uploads.micro.blog/2588/2024/c9ad8ab9c51b3ddeea2b13886734eb1e.png\" width=\"600\" height=\"607\" alt=\"\">\n\n[Lungs album cover photoshoot stills - Tom Beard 2009](https://www.florenceandthemachinefanclub.com/lungs-photoshoot/)\n\nOr maybe it was 2015. *[Ship To Wreck](https://youtu.be/ZDXkD4l0ZBE)* sounds so familiar and like it would have caught my ear.\n\nAll very dramatic, elemental, and possibly not quite my thing more generally at those particular times. I didn't pay much attention then or since.\n\nBy then, I'd fallen out of love with life, not just music. In recent years, I've rediscovered music, and life, and this week *Florence + The Machine*.\n\nMy little kid is 4 ½ years old. He's obsessed with space at the moment. When he was younger, and still napping in the day, we found that he enjoyed falling asleep to a variety of music videos on YouTube. Mostly videos of music *I* liked. I don't know how that happened!\n\nAt one time he really enjoyed some of the *NPR Tiny Desk* concerts - bands playing stripped down acoustic or semi-acoustic fifteen minute sets on a tiny office stage in front of a small audience. \n\nTwo he really liked were *[Alicia Keys](https://youtu.be/uwUt1fVLb3E)* and *[Jon Batiste](https://youtu.be/ze4xcmBFvaE)* - which weren't my choices (well, they were my choices, but now I had permission to choose them), but I grew to love them, too. It's hard not love such amazing musicianship, singing and songs, all performed with unconfined joy in the moment. My son got it. So did I. \n\nOne he wasn't so keen on, but I enjoyed, was *Florence + The Machine's* [Tiny Desk](https://youtu.be/EkPrXL-H5Qc) performance. Usually so full of bombast, almost over-produced, and perfect for rocking out stadium tours, this was vulnerable and exposed. Two voices, a harp, acoustic guitar and keyboard. Three perfect songs.\n\nI really tried to listen to more, the album versions, but I still couldn't get into them.\n\nThis week, with my focus on my own personal breathlessness and [lung history](https://davidmarsden.info/search/?q=lung), and still thinking about [another Machine](https://davidmarsden.info/2024/11/19/got-carter.html) entirely, I tried again. I still couldn't do it, not fully. I now liked the album versions of the Tiny Desk songs, but the rest washed over me. I read more about the band, the albums, reviews, trying [to understand why people like them so much](https://www.34st.com/article/2019/10/florence-the-machine-lungs-ten-year-anniversary-sad-girl-fall-lana-del-rey). \n\nThen last night, I finally got it. I cant explain why, exactly. Maybe it's just familiarity. Probably it's paying attention. As with many things in life, you sometimes have to make an effort to learn to appreciate things and develop a taste (or ear) for them. \n\n>Each breath screaming / 'We are all too young to die,'” Welch sings in the chorus of “Between Two Lungs\" \n\nI do wonder also, though, if sometimes songs speak to me even when I'm not actively listening? I've always been useless at remembering lyrics. Not great for singing songs in a band. But the songs I love for the music, the energy, the tunes... When I do pay attention to the words, sometimes years later, they do carry meaning for me (even if that's not necessarily what the song is actually about). They just needed to be heard. That's the beauty of it.\n\n>No more gasping for a breath  \n>The air has filled me head-to-toe  \n>And I can see the ground far below  \n>I have this breath and I hold it tight  \n>And I keep it in my chest with all my might  \n>I pray to god this breath will last \n",
 				"date_published": "2024-11-23T13:19:02+00:00",
 				"url": "https://davidmarsden.info/2024/11/23/living-and-breathing.html",
 				"tags": ["Music","Health"]
@@ -4356,8 +4670,8 @@
 			{
 				"id": "http://davidmarsden.micro.blog/2012/09/23/any-mention-of.html",
 				
-				"content_html": "<p>Any mention of &lsquo;baboon&rsquo; always reminds me of <a href=\"https://youtube.com/clip/UgkxKM5iOKuTC_rQX7wY9xpykQhE7SVtMK0C?si=s8KcQumHIiR8H_Na\">Stephen K Amos&rsquo;s hilarious skit</a>.</p>\n<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style>\n<div class='embed-container'><iframe src='https://www.youtube.com/embed/4n8DHCLC8DU' frameborder='0' allowfullscreen></iframe></div>\n",
-				"content_text": "Any mention of 'baboon' always reminds me of [Stephen K Amos's hilarious skit](https://youtube.com/clip/UgkxKM5iOKuTC_rQX7wY9xpykQhE7SVtMK0C?si=s8KcQumHIiR8H_Na).\n\n{{< yt \"4n8DHCLC8DU\" >}}\n",
+				"content_html": "<p>Any mention of &lsquo;baboon&rsquo; always reminds me of <a href=\"https://youtube.com/clip/UgkxKM5iOKuTC_rQX7wY9xpykQhE7SVtMK0C\">Stephen K Amos&rsquo;s hilarious skit</a>.</p>\n",
+				"content_text": "Any mention of 'baboon' always reminds me of [Stephen K Amos's hilarious skit](https://youtube.com/clip/UgkxKM5iOKuTC_rQX7wY9xpykQhE7SVtMK0C).\n",
 				"date_published": "2012-09-23T19:22:00+00:00",
 				"url": "https://davidmarsden.info/2012/09/23/any-mention-of.html",
 				"tags": ["Quotes","TV \u0026 Film"]
