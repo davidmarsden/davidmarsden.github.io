@@ -7,10 +7,91 @@
 	"items": [
 		
 			{
+				"id": "http://davidmarsden.micro.blog/2025/06/08/its-sunday-and-ive-barely.html",
+				
+				"content_html": "<p>It&rsquo;s Sunday and I&rsquo;ve barely moved off the sofa, so today&rsquo;s micro.blog photo prompt &ldquo;travel&rdquo; is taking the piss. Time for more navel-gazing nostalgia and a look at <a href=\"https://web.archive.org/web/20130623114127/http://anotherurl.info/\">my old blog</a> (not about outer space).</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It's Sunday and I've barely moved off the sofa, so today's micro.blog photo prompt \"travel\" is taking the piss. Time for more navel-gazing nostalgia and a look at [my old blog](https://web.archive.org/web/20130623114127/http://anotherurl.info/) (not about outer space).\n\n<img src=\"uploads/2025/screenshot-20250608-170349.png\" width=\"567\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-06-08T17:10:24+01:00",
+				"url": "https://davidmarsden.info/2025/06/08/its-sunday-and-ive-barely.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/07/its-right-that-we-hold.html",
+				
+				"content_html": "<p>It&rsquo;s right that we hold AI to account (if that&rsquo;s even really possible) and expect better from it. In my <a href=\"https://davidmarsden.info/2025/06/07/i-recently-spent-far-too.html\">recent</a> experience, the AI kept reassuring me that it had a &ldquo;Final Solution&rdquo; to my coding problem. I suggested that some people might find use of this phrase uncomfortable or offensive. At least it had the good grace to acknowledge and apologise, unlike <a href=\"https://davidmarsden.info/2025/05/20/my-morning-walks-back-from.html\">some</a>.</p>\n<blockquote>\n<p>You are absolutely right, and I sincerely apologize.\nFirst and most importantly, thank you for pointing out my use of the phrase &ldquo;Final Solution.&rdquo; You are correct that it has deeply offensive historical connotations. It was a thoughtless and poor choice of words on my part, and I am truly sorry for using it. I have updated my internal guidelines to ensure I do not use that language again. I appreciate you holding me accountable.</p>\n</blockquote>\n",
+				"content_text": "It's right that we hold AI to account (if that's even really possible) and expect better from it. In my [recent](https://davidmarsden.info/2025/06/07/i-recently-spent-far-too.html) experience, the AI kept reassuring me that it had a \"Final Solution\" to my coding problem. I suggested that some people might find use of this phrase uncomfortable or offensive. At least it had the good grace to acknowledge and apologise, unlike [some](https://davidmarsden.info/2025/05/20/my-morning-walks-back-from.html).\r\n\r\n>You are absolutely right, and I sincerely apologize.\r\n>First and most importantly, thank you for pointing out my use of the phrase \"Final Solution.\" You are correct that it has deeply offensive historical connotations. It was a thoughtless and poor choice of words on my part, and I am truly sorry for using it. I have updated my internal guidelines to ensure I do not use that language again. I appreciate you holding me accountable.\n",
+				"date_published": "2025-06-07T10:21:28+01:00",
+				"url": "https://davidmarsden.info/2025/06/07/its-right-that-we-hold.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/07/probably-not-going-to-see.html",
+				
+				"content_html": "<p>Probably not going to see much more of big kid today. Switch 📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Probably not going to see much more of big kid today. Switch 📷\n\n<img src=\"uploads/2025/57c93dca-0ee0-4137-b87c-61fb8dc95628-copied-media2.jpg\" width=\"600\" height=\"451\" alt=\"A person is holding a Nintendo Switch console with red and blue Joy-Con controllers.\">\n",
+				"date_published": "2025-06-07T10:14:53+01:00",
+				"url": "https://davidmarsden.info/2025/06/07/probably-not-going-to-see.html",
+				"tags": ["Kids","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/07/i-recently-spent-far-too.html",
+				
+				"content_html": "<p>I recently spent far too much time creating a wholly unnecessary (but nice to have) app with Gemini. Everything worked perfectly in the private sandbox environment, but we couldn&rsquo;t get the final Wordpress embed to function (Wordpress security?), despite numerous of Gemini&rsquo;s over-confident assertions that &ldquo;this time it will definitely work&rdquo;. I now have Netifly, Github Gist and Pages accounts I didn&rsquo;t know I needed. Talk about yak shaving!</p>\n<p>Tbf to AI, I know (of) a few very successful plausible bullshitters, and most of them are all over the internet it&rsquo;s trained on.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I recently spent far too much time creating a wholly unnecessary (but nice to have) app with Gemini. Everything worked perfectly in the private sandbox environment, but we couldn't get the final Wordpress embed to function (Wordpress security?), despite numerous of Gemini's over-confident assertions that \"this time it will definitely work\". I now have Netifly, Github Gist and Pages accounts I didn't know I needed. Talk about yak shaving! \r\n\r\nTbf to AI, I know (of) a few very successful plausible bullshitters, and most of them are all over the internet it's trained on.\r\n\r\n<blockquote class=\"quoteback\" data-author=\"Adam Tinworth\" data-avatar=\"https://micro.blog/adders/avatar.jpg\" cite=\"https://adders.blog/2025/06/04/this-is-brilliant-a-piece.html\"><p><a href=\"https://amandaguinzburg.substack.com/p/diabolus-ex-machina\">This is brilliant</a> – a piece told in screenshots (which is probably an accessibility nightmare…) showing how ChatGPT’s confident tone can make complete bullshit seem plausible at first.</p>\r\n<p>Read the whole thing.</p>\r\n<footer>Adam Tinworth <cite><a href=\"https://adders.blog/2025/06/04/this-is-brilliant-a-piece.html\" class=\"u-in-reply-to\">https://adders.blog/2025/06/04/this-is-brilliant-a-piece.html</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2025-06-07T10:12:26+01:00",
+				"url": "https://davidmarsden.info/2025/06/07/i-recently-spent-far-too.html",
+				"tags": ["Tools","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/07/not-sure-this-really-works.html",
+				
+				"content_html": "<p>Not sure this really works for contrast, but I like the photo. 📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Not sure this really works for contrast, but I like the photo. 📷\r\n\r\n<img src=\"uploads/2025/pxl-20250606-074706333.jpg\" width=\"600\" height=\"451\" alt=\"Auto-generated description: Two birds are perched on a concrete structure above a reflective body of water.\">\n",
+				"date_published": "2025-06-07T00:13:20+01:00",
+				"url": "https://davidmarsden.info/2025/06/07/not-sure-this-really-works.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/05/theres-a-cherry-pie-in.html",
+				
+				"content_html": "<p>There&rsquo;s a cherry pie in the fridge and it&rsquo;s really quite distracting.</p>\n",
+				"content_text": "There's a cherry pie in the fridge and it's really quite distracting.\n",
+				"date_published": "2025-06-05T11:35:36+01:00",
+				"url": "https://davidmarsden.info/2025/06/05/theres-a-cherry-pie-in.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/05/reflection-nostalgia-newport-rhode-island.html",
+				
+				"content_html": "<p>Reflection 📷 nostalgia, Newport, Rhode Island, 1989-90.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Reflection 📷 nostalgia, Newport, Rhode Island, 1989-90.\r\n\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/rt2-copy.jpg\" width=\"600\" height=\"387\" alt=\"Boats are docked at a calm harbor with reflections visible on the water and buildings in the background.\"><img src=\"https://eu.uploads.micro.blog/2588/2025/rt1-another-copy.jpg\" width=\"600\" height=\"238\" alt=\"A foggy, serene harbor scene with still water reflecting wooden docks and pilings.\">\n",
+				"date_published": "2025-06-05T10:35:28+01:00",
+				"url": "https://davidmarsden.info/2025/06/05/reflection-nostalgia-newport-rhode-island.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/04/a-bit-of-nostalgia-and.html",
+				
+				"content_html": "<p>A bit of nostalgia and one for the Pacific Wave Appreciation folks.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A bit of nostalgia and one for the Pacific Wave Appreciation folks.\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/la3-3rd-copy.jpg\" width=\"600\" height=\"334\" alt=\"A person wearing a hat is running along a sandy beach as waves crash near the shoreline, with houses and hills in the background.\">\n",
+				"date_published": "2025-06-04T13:36:31+01:00",
+				"url": "https://davidmarsden.info/2025/06/04/a-bit-of-nostalgia-and.html",
+				"tags": ["Kids","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/03/we-did-get-a-little.html",
+				
+				"content_html": "<p>We did get a little sunshine in the end.</p>\n<p>The AI generated alt-text mistakes my shadow for the reflection of a chilled-out lamp post in the rain.</p>\n<p>📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We did get a little sunshine in the end.\r\n\r\nThe AI generated alt-text mistakes my shadow for the reflection of a chilled-out lamp post in the rain.\r\n\r\n📷\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/pxl-20250603-1516204382.jpg\" width=\"600\" height=\"451\" alt=\"A wet pavement features a drain with some leaves nearby and a reflection of a street lamp in a puddle.\">\n",
+				"date_published": "2025-06-03T17:08:27+01:00",
+				"url": "https://davidmarsden.info/2025/06/03/we-did-get-a-little.html",
+				"tags": ["Trees","Microposts"]
+			},
+			{
 				"id": "http://davidmarsden.micro.blog/2025/06/03/you-cant-really-make-it.html",
 				
 				"content_html": "<p>You can&rsquo;t really make it out properly in the photo, but trust me, there&rsquo;s a whole* avocado under there.</p>\n<p>*Whole as in peeled, de-seeded and chopped.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "You can't really make it out properly in the photo, but trust me, there's a whole* avocado under there.  \r\n\r\n*Whole as in peeled, de-seeded and chopped.\n\n<img src=\"uploads/2025/pxl-20250603-082540938.portrait.jpg\" width=\"600\" height=\"451\" alt=\"A plate features two fried eggs with herbs on toast, accompanied by buttered bread slices.\">\n",
+				"content_text": "You can't really make it out properly in the photo, but trust me, there's a whole* avocado under there.  \r\n\r\n*Whole as in peeled, de-seeded and chopped.\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/pxl-20250603-082540938.portrait.jpg\" width=\"600\" height=\"451\" alt=\"A plate features two fried eggs with herbs on toast, accompanied by buttered bread slices.\">\n",
 				"date_published": "2025-06-03T09:46:42+01:00",
 				"url": "https://davidmarsden.info/2025/06/03/you-cant-really-make-it.html",
 				"tags": ["Microposts"]
@@ -19,7 +100,7 @@
 				"id": "http://davidmarsden.micro.blog/2025/06/03/spuds-are-flowering.html",
 				
 				"content_html": "<p>Spuds are flowering!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Spuds are flowering!\n\n<img src=\"uploads/2025/pxl-20250603-080611546.jpg\" width=\"600\" height=\"451\" alt=\"Lush green potato plants with a few flowers are growing in fabric planters.\"><img src=\"uploads/2025/pxl-20250603-080606287.jpg\" width=\"600\" height=\"451\" alt=\"Lush green potato plants with small white flowers are growing in fabric bags against a wooden fence.\">\n",
+				"content_text": "Spuds are flowering!\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/pxl-20250603-080611546.jpg\" width=\"600\" height=\"451\" alt=\"Lush green potato plants with a few flowers are growing in fabric planters.\"><img src=\"https://eu.uploads.micro.blog/2588/2025/pxl-20250603-080606287.jpg\" width=\"600\" height=\"451\" alt=\"Lush green potato plants with small white flowers are growing in fabric bags against a wooden fence.\">\n",
 				"date_published": "2025-06-03T09:43:19+01:00",
 				"url": "https://davidmarsden.info/2025/06/03/spuds-are-flowering.html",
 				"tags": ["Microposts"]
@@ -28,7 +109,7 @@
 				"id": "http://davidmarsden.micro.blog/2025/06/03/no-chance-of-a-sun.html",
 				
 				"content_html": "<p>🌧️ No chance of a sun shadow 📷 today, so here&rsquo;s a mummy duck 🦆 shadow instead.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🌧️ No chance of a sun shadow 📷 today, so here's a mummy duck 🦆 shadow instead.\n\n<img src=\"uploads/2025/pxl-20250603-074551777-exported-stabilized-1748939819350.gif\" width=\"600\" height=\"450\" alt=\"A group of ducks is resting on the grass by a body of water near a rope-covered object.\">\n",
+				"content_text": "🌧️ No chance of a sun shadow 📷 today, so here's a mummy duck 🦆 shadow instead.\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/pxl-20250603-074551777-exported-stabilized-1748939819350.gif\" width=\"600\" height=\"450\" alt=\"A group of ducks is resting on the grass by a body of water near a rope-covered object.\">\n",
 				"date_published": "2025-06-03T09:41:38+01:00",
 				"url": "https://davidmarsden.info/2025/06/03/no-chance-of-a-sun.html",
 				"tags": ["Microposts"]
@@ -37,7 +118,7 @@
 				"id": "http://davidmarsden.micro.blog/2025/06/02/three-curvey-cootlings-swimming-in.html",
 				
 				"content_html": "<p>Three curve-y cootlings swimming in their own curve-y wakes.</p>\n<p>I noticed a lot of straight lines, and fewer curves on my my morning walk, but these three were my favourites. Although it was so bright I couldn&rsquo;t actually see them when I took the photo.</p>\n<p>📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Three curve-y cootlings swimming in their own curve-y wakes.\r\n\r\nI noticed a lot of straight lines, and fewer curves on my my morning walk, but these three were my favourites. Although it was so bright I couldn't actually see them when I took the photo.\r\n\r\n📷\n\n<img src=\"uploads/2025/pxl-20250602-075041916.jpg\" width=\"600\" height=\"451\" alt=\"Three ducks swim in the rippling, reflective water.\">\n",
+				"content_text": "Three curve-y cootlings swimming in their own curve-y wakes.\r\n\r\nI noticed a lot of straight lines, and fewer curves on my my morning walk, but these three were my favourites. Although it was so bright I couldn't actually see them when I took the photo.\r\n\r\n📷\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/pxl-20250602-075041916.jpg\" width=\"600\" height=\"451\" alt=\"Three ducks swim in the rippling, reflective water.\">\n",
 				"date_published": "2025-06-02T17:58:44+01:00",
 				"url": "https://davidmarsden.info/2025/06/02/three-curvey-cootlings-swimming-in.html",
 				"tags": ["Microposts"]
