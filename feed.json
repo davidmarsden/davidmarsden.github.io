@@ -7,10 +7,136 @@
 	"items": [
 		
 			{
+				"id": "http://davidmarsden.micro.blog/2025/06/19/equal.html",
+				
+				"content_html": "<p>Equal 📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Equal 📷\r\n\r\n<img src=\"uploads/2025/pxl-20240330-122510070.jpg\" width=\"600\" height=\"799\" alt=\"Auto-generated description: A red sign humorously suggests that buying fish and chips is similar to buying happiness.\">\n",
+				"date_published": "2025-06-19T13:34:23+01:00",
+				"url": "https://davidmarsden.info/2025/06/19/equal.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/18/no-idea-what-this-is.html",
+				
+				"content_html": "<p>No idea what this is or was eighteen years or so ago. But it&rsquo;s texture 📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "No idea what this is or was eighteen years or so ago. But it's texture 📷\r\n\r\n<img src=\"uploads/2025/texture.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A rust-colored, textured curtain with a pattern of vertical streaks and darker horizontal patches fills the scene.\">\n",
+				"date_published": "2025-06-18T15:13:52+01:00",
+				"url": "https://davidmarsden.info/2025/06/18/no-idea-what-this-is.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/18/council-have-confirmed-the-source.html",
+				
+				"content_html": "<p>Council have confirmed the source of the <a href=\"https://davidmarsden.info/2025/06/14/forking-hell-again.html\">noise</a> pollution is a broken acoustic barrier and have written to the landlord requesting repair.</p>\n",
+				"content_text": "Council have confirmed the source of the [noise](https://davidmarsden.info/2025/06/14/forking-hell-again.html) pollution is a broken acoustic barrier and have written to the landlord requesting repair.\n",
+				"date_published": "2025-06-18T14:34:03+01:00",
+				"url": "https://davidmarsden.info/2025/06/18/council-have-confirmed-the-source.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/17/its-been-a-very-noisy.html",
+				
+				"content_html": "<p>It&rsquo;s been a very noisy and smelly morning. Reversing <a href=\"https://davidmarsden.info/2025/06/14/forking-hell-again.html\">forklifts</a>, car alarms, barking dog, pneumatic drill. Now it&rsquo;s the fucking ice cream man doing his rounds (mate, the kids are all at school). To top it all off, we had the delightful petroleum aroma of our local asphalt recycling plant drifting in on the prevailing wind.</p>\n",
+				"content_text": "It's been a very noisy and smelly morning. Reversing [forklifts](https://davidmarsden.info/2025/06/14/forking-hell-again.html), car alarms, barking dog, pneumatic drill. Now it's the fucking ice cream man doing his rounds (mate, the kids are all at school). To top it all off, we had the delightful petroleum aroma of our local asphalt recycling plant drifting in on the prevailing wind.\n",
+				"date_published": "2025-06-17T13:15:08+01:00",
+				"url": "https://davidmarsden.info/2025/06/17/its-been-a-very-noisy.html",
+				"tags": ["Kids","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/17/warmth.html",
+				
+				"content_html": "<p>Warmth 📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Warmth 📷\n\n<img src=\"uploads/2025/pxl-20250617-074409435.portrait.jpg\" width=\"451\" height=\"600\" alt=\"Sunlit green leaves with varying shades create a vibrant and natural scene.\">\n",
+				"date_published": "2025-06-17T13:07:40+01:00",
+				"url": "https://davidmarsden.info/2025/06/17/warmth.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/17/more-bricks.html",
+				
+				"content_html": "<p>More bricks.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "More bricks.\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/pxl-20250617-074125316.jpg\" width=\"600\" height=\"451\" alt=\"A brick wall displays a varied pattern of yellow and reddish-brown bricks.\">\n",
+				"date_published": "2025-06-17T13:06:18+01:00",
+				"url": "https://davidmarsden.info/2025/06/17/more-bricks.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/17/coot-jesus.html",
+				
+				"content_html": "<p>Coot Jesus.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Coot Jesus.\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/pxl-20250617-074516763.jpg\" width=\"600\" height=\"451\" alt=\"A bird stands on a patch of algae in a reflective body of water with parts of a boat and structures visible in the background.\">\n",
+				"date_published": "2025-06-17T13:03:48+01:00",
+				"url": "https://davidmarsden.info/2025/06/17/coot-jesus.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/17/these-algae-swarms-remind-me.html",
+				
+				"content_html": "<p>These algae swarms remind me of nebulae.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "These algae swarms remind me of nebulae.\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/pxl-20250617-074627108.jpg\" width=\"600\" height=\"451\" alt=\"Aquatic plants and algae are submerged in clear water with a sandy bottom.\"><img src=\"https://eu.uploads.micro.blog/2588/2025/pxl-20250617-074733407.mp2.jpg\" width=\"600\" height=\"451\" alt=\"Green algae and aquatic plants are visible in a canal with reflections of trees on the water's surface.\">\n",
+				"date_published": "2025-06-17T13:02:27+01:00",
+				"url": "https://davidmarsden.info/2025/06/17/these-algae-swarms-remind-me.html",
+				"tags": ["Trees","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/17/eight-days-later-and-im.html",
+				
+				"content_html": "<p>Eight days later and I&rsquo;m logged into the shiny new work bank account, pension account and password account with all passwords restored.</p>\n<p>Now, what did I do with my kids?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Eight days later and I'm logged into the shiny new work bank account, pension account and password account with all passwords restored.\r\n\r\nNow, what did I do with my kids?\r\n\r\n<blockquote class=\"quoteback\" data-title=\"\" data-author=\"davidmarsden\" data-avatar=\"https://micro.blog/davidmarsden/avatar.jpg\" cite=\"https://davidmarsden.info/2025/06/09/so-far-today-im-locked.html\"><p>So far today I’m locked out of the new work bank account and the old work pensions account, and then I “upgraded” to the shiny new password manager web app and - hey presto! - lost all my passwords. Not sure it’s safe for me to go and pick up the kids today.</p>\r\n<footer>davidmarsden <cite><a href=\"https://davidmarsden.info/2025/06/09/so-far-today-im-locked.html\" class=\"u-in-reply-to\">https://davidmarsden.info/2025/06/09/so-far-today-im-locked.html</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2025-06-17T12:47:09+01:00",
+				"url": "https://davidmarsden.info/2025/06/17/eight-days-later-and-im.html",
+				"tags": ["Kids","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/16/israel-launched-an-unprovoked-illegal.html",
+				
+				"content_html": "<p>Israel launched an unprovoked, illegal attack on Iran, committed terrorist car bomb attacks, assassinated scientists, bombed residential apartment buildings, a hospital and a TV station, all war crimes.</p>\n<p>Here&rsquo;s the BBC saying how brave they are.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Israel launched an unprovoked, illegal attack on Iran, committed terrorist car bomb attacks, assassinated scientists, bombed residential apartment buildings, a hospital and a TV station, all war crimes.\r\n\r\nHere's the BBC saying how brave they are.\r\n\r\n<blockquote class=\"quoteback\" data-author=\"Home - BBC News\" data-avatar=\"https://micro.blog/news.bbc.co.uk/avatar.jpg\" cite=\"https://www.bbc.com/news/articles/cx2lxkpekedo\"><p>Israel's smaller, sophisticated military opposes larger Iran: <a href=\"https://www.bbc.com/news/articles/cx2lxkpekedo\">bbc.com</a></p><footer>Home - BBC News <cite><a href=\"https://www.bbc.com/news/articles/cx2lxkpekedo\" class=\"u-in-reply-to\">https://www.bbc.com/news/articles/cx2lxkpekedo</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2025-06-16T19:15:33+01:00",
+				"url": "https://davidmarsden.info/2025/06/16/israel-launched-an-unprovoked-illegal.html",
+				"tags": ["Home","Politics","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/16/melon-blur.html",
+				
+				"content_html": "<p>Melon blur 📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Melon blur 📷\r\n\r\n<img src=\"https://eu.uploads.micro.blog/2588/2025/ab746504aa.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A softly blurred abstract composition featuring gradients of yellow, orange, and a hint of blue.\">\n",
+				"date_published": "2025-06-16T17:29:53+01:00",
+				"url": "https://davidmarsden.info/2025/06/16/melon-blur.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/16/today-we-are-unable-to.html",
+				
+				"content_html": "<p>Today: &ldquo;We are unable to answer your call. Please try again later.&rdquo;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today: \"We are unable to answer your call. Please try again later.\"\r\n\r\n<blockquote class=\"quoteback\" data-author=\"David Marsden\" data-avatar=\"https://micro.blog/davidmarsden/avatar.jpg\" cite=\"https://davidmarsden.info/2025/06/11/minutes-on-hold.html\"><p>54 minutes on <a href=\"https://davidmarsden.info/2025/06/11/statement-from-caf-bank-the.html\">hold</a>.</p>\r\n<footer>David Marsden <cite><a href=\"https://davidmarsden.info/2025/06/11/minutes-on-hold.html\" class=\"u-in-reply-to\">https://davidmarsden.info/2025/06/11/minutes-on-hold.html</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2025-06-16T10:38:12+01:00",
+				"url": "https://davidmarsden.info/2025/06/16/today-we-are-unable-to.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/15/i-was-frightened-of-this.html",
+				
+				"content_html": "<p>I was frightened of this giant bear when my parents made me pose for this photo.</p>\n<p>I&rsquo;ve been frightened of giant bears ever since.</p>\n<p>Tie 📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I was frightened of this giant bear when my parents made me pose for this photo.\r\n\r\nI've been frightened of giant bears ever since.\r\n\r\nTie 📷\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/old1-5th-copy.jpg\" width=\"600\" height=\"399\" alt=\"A child in a red sweater is sitting on the lap of a large teddy bear on a beach, with people walking in the background.\">\n",
+				"date_published": "2025-06-15T18:58:49+01:00",
+				"url": "https://davidmarsden.info/2025/06/15/i-was-frightened-of-this.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/14/forking-hell-again.html",
+				"title": "Forking* Hell (Again)",
+				"content_html": "<p>Almost exactly sixteen years ago I wrote a blog post titled <em><a href=\"https://davidmarsden.info/2009/06/22/forking-hell.html\">Forking* Hell!</a></em> about the relentless, sleep-shattering racket of reversing forklift alarms from the Beaver Industrial Estate (aka Chancery Gate Business Park), just a stone’s throw from my home.</p>\n<p>It took months of escalating complaints, sound diaries, late-night MP3s, and even a YouTube video to get Ealing Council to take the matter seriously. But eventually, following site visits and interventions, they did. Forklifts were fitted with quieter <em>white noise</em> alarms, acoustic barriers were repaired, and the beeping stopped.</p>\n<p>For a while.</p>\n<p>We had more beeping in 2013 and 2017. Each time it was the same old story, but also it was eventually resolved.</p>\n<hr>\n<!-- raw HTML omitted -->\n<h2 id=\"2025-guess-whos-back\">2025: Guess Who&rsquo;s Back</h2>\n<p>After years of relative peace, the problem has returned. Forklifts with traditional beeping alarms are once again reversing their way into my headspace—late at night, early in the morning, and all day long.</p>\n<p>This isn’t a one-off. It’s <em>relentless</em>. Some nights, the beeping continues past 11 p.m.; some mornings, it starts before 7 a.m. I work from home. My wife does too. Windows stay shut even in hot weather just to make it bearable.</p>\n<p>And once again, I’ve gone through the motions:</p>\n<ul>\n<li>Sent detailed emails to the council</li>\n<li>Provided audio recordings and video footage</li>\n<li>Explained the site history and previous resolutions</li>\n<li>Pointed out that <em>something</em> has changed recently (a broken barrier? a new operator?)</li>\n</ul>\n<p><strong>Response time from the council:</strong> One week.<br>\n<strong>Reason for delay:</strong> &ldquo;Your email may have been blocked because it included links.&rdquo;<br>\n<strong>Suggested action:</strong> &ldquo;Call us next time it happens.&rdquo;</p>\n<p>Because obviously, I’ve got nothing better to do at 6:45 a.m. than call a noise hotline while forklifts beep through my kitchen window.</p>\n<hr>\n<h2 id=\"a-brief-history-of-beeping\">A Brief History of Beeping</h2>\n<p>Here&rsquo;s the timeline in a nutshell:</p>\n<ul>\n<li><strong>2009–2010</strong>: Original complaint. Acoustic barrier found faulty. Council intervened, site improved.</li>\n<li><strong>2013</strong>: Issue re-emerged. Council visited, spoke to operators, and beeping was replaced with white noise alarms.</li>\n<li><strong>2017</strong>: Warning signs. I emailed again asking them to restrict night operations or use quieter alarms.</li>\n<li><strong>2025</strong>: The beeping has returned. My patience has not.</li>\n</ul>\n<hr>\n<h2 id=\"the-ask-again\">The Ask (Again)</h2>\n<p>I’m not asking for miracles. Just the same thing that worked before:</p>\n<ul>\n<li>Site inspection</li>\n<li>Identify the offending units</li>\n<li>Replace the beepers with directional white noise alarms</li>\n<li>Check the acoustic baffle hasn’t fallen apart again</li>\n<li>Remind businesses what <em>Best Practicable Means</em> under the Environmental Protection Act actually means</li>\n</ul>\n<p>If you live near the estate and you&rsquo;re also being disturbed, I encourage you to file your own complaint. Noise pollution doesn&rsquo;t fix itself.</p>\n<hr>\n<h2 id=\"want-to-hear-it\">Want to Hear It?</h2>\n<p>You can:<br>\n🎧 <a href=\"https://drive.google.com/drive/folders/1__pgDlpxg0D9aQXZEjmLYaw7NBzFMfnY\">Audio recordings from our kitchen</a><br>\n🎥 <a href=\"https://youtu.be/nZa7SaWuxBY\">Video showing forklifts in action (YouTube)</a></p>\n<hr>\n<h2 id=\"déjà-beep\">Déjà Beep</h2>\n<p>History doesn’t repeat, but it often rhymes, said Mark Twain.</p>\n<p>In my case, history reverses slowly, with a loud, repetitive beep that echoes off corrugated warehouse walls and slices through what was once known as my attention and the &ldquo;quiet enjoyment&rdquo; of my home.</p>\n<p>*Thanks again to Andy C</p>\n",
+				"content_text": "Almost exactly sixteen years ago I wrote a blog post titled *[Forking\\* Hell!](https://davidmarsden.info/2009/06/22/forking-hell.html)* about the relentless, sleep-shattering racket of reversing forklift alarms from the Beaver Industrial Estate (aka Chancery Gate Business Park), just a stone’s throw from my home.  \n\n\nIt took months of escalating complaints, sound diaries, late-night MP3s, and even a YouTube video to get Ealing Council to take the matter seriously. But eventually, following site visits and interventions, they did. Forklifts were fitted with quieter *white noise* alarms, acoustic barriers were repaired, and the beeping stopped.\n\n\nFor a while.\n\nWe had more beeping in 2013 and 2017. Each time it was the same old story, but also it was eventually resolved.\n\n---\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/pxl-20250606-080749950.jpg\" width=\"600\" height=\"451\" alt=\"Auto-generated description: An industrial warehouse area features stacked pallets, a red forklift, and a parked car under a cloudy sky.\">\n\n## 2025: Guess Who's Back\n\n\nAfter years of relative peace, the problem has returned. Forklifts with traditional beeping alarms are once again reversing their way into my headspace—late at night, early in the morning, and all day long.  \n\n\nThis isn’t a one-off. It’s *relentless*. Some nights, the beeping continues past 11 p.m.; some mornings, it starts before 7 a.m. I work from home. My wife does too. Windows stay shut even in hot weather just to make it bearable.\n\n\nAnd once again, I’ve gone through the motions:  \n- Sent detailed emails to the council  \n- Provided audio recordings and video footage  \n- Explained the site history and previous resolutions  \n- Pointed out that *something* has changed recently (a broken barrier? a new operator?)  \n\n\n**Response time from the council:** One week.  \n**Reason for delay:** \"Your email may have been blocked because it included links.\"  \n**Suggested action:** \"Call us next time it happens.\"  \n\n\nBecause obviously, I’ve got nothing better to do at 6:45 a.m. than call a noise hotline while forklifts beep through my kitchen window.\n\n\n---\n\n\n## A Brief History of Beeping\n\n\nHere's the timeline in a nutshell:\n\n\n- **2009–2010**: Original complaint. Acoustic barrier found faulty. Council intervened, site improved.  \n- **2013**: Issue re-emerged. Council visited, spoke to operators, and beeping was replaced with white noise alarms.  \n- **2017**: Warning signs. I emailed again asking them to restrict night operations or use quieter alarms.  \n- **2025**: The beeping has returned. My patience has not.\n\n\n---\n\n\n## The Ask (Again)\n\n\nI’m not asking for miracles. Just the same thing that worked before:\n\n\n- Site inspection  \n- Identify the offending units  \n- Replace the beepers with directional white noise alarms  \n- Check the acoustic baffle hasn’t fallen apart again  \n- Remind businesses what *Best Practicable Means* under the Environmental Protection Act actually means  \n\n\nIf you live near the estate and you're also being disturbed, I encourage you to file your own complaint. Noise pollution doesn't fix itself.\n\n\n---\n\n\n## Want to Hear It?\n\n\nYou can:  \n🎧 [Audio recordings from our kitchen](https://drive.google.com/drive/folders/1__pgDlpxg0D9aQXZEjmLYaw7NBzFMfnY)  \n🎥 [Video showing forklifts in action (YouTube)](https://youtu.be/nZa7SaWuxBY)\n\n\n---\n\n\n## Déjà Beep\n\n\nHistory doesn’t repeat, but it often rhymes, said Mark Twain.\n\nIn my case, history reverses slowly, with a loud, repetitive beep that echoes off corrugated warehouse walls and slices through what was once known as my attention and the \"quiet enjoyment\" of my home.\n\n*Thanks again to Andy C\n",
+				"date_published": "2025-06-14T19:05:04+01:00",
+				"url": "https://davidmarsden.info/2025/06/14/forking-hell-again.html",
+				"tags": ["Home","Health","Longform"]
+			},
+			{
 				"id": "http://davidmarsden.micro.blog/2025/06/14/twilight.html",
 				
 				"content_html": "<p>Twilight 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Twilight 📷\n\n<img src=\"uploads/2025/cimg1162.jpg\" width=\"600\" height=\"450\" alt=\"A bench is painted red with the words: &quot;The tragedy of living reflects itself exhausted in my dreams shining through twilight.&quot;\">\n",
+				"content_text": "Twilight 📷\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/cimg1162.jpg\" width=\"600\" height=\"450\" alt=\"A bench is painted red with the words: &quot;The tragedy of living reflects itself exhausted in my dreams shining through twilight.&quot;\">\n",
 				"date_published": "2025-06-14T08:49:16+01:00",
 				"url": "https://davidmarsden.info/2025/06/14/twilight.html",
 				"tags": ["Microposts"]
@@ -19,7 +145,7 @@
 				"id": "http://davidmarsden.micro.blog/2025/06/13/lots-of-new-buildings-going.html",
 				
 				"content_html": "<p>Lots of new buildings going up.</p>\n<!-- raw HTML omitted -->\n<p>The movement in this is interesting.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lots of new buildings going up.\r\n\r\n<img src=\"uploads/2025/pxl-20250613-082020372.mp2.jpg\" width=\"600\" height=\"451\" alt=\"Auto-generated description: A tall, modern building with a striped exterior façade features multiple rows of windows and scaffolding along the lower levels.\">\r\n\r\nThe movement in this is interesting.\r\n\r\n<img src=\"uploads/2025/pxl-20250613-081717166-exported-stabilized-1749817052274.gif\" width=\"480\" height=\"640\" alt=\"Auto-generated description: A tall building under construction is framed by scaffolding and cranes, with a large vertical banner displaying UniWest Group on the right side.\">\n",
+				"content_text": "Lots of new buildings going up.\r\n\r\n<img src=\"https://eu.uploads.micro.blog/2588/2025/pxl-20250613-082020372.mp2.jpg\" width=\"600\" height=\"451\" alt=\"Auto-generated description: A tall, modern building with a striped exterior façade features multiple rows of windows and scaffolding along the lower levels.\">\r\n\r\nThe movement in this is interesting.\r\n\r\n<img src=\"https://eu.uploads.micro.blog/2588/2025/pxl-20250613-081717166-exported-stabilized-1749817052274.gif\" width=\"480\" height=\"640\" alt=\"Auto-generated description: A tall building under construction is framed by scaffolding and cranes, with a large vertical banner displaying UniWest Group on the right side.\">\n",
 				"date_published": "2025-06-13T13:34:19+01:00",
 				"url": "https://davidmarsden.info/2025/06/13/lots-of-new-buildings-going.html",
 				"tags": ["Microposts"]
@@ -28,7 +154,7 @@
 				"id": "http://davidmarsden.micro.blog/2025/06/13/pathway.html",
 				
 				"content_html": "<p>📷 pathway</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 pathway\n\n<img src=\"uploads/2025/img-20170409-153002481.jpg\" width=\"600\" height=\"337\" alt=\"A scenic woodland path winds through lush greenery and tree-covered surroundings.\">\n",
+				"content_text": "📷 pathway\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/img-20170409-153002481.jpg\" width=\"600\" height=\"337\" alt=\"A scenic woodland path winds through lush greenery and tree-covered surroundings.\">\n",
 				"date_published": "2025-06-13T13:31:10+01:00",
 				"url": "https://davidmarsden.info/2025/06/13/pathway.html",
 				"tags": ["Trees","Microposts"]
@@ -8645,6 +8771,15 @@
 				"date_published": "2009-10-06T01:00:00+01:00",
 				"url": "https://davidmarsden.info/2009/10/06/united-born-and.html",
 				"tags": ["Home","Kids","Football","Longform"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2009/06/22/forking-hell.html",
+				"title": "Forking* Hell!",
+				"content_html": "<p>Date: 2009-06-22\nTitle: Forking* Hell!\nAbstract: Noisy neighbours.\nTags: complaints, customer service, forklifts, noise, beeping, reversing, BEEP! BEEP!</p>\n<p><strong>March 16</strong></p>\n<p>Mr Marsden,</p>\n<p>Thank for you email, please accept our apology for the delay in responding to you regarding this complaint. Due to a new complaint system being instigated and problems arising from its application, your complaint was not allocated correctly, hence the delay in response.</p>\n<p>We apologise for any inconvenience caused and hope to resolve you complaint at the earliest opportunity.</p>\n<p>Is this complaint with regard to <em>Forking Noisy Bastards</em> that you complained about in October last year? When I looked into this originally the company did have a 24hr operating licence, that being said if they are causing a noise disturbance to you we would be able to take some action. I have put a letter in the post to you detailing our service hours and contact numbers, please can you use our response service next time the noise is happening so that an officer can visit and assess the nuisance.</p>\n<p>Once again, sorry for the delayed response.</p>\n<p>Regards</p>\n<p>Noise &amp; Nuisance Officer</p>\n<p><strong>May 12</strong></p>\n<p>Thanks, Noise &amp; Nuisance Officer.</p>\n<p>Please find attached a scan of the Noise Disturbance Diary and a MP3 recording of the noise.</p>\n<p>I haven&rsquo;t been able to get any of our neighbours to witness the noise. I believe that this maybe because our location is unique in that everyone else has some barrier between them and the source of the noise (e.g., the warehouse building itself or the surrounding fence). If you care to view Google maps you can see the view from the entrance to the works site straight through to our flat on the first floor, to the right.</p>\n<p>I&rsquo;d very much appreciate anything you are able to do to bring an end to this disturbance as currently my wife and I are having two or even three nights a week of interrupted sleep thanks to this noise.</p>\n<p>Kind regards,</p>\n<p>David Marsden</p>\n<p><strong>May 28</strong></p>\n<p>Dear Noise Nuisance Officer,</p>\n<p>Could you please acknowledge receipt of my email of 12 May, below and let me know what the next steps will be.</p>\n<p>Many thanks.</p>\n<p><strong>June 1</strong></p>\n<p>Further to this, please see this video, demonstrating perfectly the noise pollution I am complaining about and a what appears to be a perfect solution:</p>\n<p>Note that I am emailing you at 1:54 am after being woken up yet again by this disturbance.</p>\n<p><strong>June 3</strong></p>\n<p>Noise &amp; Nuisance Officer has not responded to any of my emails, below. Does she still work there?</p>\n<p><strong>10 minutes ago</strong></p>\n<p>Is there anybody out there?</p>\n<p>Having been woken up by these forkers yet again on a Sunday night at 3am - and they are still going, started at 11pm - I am at the point of losing it. I commute for an hour and a half to work meaning I have to be up at 6:30. What are they doing that can only be done in the small hours? Drugs? Bombs? Anyone care?</p>\n<p>From a Council Tax paying resident in the forgotten town of Shitton.</p>\n<p>Good night, sleep well!</p>\n<p>*Thanks to Andy C</p>\n",
+				"content_text": "Date: 2009-06-22\nTitle: Forking* Hell!\nAbstract: Noisy neighbours.\nTags: complaints, customer service, forklifts, noise, beeping, reversing, BEEP! BEEP!\n\n**March 16**\n\nMr Marsden,\n\nThank for you email, please accept our apology for the delay in responding to you regarding this complaint. Due to a new complaint system being instigated and problems arising from its application, your complaint was not allocated correctly, hence the delay in response.\n\nWe apologise for any inconvenience caused and hope to resolve you complaint at the earliest opportunity.\n\nIs this complaint with regard to *Forking Noisy Bastards* that you complained about in October last year? When I looked into this originally the company did have a 24hr operating licence, that being said if they are causing a noise disturbance to you we would be able to take some action. I have put a letter in the post to you detailing our service hours and contact numbers, please can you use our response service next time the noise is happening so that an officer can visit and assess the nuisance.\n\nOnce again, sorry for the delayed response.\n\nRegards\n\nNoise & Nuisance Officer\n  \n**May 12**\n\nThanks, Noise & Nuisance Officer.\n\nPlease find attached a scan of the Noise Disturbance Diary and a MP3 recording of the noise.\n\nI haven't been able to get any of our neighbours to witness the noise. I believe that this maybe because our location is unique in that everyone else has some barrier between them and the source of the noise (e.g., the warehouse building itself or the surrounding fence). If you care to view Google maps you can see the view from the entrance to the works site straight through to our flat on the first floor, to the right.\n\nI'd very much appreciate anything you are able to do to bring an end to this disturbance as currently my wife and I are having two or even three nights a week of interrupted sleep thanks to this noise.\n\nKind regards,\n\nDavid Marsden\n\n**May 28**\n\nDear Noise Nuisance Officer, \n  \nCould you please acknowledge receipt of my email of 12 May, below and let me know what the next steps will be.\n\nMany thanks.\n  \n**June 1**\n\nFurther to this, please see this video, demonstrating perfectly the noise pollution I am complaining about and a what appears to be a perfect solution:\n\nNote that I am emailing you at 1:54 am after being woken up yet again by this disturbance.\n  \n**June 3**\n\nNoise & Nuisance Officer has not responded to any of my emails, below. Does she still work there?\n\n**10 minutes ago**\n\nIs there anybody out there?\n\nHaving been woken up by these forkers yet again on a Sunday night at 3am - and they are still going, started at 11pm - I am at the point of losing it. I commute for an hour and a half to work meaning I have to be up at 6:30. What are they doing that can only be done in the small hours? Drugs? Bombs? Anyone care?\n\nFrom a Council Tax paying resident in the forgotten town of Shitton.\n\nGood night, sleep well!\n\n*Thanks to Andy C \n",
+				"date_published": "2009-06-22T13:31:00+01:00",
+				"url": "https://davidmarsden.info/2009/06/22/forking-hell.html",
+				"tags": ["Home","Health","Longform"]
 			},
 			{
 				"id": "http://davidmarsden.micro.blog/2007/11/28/why-were-crap.html",
