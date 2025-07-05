@@ -7,10 +7,172 @@
 	"items": [
 		
 			{
+				"id": "http://davidmarsden.micro.blog/2025/07/05/fragments-i-imagine-this-is.html",
+				
+				"content_html": "<p>📷 Fragments. I imagine this is what the inside of <a href=\"https://davidmarsden.info/2025/07/04/oh-ffs-i-think-i.html\">knee</a> looks like now.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 Fragments. I imagine this is what the inside of [knee](https://davidmarsden.info/2025/07/04/oh-ffs-i-think-i.html) looks like now.\n\n<img src=\"uploads/2025/pxl-20230507-170020922.portrait.jpg\" width=\"450\" height=\"600\" alt=\"A close-up of a tree bark reveals deep cracks and textures, with a prominent crevice in the center.\">\n",
+				"date_published": "2025-07-05T13:51:43+01:00",
+				"url": "https://davidmarsden.info/2025/07/05/fragments-i-imagine-this-is.html",
+				"tags": ["Trees","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/07/04/oh-ffs-i-think-i.html",
+				
+				"content_html": "<p>Oh ffs! I think I might have done my <a href=\"https://davidmarsden.info/2025/07/04/big-kid-persuaded-me-against.html\">ACL</a>.</p>\n",
+				"content_text": "Oh ffs! I think I might have done my [ACL](https://davidmarsden.info/2025/07/04/big-kid-persuaded-me-against.html).\n",
+				"date_published": "2025-07-04T13:50:13+01:00",
+				"url": "https://davidmarsden.info/2025/07/04/oh-ffs-i-think-i.html",
+				"tags": ["Kids","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/07/04/big-kid-persuaded-me-against.html",
+				
+				"content_html": "<p>Big kid persuaded me, against my better judgement, to join in with the parents&rsquo; race at Sports Day this morning. As the younger, fitter dads rapidly moved away from me I felt something go in my right knee and hobbled in pain to the finish line.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Big kid persuaded me, against my better judgement, to join in with the parents' race at Sports Day this morning. As the younger, fitter dads rapidly moved away from me I felt something go in my right knee and hobbled in pain to the finish line.\n\n<img src=\"uploads/2025/17516287300371771020517809856430.jpg\" width=\"451\" height=\"600\" alt=\"A person with a knee brace is sitting on a red cushion, with a fan and various objects in the background.\">\n",
+				"date_published": "2025-07-04T12:33:16+01:00",
+				"url": "https://davidmarsden.info/2025/07/04/big-kid-persuaded-me-against.html",
+				"tags": ["Kids","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/07/04/with-all-the-hot-weather.html",
+				
+				"content_html": "<p>With all the hot weather I&rsquo;ve been eating nothing but salad, fresh fruit and ice pops for what seems like the last few weeks. I&rsquo;m fed up with it. This morning I tried to use some leftover olives, peppers and halloumi in an omelette. I probably used too much, but the olives and halloumi were overpowering.</p>\n",
+				"content_text": "With all the hot weather I've been eating nothing but salad, fresh fruit and ice pops for what seems like the last few weeks. I'm fed up with it. This morning I tried to use some leftover olives, peppers and halloumi in an omelette. I probably used too much, but the olives and halloumi were overpowering. \n",
+				"date_published": "2025-07-04T12:29:26+01:00",
+				"url": "https://davidmarsden.info/2025/07/04/with-all-the-hot-weather.html",
+				"tags": ["Kids","Food","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/07/04/layers-roadtrip-from-boston-to.html",
+				
+				"content_html": "<p>Layers 📷 (1990 roadtrip from Boston to LA.)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Layers 📷 (1990 roadtrip from Boston to LA.)\n\n<img src=\"uploads/2025/gc-copy.jpg\" width=\"600\" height=\"320\" alt=\"A breathtaking view of the Grand Canyon features layered rock formations and deep valleys.\">\n",
+				"date_published": "2025-07-04T08:49:32+01:00",
+				"url": "https://davidmarsden.info/2025/07/04/layers-roadtrip-from-boston-to.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/07/03/the-caf-bank-saga-just.html",
+				
+				"content_html": "<p>The CAF Bank <a href=\"https://davidmarsden.info/search-space/?q=Caf+bank\">saga</a> just gets worse every day. Their new website is horribly broken in almost every possible way - user experience, functionality all significantly worse than before. I hope they can roll back to the old website. It was a little clunky, maybe, but it worked.</p>\n",
+				"content_text": "The CAF Bank [saga](https://davidmarsden.info/search-space/?q=Caf+bank) just gets worse every day. Their new website is horribly broken in almost every possible way - user experience, functionality all significantly worse than before. I hope they can roll back to the old website. It was a little clunky, maybe, but it worked.\n",
+				"date_published": "2025-07-03T19:43:14+01:00",
+				"url": "https://davidmarsden.info/2025/07/03/the-caf-bank-saga-just.html",
+				"tags": ["Work","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/07/03/outside-the-school-offices-little.html",
+				
+				"content_html": "<p>Outside the school offices. Little kid runs through here excitedly every morning. It looked especially magical today.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Outside the school offices. Little kid runs through here excitedly every morning. It looked especially magical today.\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/pxl-20250703-0736488762.jpg\" width=\"600\" height=\"451\" alt=\"Two large trees stand on a grassy area with a backdrop of lush greenery and a clear blue sky.\">\n",
+				"date_published": "2025-07-03T19:33:13+01:00",
+				"url": "https://davidmarsden.info/2025/07/03/outside-the-school-offices-little.html",
+				"tags": ["Kids","Trees","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/07/03/kitchen-garden-at-kids-school.html",
+				
+				"content_html": "<p>Kitchen garden at kids&rsquo; school.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Kitchen garden at kids' school.\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/pxl-20250703-141207865.jpg\" width=\"600\" height=\"451\" alt=\"A vibrant garden filled with wildflowers and surrounded by a wooden fence is set against a backdrop of trees and a partly cloudy sky.\">\n",
+				"date_published": "2025-07-03T17:59:58+01:00",
+				"url": "https://davidmarsden.info/2025/07/03/kitchen-garden-at-kids-school.html",
+				"tags": ["Kids","Trees","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/07/03/q-when-is-a-door.html",
+				
+				"content_html": "<p>Q) When is a door not a door?</p>\n<p>A) When it&rsquo;s floating in the canal.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Q) When is a door not a door?  \r\n\r\nA) When it's floating in the canal.\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/pxl-20250703-074615056.jpg\" width=\"600\" height=\"451\" alt=\"A serene canal is bordered by lush green trees on one side and a walking path on the other, with a partially submerged wooden structure in the water.\">\n",
+				"date_published": "2025-07-03T14:50:17+01:00",
+				"url": "https://davidmarsden.info/2025/07/03/q-when-is-a-door.html",
+				"tags": ["Trees","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/07/03/almost-autumnal-here.html",
+				
+				"content_html": "<p>Almost autumnal here.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Almost autumnal here.\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/pxl-20250703-071623981.jpg\" width=\"600\" height=\"451\" alt=\"A quiet residential street is lined with trees and scattered with fallen leaves on a sunny day.\">\n",
+				"date_published": "2025-07-03T14:44:50+01:00",
+				"url": "https://davidmarsden.info/2025/07/03/almost-autumnal-here.html",
+				"tags": ["Trees","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/07/03/slightly-less-ill-at-ease.html",
+				
+				"content_html": "<p>Slightly less <a href=\"https://davidmarsden.info/2025/06/15/i-was-frightened-of-this.html\">ill at ease</a> here feeding a live deer safely behind a wire mesh 📷?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Slightly less [ill at ease](https://davidmarsden.info/2025/06/15/i-was-frightened-of-this.html) here feeding a live deer safely behind a wire mesh 📷?\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/old6-another-copy.jpg\" width=\"600\" height=\"544\" alt=\"A young child in a white sweater crouches near a fence, reaching towards a deer on the other side.\">\n",
+				"date_published": "2025-07-03T14:41:01+01:00",
+				"url": "https://davidmarsden.info/2025/07/03/slightly-less-ill-at-ease.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/07/02/having-completed-thirty-days-of.html",
+				
+				"content_html": "<p>Having completed thirty days of the micro.blog <a href=\"https://challenges.micro.blog/2025/05/31/june-photo-challenge.html\">photo challenge</a> for June, I&rsquo;m going to try continuing with some random prompts generated by <a href=\"https://claude.ai/share/3415d16b-1ccc-47ed-8414-b54cd6f8ebb1\">Claude</a>.</p>\n<p>These engraved stones are a nice idea, but sadly the execution seven years ago left a lot to be desired. The engraving on some of the stones is at the threshold 📷 of visibility, and for others it&rsquo;s at the thresh-old of re-adability.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Having completed thirty days of the micro.blog [photo challenge](https://challenges.micro.blog/2025/05/31/june-photo-challenge.html) for June, I'm going to try continuing with some random prompts generated by [Claude](https://claude.ai/share/3415d16b-1ccc-47ed-8414-b54cd6f8ebb1).\r\n\r\nThese engraved stones are a nice idea, but sadly the execution seven years ago left a lot to be desired. The engraving on some of the stones is at the threshold 📷 of visibility, and for others it's at the thresh-old of re-adability.\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/img-20180419-115737263.jpg\" width=\"600\" height=\"450\" alt=\"Paving stone in Southall features engraved text about local stories and contributions to the area's character and identity.\"><img src=\"https://eu.uploads.micro.blog/2588/2025/img-20180419-115757689.jpg\" width=\"600\" height=\"450\" alt=\"A plaque on a stone pavement provides historical information about St John's Church in Southall, built in 1838 and later expanded in 1909.\"><img src=\"https://eu.uploads.micro.blog/2588/2025/img-20180419-115809072.jpg\" width=\"600\" height=\"450\" alt=\"A commemorative plaque honors Frank Crowther Roberts for his bravery and leadership during World War One, highlighting his receipt of the Victoria Cross.\">\n",
+				"date_published": "2025-07-02T11:38:49+01:00",
+				"url": "https://davidmarsden.info/2025/07/02/having-completed-thirty-days-of.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/07/01/kids-have-gone-to-sleep.html",
+				
+				"content_html": "<p>Kids have gone to sleep tonight clutching ice packs wrapped in a towel. 🥵</p>\n",
+				"content_text": "Kids have gone to sleep tonight clutching ice packs wrapped in a towel. 🥵\n",
+				"date_published": "2025-07-01T22:05:18+01:00",
+				"url": "https://davidmarsden.info/2025/07/01/kids-have-gone-to-sleep.html",
+				"tags": ["Kids","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/07/01/day-what-you-like-about.html",
+				
+				"content_html": "<p>Say what you like about AI, but it&rsquo;s brought my old band back to life. Whether that&rsquo;s a <a href=\"https://hovercraftuk.bandcamp.com/track/sweet-thing-3\">sweet thing</a> is another matter.</p>\n",
+				"content_text": "Say what you like about AI, but it's brought my old band back to life. Whether that's a [sweet thing](https://hovercraftuk.bandcamp.com/track/sweet-thing-3) is another matter.\n",
+				"date_published": "2025-07-01T21:00:04+01:00",
+				"url": "https://davidmarsden.info/2025/07/01/day-what-you-like-about.html",
+				"tags": ["Music","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/07/01/magical-scene-at-after-school.html",
+				
+				"content_html": "<p>Magical scene at after school clubs pick-up time. Excellent drama teacher had the little kids outside under the shade of the trees in front of the kitchen garden doing their thing. I&rsquo;m sure those kids will remember it forever.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Magical scene at after school clubs pick-up time. Excellent drama teacher had the little kids outside under the shade of the trees in front of the kitchen garden doing their thing. I'm sure those kids will remember it forever.\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/pxl-20250701-1520060182.jpg\" width=\"600\" height=\"451\" alt=\"A playground with equipment and trees under a partly cloudy sky.\">\n",
+				"date_published": "2025-07-01T19:01:56+01:00",
+				"url": "https://davidmarsden.info/2025/07/01/magical-scene-at-after-school.html",
+				"tags": ["Kids","Trees","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/07/01/coot-fight-on-the-canal.html",
+				
+				"content_html": "<p>Coot <a href=\"https://lone.earth/w/navCwSURz2NiCzYA9FXrFW\">fight</a> on the canal this morning.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Coot [fight](https://lone.earth/w/navCwSURz2NiCzYA9FXrFW) on the canal this morning.\r\n\r\n<div style=\"position: relative; padding-top: 56.25%;\"><iframe title=\"Coot Fight on the Canal\" width=\"100%\" height=\"100%\" src=\"https://lone.earth/videos/embed/navCwSURz2NiCzYA9FXrFW\" frameborder=\"0\" allowfullscreen=\"\" sandbox=\"allow-same-origin allow-scripts allow-popups allow-forms\" style=\"position: absolute; inset: 0px;\"></iframe></div>\n",
+				"date_published": "2025-07-01T18:34:23+01:00",
+				"url": "https://davidmarsden.info/2025/07/01/coot-fight-on-the-canal.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/07/01/yesterday-i-said-something-out.html",
+				
+				"content_html": "<p>Yesterday I said something out loud that I thought might upset people. Instead they all laughed and cheered. &ldquo;Finally, someone has said it!&rdquo;</p>\n",
+				"content_text": "Yesterday I said something out loud that I thought might upset people. Instead they all laughed and cheered. \"Finally, someone has said it!\"\n",
+				"date_published": "2025-07-01T15:54:51+01:00",
+				"url": "https://davidmarsden.info/2025/07/01/yesterday-i-said-something-out.html",
+				"tags": ["Work","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/06/30/had-a-kickabout-with-one.html",
+				
+				"content_html": "<p>Had a kickabout with one of the neighbourhood kids and my neighbour downstairs in our close this evening. Although we let the kid win 20-0, I still got it!</p>\n",
+				"content_text": "Had a kickabout with one of the neighbourhood kids and my neighbour downstairs in our close this evening. Although we let the kid win 20-0, I still got it!\n",
+				"date_published": "2025-06-30T23:18:56+01:00",
+				"url": "https://davidmarsden.info/2025/06/30/had-a-kickabout-with-one.html",
+				"tags": ["Kids","Microposts"]
+			},
+			{
 				"id": "http://davidmarsden.micro.blog/2025/06/30/solitude.html",
 				
 				"content_html": "<p>Solitude 📷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Solitude 📷\n\n<img src=\"uploads/2025/pxl-20241008-0905457442.jpg\" width=\"450\" height=\"600\" alt=\"A pencil sketch depicts a contemplative person with eyes closed, head resting on one hand, surrounded by stars.\">\n",
+				"content_text": "Solitude 📷\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/pxl-20241008-0905457442.jpg\" width=\"450\" height=\"600\" alt=\"A pencil sketch depicts a contemplative person with eyes closed, head resting on one hand, surrounded by stars.\">\n",
 				"date_published": "2025-06-30T11:16:07+01:00",
 				"url": "https://davidmarsden.info/2025/06/30/solitude.html",
 				"tags": ["Kids","Microposts"]
@@ -19,7 +181,7 @@
 				"id": "http://davidmarsden.micro.blog/2025/06/29/todays-salad-bowl.html",
 				
 				"content_html": "<p>Today&rsquo;s salad bowl.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today's salad bowl.\n\n<img src=\"uploads/2025/pxl-20250629-113038579.portrait.jpg\" width=\"600\" height=\"451\" alt=\"A vibrant salad featuring sliced avocado, olives, and small red peppers in a pink bowl.\">\n",
+				"content_text": "Today's salad bowl.\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/pxl-20250629-113038579.portrait.jpg\" width=\"600\" height=\"451\" alt=\"A vibrant salad featuring sliced avocado, olives, and small red peppers in a pink bowl.\">\n",
 				"date_published": "2025-06-29T13:57:32+01:00",
 				"url": "https://davidmarsden.info/2025/06/29/todays-salad-bowl.html",
 				"tags": ["Kids","Microposts"]
@@ -28,7 +190,7 @@
 				"id": "http://davidmarsden.micro.blog/2025/06/29/winding.html",
 				
 				"content_html": "<p>Winding 📷</p>\n<!-- raw HTML omitted -->\n<p>Latest update on this <a href=\"https://davidmarsden.info/2025/03/01/its-been-quite-a-week.html\">thread</a> - mum is expecting to move into the flat downstairs in early September, all being well.</p>\n",
-				"content_text": "Winding 📷\n\n<img src=\"uploads/2025/buttons2.jpg\" width=\"600\" height=\"374\" alt=\"Auto-generated description: A wall filled with numerous spools of thread in various colors is neatly organized in rows and columns.\">\n\nLatest update on this [thread](https://davidmarsden.info/2025/03/01/its-been-quite-a-week.html) - mum is expecting to move into the flat downstairs in early September, all being well.\n",
+				"content_text": "Winding 📷\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/buttons2.jpg\" width=\"600\" height=\"374\" alt=\"Auto-generated description: A wall filled with numerous spools of thread in various colors is neatly organized in rows and columns.\">\n\nLatest update on this [thread](https://davidmarsden.info/2025/03/01/its-been-quite-a-week.html) - mum is expecting to move into the flat downstairs in early September, all being well.\n",
 				"date_published": "2025-06-29T13:00:48+01:00",
 				"url": "https://davidmarsden.info/2025/06/29/winding.html",
 				"tags": ["Microposts"]
