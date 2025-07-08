@@ -7,10 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://davidmarsden.micro.blog/2025/07/08/current.html",
+				
+				"content_html": "<p>Current 📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Current 📷\n\n<img src=\"uploads/2025/screenshot-20250708-134533.png\" width=\"600\" height=\"577\" alt=\"A digital display shows a countdown from a specific date and time, providing the age in years, days, hours, and weeks, along with key milestones.\">\n",
+				"date_published": "2025-07-08T13:47:20+01:00",
+				"url": "https://davidmarsden.info/2025/07/08/current.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/07/07/confessions-of-a-failed-pop.html",
+				
+				"content_html": "<p><a href=\"https://hovercraftuk.bandcamp.com/album/back-from-the-grave\">Confessions</a> of a failed pop star.</p>\n",
+				"content_text": "[Confessions](https://hovercraftuk.bandcamp.com/album/back-from-the-grave) of a failed pop star.\n",
+				"date_published": "2025-07-07T21:16:18+01:00",
+				"url": "https://davidmarsden.info/2025/07/07/confessions-of-a-failed-pop.html",
+				"tags": ["Music","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/07/07/happier-here-yeah-no-not.html",
+				
+				"content_html": "<p><a href=\"https://davidmarsden.info/2025/07/03/slightly-less-ill-at-ease.html\">Happier</a> here, yeah? No, not really. Vertical 📷</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "[Happier](https://davidmarsden.info/2025/07/03/slightly-less-ill-at-ease.html) here, yeah? No, not really. Vertical 📷\n\n<img src=\"uploads/2025/9964c5b40a.jpg\" width=\"405\" height=\"600\" alt=\"A person wearing a red jacket stands in front of a body of water with the Washington Monument in the background.\">\n",
+				"date_published": "2025-07-07T14:19:15+01:00",
+				"url": "https://davidmarsden.info/2025/07/07/happier-here-yeah-no-not.html",
+				"tags": ["Kids","Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/07/07/the-then-london-mayors-chief.html",
+				
+				"content_html": "<p>The then London Mayor&rsquo;s chief of staff shares his <a href=\"https://open.substack.com/pub/modernleft/p/77-twenty-years-on\">memories</a> of twenty years ago today.</p>\n",
+				"content_text": "The then London Mayor's chief of staff shares his [memories](https://open.substack.com/pub/modernleft/p/77-twenty-years-on) of twenty years ago today.\n",
+				"date_published": "2025-07-07T10:39:39+01:00",
+				"url": "https://davidmarsden.info/2025/07/07/the-then-london-mayors-chief.html",
+				"tags": ["Microposts"]
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2025/07/06/echo-and-the-funnymen.html",
+				
+				"content_html": "<p>Echo 📷 and the Funnymen?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Echo 📷 and the Funnymen?\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/img-20180212-091235782.jpg\" width=\"600\" height=\"383\" alt=\"Two album covers are displayed: one with the text &quot;Why Do They Call Me Mr. Happy? No Means No&quot; and the other featuring &quot;Elvis Costello and the Attractions Get Happy!!&quot;.\">\n",
+				"date_published": "2025-07-06T11:17:53+01:00",
+				"url": "https://davidmarsden.info/2025/07/06/echo-and-the-funnymen.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://davidmarsden.micro.blog/2025/07/05/fragments-i-imagine-this-is.html",
 				
 				"content_html": "<p>📷 Fragments. I imagine this is what the inside of <a href=\"https://davidmarsden.info/2025/07/04/oh-ffs-i-think-i.html\">knee</a> looks like now.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Fragments. I imagine this is what the inside of [knee](https://davidmarsden.info/2025/07/04/oh-ffs-i-think-i.html) looks like now.\n\n<img src=\"uploads/2025/pxl-20230507-170020922.portrait.jpg\" width=\"450\" height=\"600\" alt=\"A close-up of a tree bark reveals deep cracks and textures, with a prominent crevice in the center.\">\n",
+				"content_text": "📷 Fragments. I imagine this is what the inside of [knee](https://davidmarsden.info/2025/07/04/oh-ffs-i-think-i.html) looks like now.\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/pxl-20230507-170020922.portrait.jpg\" width=\"450\" height=\"600\" alt=\"A close-up of a tree bark reveals deep cracks and textures, with a prominent crevice in the center.\">\n",
 				"date_published": "2025-07-05T13:51:43+01:00",
 				"url": "https://davidmarsden.info/2025/07/05/fragments-i-imagine-this-is.html",
 				"tags": ["Trees","Microposts"]
@@ -28,7 +73,7 @@
 				"id": "http://davidmarsden.micro.blog/2025/07/04/big-kid-persuaded-me-against.html",
 				
 				"content_html": "<p>Big kid persuaded me, against my better judgement, to join in with the parents&rsquo; race at Sports Day this morning. As the younger, fitter dads rapidly moved away from me I felt something go in my right knee and hobbled in pain to the finish line.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Big kid persuaded me, against my better judgement, to join in with the parents' race at Sports Day this morning. As the younger, fitter dads rapidly moved away from me I felt something go in my right knee and hobbled in pain to the finish line.\n\n<img src=\"uploads/2025/17516287300371771020517809856430.jpg\" width=\"451\" height=\"600\" alt=\"A person with a knee brace is sitting on a red cushion, with a fan and various objects in the background.\">\n",
+				"content_text": "Big kid persuaded me, against my better judgement, to join in with the parents' race at Sports Day this morning. As the younger, fitter dads rapidly moved away from me I felt something go in my right knee and hobbled in pain to the finish line.\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/17516287300371771020517809856430.jpg\" width=\"451\" height=\"600\" alt=\"A person with a knee brace is sitting on a red cushion, with a fan and various objects in the background.\">\n",
 				"date_published": "2025-07-04T12:33:16+01:00",
 				"url": "https://davidmarsden.info/2025/07/04/big-kid-persuaded-me-against.html",
 				"tags": ["Kids","Microposts"]
@@ -46,7 +91,7 @@
 				"id": "http://davidmarsden.micro.blog/2025/07/04/layers-roadtrip-from-boston-to.html",
 				
 				"content_html": "<p>Layers 📷 (1990 roadtrip from Boston to LA.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Layers 📷 (1990 roadtrip from Boston to LA.)\n\n<img src=\"uploads/2025/gc-copy.jpg\" width=\"600\" height=\"320\" alt=\"A breathtaking view of the Grand Canyon features layered rock formations and deep valleys.\">\n",
+				"content_text": "Layers 📷 (1990 roadtrip from Boston to LA.)\n\n<img src=\"https://eu.uploads.micro.blog/2588/2025/gc-copy.jpg\" width=\"600\" height=\"320\" alt=\"A breathtaking view of the Grand Canyon features layered rock formations and deep valleys.\">\n",
 				"date_published": "2025-07-04T08:49:32+01:00",
 				"url": "https://davidmarsden.info/2025/07/04/layers-roadtrip-from-boston-to.html",
 				"tags": ["Microposts"]
