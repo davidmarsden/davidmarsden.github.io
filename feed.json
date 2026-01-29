@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://davidmarsden.micro.blog/2026/01/29/breaking-claude-ai-the-murders.html",
+				
+				"content_html": "<p>BREAKING!</p>\n<p>Claude AI: &ldquo;&hellip;the murders of Renee Good and Alex Pretti by ICE agents in Minneapolis in January 2026 - did not happen.&rdquo;</p>\n",
+				"content_text": "BREAKING! \n\nClaude AI: \"...the murders of Renee Good and Alex Pretti by ICE agents in Minneapolis in January 2026 - did not happen.\"\n",
+				"date_published": "2026-01-29T09:52:22+00:00",
+				"url": "https://davidmarsden.info/2026/01/29/breaking-claude-ai-the-murders.html",
+				"tags": ["Microposts"]
+			},
+			{
 				"id": "http://davidmarsden.micro.blog/2026/01/26/craig-murray-discovers-venezuela-being.html",
 				
 				"content_html": "<p>Craig Murray discovers Venezuela!</p>\n<!-- raw HTML omitted -->\n",
@@ -64,7 +73,7 @@
 				"id": "http://davidmarsden.micro.blog/2026/01/19/baby-snail.html",
 				
 				"content_html": "<p>Baby snail.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Baby snail.\n\n<img src=\"uploads/2026/pxl-20260118-121445949.portrait2.jpg\" width=\"600\" height=\"337\" alt=\"A small snail with a brown shell is crawling on a textured, wet surface.\">\n",
+				"content_text": "Baby snail.\n\n<img src=\"https://eu.uploads.micro.blog/2588/2026/pxl-20260118-121445949.portrait2.jpg\" width=\"600\" height=\"337\" alt=\"A small snail with a brown shell is crawling on a textured, wet surface.\">\n",
 				"date_published": "2026-01-19T10:27:05+00:00",
 				"url": "https://davidmarsden.info/2026/01/19/baby-snail.html",
 				"tags": ["Microposts"]
