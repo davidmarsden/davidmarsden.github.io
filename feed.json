@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://davidmarsden.micro.blog/2026/09/17/following-on-from-the-success.html",
+				
+				"content_html": "<p>Following on from the success of <a href=\"https://hand.davidmarsden.info/drawing/\">Drawing Hand</a>, Elijah has created his own version of his favourite game, Geometry Dash.</p>\n<p>Not only that, but he wrote his own song to accompany the game play (musical accompaniment by Suno).</p>\n<p><video controls preload=\"metadata\" src=\"https://davidmarsden.info/uploads/2026/pxl-20260917-192107367.mp4\"></video></p>\n",
+				"content_text": "Following on from the success of [Drawing Hand](https://hand.davidmarsden.info/drawing/), Elijah has created his own version of his favourite game, Geometry Dash. \n\nNot only that, but he wrote his own song to accompany the game play (musical accompaniment by Suno).\n\n<video controls preload=\"metadata\" src=\"https://davidmarsden.info/uploads/2026/pxl-20260917-192107367.mp4\"></video>\n",
+				"date_published": "2026-09-17T20:54:26+01:00",
+				"url": "https://davidmarsden.info/2026/09/17/following-on-from-the-success.html"
+			},
+			{
+				"id": "http://davidmarsden.micro.blog/2026/09/17/venue-for-our-teams-away.html",
+				
+				"content_html": "<p>Venue for our team&rsquo;s away day today.</p>\n<img src=\"uploads/2026/pxl-20260917-0811117712.jpg\" width=\"600\" height=\"451\" alt=\"Auto-generated description: A black and white photo captures a gothic-style church with tall, pointed windows and a prominent steeple extending upward into the sky.\">\n",
+				"content_text": "Venue for our team's away day today.\n\n<img src=\"uploads/2026/pxl-20260917-0811117712.jpg\" width=\"600\" height=\"451\" alt=\"Auto-generated description: A black and white photo captures a gothic-style church with tall, pointed windows and a prominent steeple extending upward into the sky.\">\n",
+				"date_published": "2026-09-17T18:42:30+01:00",
+				"url": "https://davidmarsden.info/2026/09/17/venue-for-our-teams-away.html"
+			},
+			{
 				"id": "http://davidmarsden.micro.blog/2026/09/15/new-drawing-challenge-dropped.html",
 				
 				"content_html": "<p>New <a href=\"https://hand.davidmarsden.info/drawing/\">Drawing Challenge</a> dropped!</p>\n",
@@ -33,8 +49,8 @@
 			{
 				"id": "http://davidmarsden.micro.blog/2026/09/15/little-kid-is-armed-with.html",
 				
-				"content_html": "<p>Little kid is armed with freshly printed and cut business cards to share with his friends today.</p>\n<p><img src=\"https://davidmarsden.info/uploads/2026/pxl-20260915-065123477.portrait.jpg\" alt=\"\"></p>\n",
-				"content_text": "Little kid is armed with freshly printed and cut business cards to share with his friends today.\n\n![](https://davidmarsden.info/uploads/2026/pxl-20260915-065123477.portrait.jpg) \n",
+				"content_html": "<p>Little kid is armed with freshly printed and cut business cards to share with his friends today.</p>\n<p><img src=\"https://eu.uploads.micro.blog/2588/2026/pxl-20260915-065123477.portrait.jpg\" alt=\"\"></p>\n",
+				"content_text": "Little kid is armed with freshly printed and cut business cards to share with his friends today.\n\n![](https://eu.uploads.micro.blog/2588/2026/pxl-20260915-065123477.portrait.jpg) \n",
 				"date_published": "2026-09-15T07:56:17+01:00",
 				"url": "https://davidmarsden.info/2026/09/15/little-kid-is-armed-with.html"
 			},
