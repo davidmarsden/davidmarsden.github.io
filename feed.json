@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://davidmarsden.micro.blog/2026/09/27/listening-to-my-new-album.html",
+				
+				"content_html": "<p>Listening to my <a href=\"https://davidmarsden.info/music/\">new album</a>. As you do.</p>\n",
+				"content_text": "Listening to my [new album](https://davidmarsden.info/music/). As you do.\n",
+				"date_published": "2026-09-27T12:57:30+01:00",
+				"url": "https://davidmarsden.info/2026/09/27/listening-to-my-new-album.html"
+			},
+			{
 				"id": "http://davidmarsden.micro.blog/2026/09/23/two-weeks-into-the-new.html",
 				
 				"content_html": "<p>Two weeks into the new school year and <em>everyone</em> is coughing, sneezing and feeling like crap.</p>\n",
